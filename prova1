@@ -1,831 +1,768 @@
 Events
-Schulung Kundenbetreuer
-Ansprechpartner: 8858 Corporates Marketing
-Irene Müller-Gerstenbauer, 42053 DW
-Copyright © Bank Austria Creditanstalt AG. All rights reserved. Alle Rechte vorbehalten.
-Alle Rechte, insbesondere das Recht der Vervielfältigung und Verarbeitung sowie der Übersetzung,
-vorbehalten. Kein Teil des Werkes darf in irgendeiner Form (durch Fotokopie, Mikrofilm
-oder ein anderes Verfahren) ohne schriftliche Genehmigung des Bank Austria Creditanstalt
-Konzerns reproduziert oder unter Verwendung elektronischer Systeme gespeichert, verarbeitet,
-vervielfältigt oder verbreitet werden.
-Inhaltsverzeichnis
-1 Einleitung ..............................................................................................................................1
-1.1 Was ist die Events-Datenbank?.............................................................................................1
-1.2 Wer kann die Events-Datenbank benützen? .........................................................................2
-1.3 Wie ist der Organistationsablauf einer Veranstaltung?..........................................................3
-2 Ablauf der Schulung ............................................................................................................4
-3 Start der Anwendung...........................................................................................................5
-3.1 Aufgaben ................................................................................................................................5
-4 Der Anwendungsbereich.....................................................................................................6
-4.1 Mitarbeiter Suche ...................................................................................................................7
-5 Personen suchen und anzeigen .........................................................................................8
-5.1 Personensuche ......................................................................................................................8
-5.1.1 Ziel.............................................................................................................................8
-5.1.2 Beispiel ......................................................................................................................8
-5.1.3 Aufgaben .................................................................................................................11
-5.2 Personendaten .....................................................................................................................12
-5.2.1 Ziel...........................................................................................................................12
-5.2.2 Beispiel ....................................................................................................................12
-5.2.3 Aufgaben .................................................................................................................19
-6 Unternehmen suchen und anzeigen ................................................................................21
-6.1 Unternehmenssuche ............................................................................................................21
-6.1.1 Ziel...........................................................................................................................21
-6.1.2 Beispiel ....................................................................................................................21
-6.1.3 Aufgaben .................................................................................................................23
-6.2 Unternehmensdaten.............................................................................................................24
-6.2.1 Ziel...........................................................................................................................24
-6.2.2 Beispiel ....................................................................................................................24
-7 Einladen zu Veranstaltungen............................................................................................28
-7.1 Veranstaltungssuche............................................................................................................28
-7.1.1 Ziel...........................................................................................................................28
-7.1.2 Beispiel ....................................................................................................................28
-7.1.3 Aufgaben .................................................................................................................32
-7.2 Vorselektierter Personen bestätigen und streichen .............................................................33
-7.2.1 Ziel...........................................................................................................................33
-7.2.2 Beispiel ....................................................................................................................33
-7.2.3 Aufgaben .................................................................................................................34
-7.3 Zusätzlichen Personen nominieren......................................................................................35
-7.3.1 Ziele.........................................................................................................................35
-Events Schulung Kundenbetreuer Seite 3
-08/200708/2007
-7.3.2 Beispiel.................................................................................................................... 35
-7.3.3 Aufgaben................................................................................................................. 38
-7.4 Zusagen und Absagen eintragen......................................................................................... 39
-7.4.1 Ziele......................................................................................................................... 39
-7.4.2 Beispiel.................................................................................................................... 39
-7.4.3 Aufgaben................................................................................................................. 41
-7.5 Nominierungsdetails ............................................................................................................ 42
-7.5.1 Ziele......................................................................................................................... 42
-7.5.2 Beispiel.................................................................................................................... 42
-7.5.3 Aufgaben................................................................................................................. 43
-8 Hilfe! .................................................................................................................................... 44
-8.1 Wo finden Sie Informationen?.............................................................................................. 44
-8.2 Wer kann bei einem Problem helfen?.................................................................................. 44
-9 Vorbereitung einer Schulung............................................................................................ 46
+Formazione Responsabili Clienti
+Persona di contatto: 8858 Corporates Marketing
+Irene Müller-Gerstenbauer, 42053 int.
+Copyright © Bank Austria Creditanstalt AG. Tutti i diritti riservati. Tutti i diritti riservati.
+Tutti i diritti, in particolare il diritto di riproduzione e trattamento così come di traduzione,
+riservati. Nessuna parte dell'opera può essere riprodotta in qualsiasi forma (tramite fotocopia, microfilm
+o altro procedimento) senza autorizzazione scritta del gruppo Bank Austria Creditanstalt
+o memorizzata, elaborata, riprodotta o diffusa utilizzando sistemi elettronici.
 
-Events Schulung Kundenbetreuer Seite 1
+Indice
+1 Introduzione ..............................................................................................................................1
+1.1 Cos'è il database Events?.............................................................................................1
+1.2 Chi può utilizzare il database Events? .........................................................................2
+1.3 Come si svolge l'organizzazione di un evento?..........................................................3
+2 Svolgimento della formazione ............................................................................................................4
+3 Avvio dell'applicazione...........................................................................................................5
+3.1 Compiti ................................................................................................................................5
+4 L'area applicativa.....................................................................................................6
+4.1 Ricerca Collaboratori ...................................................................................................................7
+5 Cercare e visualizzare persone .........................................................................................8
+5.1 Ricerca persone ......................................................................................................................8
+5.1.1 Obiettivo.............................................................................................................................8
+5.1.2 Esempio ......................................................................................................................8
+5.1.3 Compiti .................................................................................................................11
+5.2 Dati personali .....................................................................................................................12
+5.2.1 Obiettivo...........................................................................................................................12
+5.2.2 Esempio ....................................................................................................................12
+5.2.3 Compiti .................................................................................................................19
+6 Cercare e visualizzare aziende ................................................................................21
+6.1 Ricerca aziende ............................................................................................................21
+6.1.1 Obiettivo...........................................................................................................................21
+6.1.2 Esempio ....................................................................................................................21
+6.1.3 Compiti .................................................................................................................23
+6.2 Dati aziendali.............................................................................................................24
+6.2.1 Obiettivo...........................................................................................................................24
+6.2.2 Esempio ....................................................................................................................24
+7 Invitare a eventi............................................................................................28
+7.1 Ricerca eventi............................................................................................................28
+7.1.1 Obiettivo...........................................................................................................................28
+7.1.2 Esempio ....................................................................................................................28
+7.1.3 Compiti .................................................................................................................32
+7.2 Confermare e cancellare persone preselezionate .............................................................33
+7.2.1 Obiettivo...........................................................................................................................33
+7.2.2 Esempio ....................................................................................................................33
+7.2.3 Compiti .................................................................................................................34
+7.3 Nominare persone aggiuntive......................................................................................35
+7.3.1 Obiettivi.........................................................................................................................35
+
+Events Formazione Responsabili Clienti Pagina 3
+08/200708/2007
+7.3.2 Esempio.................................................................................................................... 35
+7.3.3 Compiti................................................................................................................. 38
+7.4 Inserire conferme e rifiuti......................................................................................... 39
+7.4.1 Obiettivi......................................................................................................................... 39
+7.4.2 Esempio.................................................................................................................... 39
+7.4.3 Compiti................................................................................................................. 41
+7.5 Dettagli nomina ............................................................................................................ 42
+7.5.1 Obiettivi......................................................................................................................... 42
+7.5.2 Esempio.................................................................................................................... 42
+7.5.3 Compiti................................................................................................................. 43
+8 Aiuto! .................................................................................................................................... 44
+8.1 Dove trovare informazioni?.............................................................................................. 44
+8.2 Chi può aiutare in caso di problemi?.................................................................................. 44
+9 Preparazione di una formazione............................................................................................ 46
+
+Events Formazione Responsabili Clienti Pagina 1
 08/2007
-1 Einleitung
-1.1 Was ist die Events-Datenbank?
-Mit der Events-Datenbank wurde ein Instrument entwickelt, welches bei der Planung und
-Umsetzung von Marketingaktivitäten rund um das Thema Veranstaltungen wesentliche
-Qualitätsverbesserungen bringt.
-Besonderes Augenmerk wurde bei der Entwicklung auf die Effizienzsteigerung im
-Einladungsablauf, die Verbesserung der Datenqualität, die Vermeidung von
-Doppelgleisigkeiten und die Erleichterung bei der Zielgruppenauswahl gelegt.
-Die Events-Datenbank löste "Insellösungen" im Bereich der Marketingdatenbanken im Haus
-ab (z.B. geführte VIP-Datenbanken in Regionen und Zentralen Abteilungen) und greift primär
-auf Daten aus OLAV zu. Dadurch werden zeitintensive manuelle Abgleiche vermieden und die
-Datenqualität verbessert.
-Die Events-Datenbank basiert auf Intranet und erlaubt den Zugriff sowohl durch
-veranstaltungsplanende Stellen als auch involvierten KundenbetreuerInnen online. Ein
-Zwischenstand bzw. Endlisten bezüglich eingeladener und angemeldeter Kunden in jedem
-Stadium der Veranstaltungsorganisation ist für alle Beteiligten ersichtlich, ebenso werden
-Doppeleinladungen durch Betreuer und etwaige Zusatzbetreuer durch die Anzeige des
-jeweiligen "Ersteinladers" vermieden. Das System ist dynamisch, auf einen bereits
-eingeladenen Personenkreis kann bei Folgeveranstaltungen zugegriffen werden.
-Die Vorteile auf einem Blick:
- Ablöse bestehender Insellösungen. Übernahme und Updates der Daten aus Olav (keine
-Doppelwartung mehr nötig.
- Keine Kundeneinmeldungen per Excel-Sheet oder Dirma-Streichlisten mehr nötig.
- Selektion der Kunden auch nach Interessen/Produktinteressen (z.B. Golf, Treasury, etc.)
-möglich.
- Automatischer Abgleich von Doppeleinladungen
- Automatische Erstellung von Listen (z.B. eingeladene Kunden), die für Folgeveranstaltungen
-wieder eingesetzt werden können (= Archivierung der Einladungslisten).
- Effiziente und anwenderfreundliche Abwicklung des Einladungsmodus.
-Seite 2 Events Schulung Kundenbetreuer
+1 Introduzione
+1.1 Cos'è il database Events?
+Con il database Events è stato sviluppato uno strumento che apporta miglioramenti qualitativi sostanziali nella pianificazione e realizzazione di attività di marketing relative agli eventi.
+
+Particolare attenzione è stata posta nello sviluppo sull'aumento dell'efficienza nel processo di invito, sul miglioramento della qualità dei dati, sull'evitare duplicazioni e sulla facilitazione nella selezione dei gruppi target.
+
+Il database Events ha sostituito "soluzioni isolate" nell'area dei database di marketing dell'istituto (ad es. database VIP gestiti nelle regioni e nei dipartimenti centrali) e attinge principalmente ai dati di OLAV. In questo modo si evitano confronti manuali dispendiosi in termini di tempo e si migliora la qualità dei dati.
+
+Il database Events si basa su Intranet e consente l'accesso online sia da parte degli uffici che pianificano gli eventi sia dei responsabili clienti coinvolti. Uno stato intermedio o liste finali relative ai clienti invitati e registrati in ogni fase dell'organizzazione dell'evento è visibile a tutti i partecipanti, inoltre si evitano inviti doppi da parte dei responsabili ed eventuali co-responsabili attraverso la visualizzazione del rispettivo "primo invitante". Il sistema è dinamico, è possibile accedere a un gruppo di persone già invitate per eventi successivi.
+
+I vantaggi in sintesi:
+ Sostituzione delle soluzioni isolate esistenti. Acquisizione e aggiornamenti dei dati da Olav (non è più necessaria la doppia manutenzione.
+ Non sono più necessarie registrazioni clienti tramite fogli Excel o liste di cancellazione Dirma.
+ Selezione dei clienti anche in base a interessi/interessi di prodotto (ad es. Golf, Treasury, ecc.) possibile.
+ Controllo automatico degli inviti doppi
+ Creazione automatica di liste (ad es. clienti invitati), che possono essere riutilizzate per eventi successivi (= archiviazione delle liste inviti).
+ Gestione efficiente e user-friendly della modalità di invito.
+
+Pagina 2 Events Formazione Responsabili Clienti
 08/2007
-1.2 Wer kann die Events-Datenbank benützen?
-Die Events-Datenbank ist für Veranstaltungsplaner und Kundenbetreuer konzipiert.
-Veranstaltungsplaner sind Mitarbeiter des Zentralen Marketings, aus Group Public Relations und
-Regionale Marketingmanager.
-Diese Personen planen Veranstaltungen und legen sie in Events samt Zielgruppenbeschreibung
-und inhaltlichen Details für die Kundenbetreuer an.
-Nach der Teilnehmernominierung durch die Kundenbetreuer führen sie die Veranstaltung durch
-(Versendung der Einladungen, Wartung der Zusagen- und Absagenliste).
-Kundenbetreuer rufen die jeweilige Veranstaltung in Events auf und wählen ihre Kunden lt.
-Beschreibung der Zielgruppendefinition durch den Veranstaltungsplaner. Events liefert nach den
-ausgewählten Kriterien eine Kundenaufstellung auf welcher der Kundenbetreuer per Mausklick
-für die Einladung nominieren kann.
-Da auch Zusatzbetreuer die Möglichkeit haben, Einladungen vorzunehmen, wird bei jedem
-Kunden angezeigt, ob bzw. von wem (durch Personalnummer und Namen) dieser bereits
-eingeladen wurde.
-Anwenderrollen und Berechtigungen:
-Aus den oben kurz beschriebenen Anwenderarten ergeben sich drei verschiedene
-Anwenderrollen bzw. Benützungsberechtigungen:
-Kundenbetreuer/BetreuungsassistInnen sind berechtigt
- Personen zu Veranstaltungen einzuladen
-Veranstaltungsplaner (Corporate Marketing, Group Public Relation, Regionale
-Marketingmanager):
- haben alle Berechtigungen eines Kundenbetreuers,
- können VIPs in Events anlegen (= Politiker, Journalisten, Botschafter etc., welche nicht als
-Kunden in OLAV angelegt sind) und mit dem Sigel VIP versehen und
- Veranstaltungen planen und durchführen
-Administratoren (Corporate Marketing, Group Public Relation) haben
- alle Berechtigungen eines Veranstaltungsplaners und können
- die Events-Datenbank um neue Marketingattribute wie Events-Funktionen erweitern.
- Definieren Veranstaltungsplaner.
-Events Schulung Kundenbetreuer Seite 3
+1.2 Chi può utilizzare il database Events?
+Il database Events è progettato per gli organizzatori di eventi e i responsabili clienti.
+Gli organizzatori di eventi sono collaboratori del Marketing Centrale, di Group Public Relations e Manager Marketing Regionali.
+
+Queste persone pianificano eventi e li creano in Events insieme alla descrizione del gruppo target e ai dettagli contenutistici per i responsabili clienti.
+
+Dopo la nomina dei partecipanti da parte dei responsabili clienti, conducono l'evento (invio degli inviti, gestione della lista delle conferme e dei rifiuti).
+
+I responsabili clienti richiamano il rispettivo evento in Events e selezionano i loro clienti secondo la descrizione della definizione del gruppo target da parte dell'organizzatore dell'evento. Events fornisce un elenco clienti secondo i criteri selezionati sul quale il responsabile clienti può nominare per l'invito con un clic del mouse.
+
+Poiché anche i co-responsabili hanno la possibilità di effettuare inviti, viene visualizzato per ogni cliente se e da chi (tramite numero personale e nome) è già stato invitato.
+
+Ruoli utente e autorizzazioni:
+Dai tipi di utente brevemente descritti sopra derivano tre diversi ruoli utente o autorizzazioni di utilizzo:
+
+Responsabili clienti/Assistenti di gestione sono autorizzati a
+ Invitare persone a eventi
+
+Organizzatori di eventi (Corporate Marketing, Group Public Relation, Manager Marketing Regionali):
+ hanno tutte le autorizzazioni di un responsabile clienti,
+ possono creare VIP in Events (= politici, giornalisti, ambasciatori ecc., che non sono registrati come clienti in OLAV) e contrassegnarli con il sigillo VIP e
+ Pianificare e condurre eventi
+
+Amministratori (Corporate Marketing, Group Public Relation) hanno
+ tutte le autorizzazioni di un organizzatore di eventi e possono
+ espandere il database Events con nuovi attributi di marketing come funzioni Events.
+ Definire organizzatori di eventi.
+
+Events Formazione Responsabili Clienti Pagina 3
 08/2007
-1.3 Wie ist der Organistationsablauf einer Veranstaltung?
-Anlegen und Planen einer Veranstaltung
-Veranstaltungen können zentral oder regional geplant werden. Zentral legen Mitarbeiter aus dem
-Group Marketing oder Group Public Relations, auf regionaler Ebene die regionalen
-Marketingmanager eine neue Veranstaltung in Events an. Sie geben den Veranstaltungstitel, das
-Veranstaltungsdatum, den Veranstaltungsort, eine Inhaltsbeschreibung und eine
-Einladungsschluss und einen Web-Link mit weiterführenden Informationen zu dem
-Veranstaltungsprogramm. Bei Bedarf kann auch eine Kontingentierung (maximale
-Teilnehmerzahl) und die Teilnahme von Regionen/stellen eingegeben werden. In einem Raum
-für Notizen gibt er die genaue Zielgruppenbeschreibung ab und es besteht die Möglichkeit einer
-direkten Vorselektion (Vorschlagsliste) und Nominierung von Kunden.
-Danach erfolgt die Information der involvierten Kundenbetreuer.
-Teilnehmerauswahl:
-Die Kundenbetreuer streichen oder bestätigen Kunden aus der vom Veranstaltungsplaner
-erstellte Vorschlagsliste. Weiters wählen die Kundenbetreuer aufgrund der angegebenen
-Zielgruppenbeschreibung per Mausklick jene Personen und Ansprechpartner von Unternehmen
-aus, welche eingeladen werden sollen.
-Doppeleinladungen durch etwaige andere Betreuer werden vermieden, da für den
-Kundenbetreuer innerhalb der Liste ersichtlich ist, ob und von wem, der eine oder andere Kunde
-bereits eingeladen wurde. Eine zweifache Einladung zu ein und derselben Veranstaltung ist also
-nicht möglich.
-Einladungsproduktion und -versendung:
-Nach Abschluss der Auswahl der Einzuladenden erfolgt die Einladungsproduktion und
-Versendung. Auf welchem Informationskanal dies erfolgt, ist ebenfalls bei der
-Veranstaltungsbeschreibung durch den Veranstaltungsplaner definiert (Post, E-Mail oder
-Telefon). Für die Einladungsproduktion stellt das System ebenfalls diverse Tools zur Verfügung,
-z.B. die Erstellung eines Serienbriefes, welcher direkt auf die Adressen der Zusageliste zugreift.
-Kundenzusagen:
-Eingehende Anmeldungen werden in Events eingepflegt. Je nach Veranstaltung werden die
-Zusagen vom Veranstaltungsplaner oder auch direkt vom Kundenbetreuer eingepflegt. Für eine
-Nachbearbeitung oder rein zur Information ist ein Zwischenstand über eingehende Zusagen bzw.
-Absagen für jeden Kundenbetreuer jederzeit ersichtlich.
-Nach Anmeldeschluss können Teilnehmerlisten, Tischkarten etc. erstellt werden.
-Nach der Veranstaltung:
-Die Veranstaltung bleibt im System bis 3 Jahre nach dem Veranstalstungsdatum. Die
-ausgewählten Teilnehmer können für künftige Veranstaltungen zu gleichem oder ähnlichem
-Thema wieder verwendet werden (d.h. Teilnehmerlisten werden archiviert).
-Seite 4 Events Schulung Kundenbetreuer
+1.3 Come si svolge l'organizzazione di un evento?
+Creazione e pianificazione di un evento
+Gli eventi possono essere pianificati centralmente o regionalmente. A livello centrale i collaboratori di Group Marketing o Group Public Relations, a livello regionale i manager marketing regionali creano un nuovo evento in Events. Inseriscono il titolo dell'evento, la data dell'evento, il luogo dell'evento, una descrizione del contenuto e una scadenza per gli inviti e un link web con ulteriori informazioni sul programma dell'evento. Se necessario, può essere inserito anche un contingente (numero massimo di partecipanti) e la partecipazione di regioni/sedi. In uno spazio per note fornisce l'esatta descrizione del gruppo target e c'è la possibilità di una preselezione diretta (lista di proposte) e nomina di clienti.
+
+Successivamente avviene l'informazione dei responsabili clienti coinvolti.
+
+Selezione partecipanti:
+I responsabili clienti cancellano o confermano i clienti dalla lista di proposte creata dall'organizzatore dell'evento. Inoltre, i responsabili clienti selezionano con un clic del mouse quelle persone e interlocutori di aziende che devono essere invitati sulla base della descrizione del gruppo target indicata.
+
+Si evitano inviti doppi da parte di eventuali altri responsabili, poiché per il responsabile clienti è visibile all'interno della lista se e da chi è già stato invitato l'uno o l'altro cliente. Un invito doppio allo stesso evento non è quindi possibile.
+
+Produzione e invio inviti:
+Dopo il completamento della selezione degli invitati avviene la produzione e l'invio degli inviti. Su quale canale informativo questo avvenga è anch'esso definito nella descrizione dell'evento dall'organizzatore dell'evento (posta, e-mail o telefono). Per la produzione degli inviti il sistema mette a disposizione anche diversi strumenti, ad es. la creazione di una lettera circolare che accede direttamente agli indirizzi della lista conferme.
+
+Conferme clienti:
+Le registrazioni in arrivo vengono inserite in Events. A seconda dell'evento, le conferme vengono inserite dall'organizzatore dell'evento o direttamente dal responsabile clienti. Per una post-elaborazione o puramente per informazione, uno stato intermedio sulle conferme o rifiuti in arrivo è visibile in qualsiasi momento per ogni responsabile clienti.
+
+Dopo la scadenza delle registrazioni possono essere create liste partecipanti, segnaposti ecc.
+
+Dopo l'evento:
+L'evento rimane nel sistema fino a 3 anni dopo la data dell'evento. I partecipanti selezionati possono essere riutilizzati per eventi futuri sullo stesso o simile tema (cioè le liste partecipanti vengono archiviate).
+
+Pagina 4 Events Formazione Responsabili Clienti
 08/2007
-2 Ablauf der Schulung
-Nach der kurzen Einführung zur grundsätzlichen Organisation von zentralen und regionalen
-Veranstaltungen, werden die für den Kundenbetreuer/Betreuungsassistenten wichtigen
-Funktionen von Events anhand einer Veranstaltung simuliert.
-Als ergänzende Unterlage wird die Events Benutzerdokumentation verwendet. In dieser
-Benutzerdokumentation finden sie genaue Beschreibungen zu den einzelnen Funktionen.
-Die Schulung gliedert sich in eine Serie von Übungen. Die Übungen sind aufbauend. Daher
-müssen die Teilnehmer, die Übungsaufgaben gemäß den Vorgaben abarbeiten.
-Aufbau einer Übung:
- Vorstellung des Übungszieles.
-Zu jedem Kapitel der Schulung werden vom Übungsleiter zunächst die relevanten Ziele und
-Funktionen vorgestellt.
- Präsentation eines Beispiels durch den Übungsleiter.
-Im Rahmen der Schulung übernimmt der Übungsleiter die Rolle des Veranstaltungsplaners.
-Bitte verfolgen sie diesen Teil der Vorführung.
- Lösung der Übungsaufgabe durch die Kursteilnehmer
- Beantwortung von Fragen
-TIPP: Neben den Querverweisen zur Dokumentation werden auch Tipps zur effizienten
-Verwendung gegeben.
-Events Schulung Kundenbetreuer Seite 5
+2 Svolgimento della formazione
+Dopo la breve introduzione all'organizzazione generale di eventi centrali e regionali, le funzioni importanti di Events per il responsabile clienti/assistente di gestione vengono simulate tramite un evento.
+
+Come documentazione integrativa viene utilizzata la documentazione utente Events. In questa documentazione utente troverete descrizioni precise delle singole funzioni.
+
+La formazione è strutturata in una serie di esercizi. Gli esercizi sono progressivi. Pertanto i partecipanti devono svolgere i compiti degli esercizi secondo le specifiche.
+
+Struttura di un esercizio:
+ Presentazione dell'obiettivo dell'esercizio.
+Per ogni capitolo della formazione vengono prima presentati dal formatore gli obiettivi e le funzioni rilevanti.
+ Presentazione di un esempio da parte del formatore.
+Nell'ambito della formazione il formatore assume il ruolo dell'organizzatore dell'evento. Si prega di seguire questa parte della dimostrazione.
+ Soluzione del compito dell'esercizio da parte dei partecipanti al corso
+ Risposta alle domande
+
+SUGGERIMENTO: Oltre ai riferimenti incrociati alla documentazione vengono forniti anche suggerimenti per un uso efficiente.
+
+Events Formazione Responsabili Clienti Pagina 5
 08/2007
-3 Start der Anwendung
-Sie können Events folgendermaßen starten:
- Mitarbeitermappe: Marketing, Verkauf und Werbung / Events –
-Veranstaltungsdatenbank
- Anwendungsübersicht: BA-CA Intranet / Events – Veranstaltungsdatenbank
- Internetexplorer: http://fkevents.intranet.lan.at
-Es erscheint folgende Anmeldemaske:
-Achtung: Bei dieser Anmeldung ist das Hostkennwort und nicht das Intranetkennwort zu
-verwenden.
-TIPP: Beim Start aus der Mitarbeitermappe und aus der Anwendungsübersicht entfällt die
-Anmeldung bei Events.
-Hinweis: Sollten sie in einem Browserfenster länger als 2 Stunden nicht arbeiten, so erscheint
-ebenfalls dieses Anmeldeformular.
-Nach dem Start der Anwendung gelangen sie in die Veranstaltungssuche:
-3.1 Aufgaben
- Start über den Internet Explorer über den Link http://fkevents.intranet.lan.at
-Alle melden sich mit ihrer Personalnummer und ihrem aktuellen Hostkennwort bei Events
-an.
- Start von Events aus der Mitarbeitermappe.
-Seite 6 Events Schulung Kundenbetreuer
+3 Avvio dell'applicazione
+È possibile avviare Events nei seguenti modi:
+ Cartella collaboratori: Marketing, Vendite e Pubblicità / Events – Database eventi
+ Panoramica applicazioni: BA-CA Intranet / Events – Database eventi
+ Internet Explorer: http://fkevents.intranet.lan.at
+
+Appare la seguente maschera di accesso:
+
+Attenzione: Per questo accesso è necessario utilizzare la password host e non la password intranet.
+
+SUGGERIMENTO: All'avvio dalla cartella collaboratori e dalla panoramica applicazioni l'accesso a Events non è necessario.
+
+Nota: Se non si lavora in una finestra del browser per più di 2 ore, appare anche questo modulo di accesso.
+
+Dopo l'avvio dell'applicazione si accede alla ricerca eventi:
+
+3.1 Compiti
+ Avvio tramite Internet Explorer tramite il link http://fkevents.intranet.lan.at
+Tutti si registrano in Events con il proprio numero personale e la password host attuale.
+ Avvio di Events dalla cartella collaboratori.
+
+Pagina 6 Events Formazione Responsabili Clienti
 08/2007
-4 Der Anwendungsbereich
-Der Anwendungsbereich von Events ist folgendermaßen aufgebaut:
- Überschriftsbalken:
-o Logo: Das BACA Logo ist ein Hyperlink zum Fehlerformular der Anwendung
-o Titel der Anwendung
- Navigation
-o Benutzerauswahl: Auswahl eines Benutzers ihrer Stelle, wenn sie stellvertretend
-für diesen Benutzer mit Events arbeiten wollen. Wenn sie zu einem Benutzer
-einer anderen Stelle wechseln wollen, gelangen sie durch Auswahl des
-Eintrages <Suchen…> in die „Mitarbeiter Suche“.
-o Themennavigation: Hauptmenüpunkte der Anwendung
-o Objektnavigation: Menüpunkte zu einem Objekt wie Veranstaltung oder Person
- Anwendungsformular
-o Formulartitel: Hier finden sie auf manchen Formularen auch einen Link zur
-Anwendungshilfe.
-o Inhalt des Formulars mit Eingabecontrols, Buttons, Tooltipps und Hyperlinks.
-Events Schulung Kundenbetreuer Seite 7
+4 L'area applicativa
+L'area applicativa di Events è strutturata come segue:
+ Barra titolo:
+o Logo: Il logo BACA è un hyperlink al modulo errori dell'applicazione
+o Titolo dell'applicazione
+ Navigazione
+o Selezione utente: Selezione di un utente della propria sede, se si vuole lavorare con Events in rappresentanza di questo utente. Se si vuole passare a un utente di un'altra sede, si accede alla "Ricerca collaboratori" selezionando la voce <Cerca…>.
+o Navigazione tematica: Voci di menu principali dell'applicazione
+o Navigazione oggetti: Voci di menu per un oggetto come evento o persona
+ Modulo applicazione
+o Titolo modulo: Qui si trova in alcuni moduli anche un link all'aiuto dell'applicazione.
+o Contenuto del modulo con controlli di input, pulsanti, tooltip e hyperlink.
+
+Events Formazione Responsabili Clienti Pagina 7
 08/2007
-4.1 Mitarbeiter Suche
-In der Benutzerauswahl (oberhalb der Themennavigation) oder in der Auswahlliste „Mitarb.“
-(Auswahlliste aus dem Eingabebereich „Region/Stelle/Mitarb.“, das in den diversen Formularen
-verwendet wird), kann immer nur direkt ein Mitarbeiter der jeweiligen Stelle ausgewählt werden.
-Über eine Mitarbeitersuche können Mitarbeiter über verschiedene Selektionskriterien gesucht
-und übernommen werden.
- Um einen Mitarbeiter von einer anderen Stelle zu selektieren, wählen sie in der Auswahlliste
-der Mitarbeiter den Eintrag „<Suchen…>“:
- Über die Suchkriterien können sie die Suche einschränken, wobei für Abkürzung von
-Feldinhalten ein „*“ verwendet werden kann.
- Mit der Schaltfläche Suche wird die Suche gestartet und die gefunden Mitarbeiter in der
-Trefferliste Angezeigt.
- Der zu übernehmende ist über den  Auswahlknopfes links neben der Personalnummer
-auszuwählen.
- Mit der Schaltfläche Übernehmen werden die Daten des Mitarbeiters übernommen.
-Seite 8 Events Schulung Kundenbetreuer
+4.1 Ricerca Collaboratori
+Nella selezione utente (sopra la navigazione tematica) o nella lista di selezione "Collabs." (lista di selezione dall'area di input "Regione/Sede/Collab.", utilizzata nei vari moduli), può essere sempre selezionato direttamente solo un collaboratore della rispettiva sede.
+
+Tramite una ricerca collaboratori si possono cercare e acquisire collaboratori tramite vari criteri di selezione.
+
+ Per selezionare un collaboratore di un'altra sede, selezionare nella lista di selezione dei collaboratori la voce "<Cerca…>":
+
+ Tramite i criteri di ricerca si può limitare la ricerca, dove per le abbreviazioni del contenuto dei campi può essere utilizzato un "*".
+
+ Con il pulsante Cerca viene avviata la ricerca e i collaboratori trovati vengono visualizzati nella lista risultati.
+
+ Quello da acquisire va selezionato tramite il  pulsante di selezione a sinistra del numero personale.
+
+ Con il pulsante Acquisisci vengono acquisiti i dati del collaboratore.
+
+Pagina 8 Events Formazione Responsabili Clienti
 08/2007
-5 Personen suchen und anzeigen
-Das Kapitel Suche Pflege von Personendaten soll sie mit der Personensuche von Events vertraut
-machen und ihnen die - zu OLAV ergänzenden - Dateninhalte von Events vorstellen.
-Wenn sie Personendaten in Events anzeigen oder pflegen wollen, so müssen sie die Person
-suchen und die Objektsicht der Person öffnen. Alternativ kann die Objektsicht einer Person aus
-den diversen Formularen wie z.B. der Einladungsliste einer Veranstaltung über Hyperlinks
-geöffnet werden.
-5.1 Personensuche
-5.1.1 Ziel
- Suchkriterien für Personen kennen lernen.
- Eine bestimmte Person suchen.
- Aufbau der Trefferliste kennen lernen.
-5.1.2 Beispiel
- Personensuche über die Themennavigation Menüpunkt „Personen“ öffnen.
- In der Suche ist automatisch ihre Region/Stelle/Mitarb. eingestellt.
-Hinweis: Eine Einschränkung auf Region/Stelle/Mitarb bzw. PLZ. und Ort wirkt sich sowohl auf
-Personen, die als auch auf Unternehmen (siehe Lasche Unternehmen(1)) aus.
- Für diese Übung Einschränkung für Region entfernen und in der Lasche Person den
-Zunamen „Dollinger“ eingeben und die Suche mit Klick auf die Schaltfläche Suchen starten:
-Events Schulung Kundenbetreuer Seite 9
+5 Cercare e visualizzare persone
+Il capitolo Ricerca Gestione dati personali ha lo scopo di familiarizzarvi con la ricerca persone di Events e presentarvi i contenuti dati di Events - integrativi a OLAV.
+
+Se si vogliono visualizzare o gestire dati personali in Events, è necessario cercare la persona e aprire la vista oggetto della persona. In alternativa la vista oggetto di una persona può essere aperta dai vari moduli come ad es. la lista inviti di un evento tramite hyperlink.
+
+5.1 Ricerca persone
+5.1.1 Obiettivo
+ Conoscere i criteri di ricerca per le persone.
+ Cercare una persona specifica.
+ Conoscere la struttura della lista risultati.
+
+5.1.2 Esempio
+ Aprire la ricerca persone tramite la navigazione tematica voce di menu "Persone".
+ Nella ricerca è automaticamente impostata la vostra Regione/Sede/Collab.
+
+Nota: Una limitazione su Regione/Sede/Collab. o CAP. e Località ha effetto sia sulle persone che sulle aziende (vedi scheda Aziende(1)).
+
+ Per questo esercizio rimuovere la limitazione per Regione e nella scheda Persona inserire il cognome "Dollinger" e avviare la ricerca con clic sul pulsante Cerca:
+
+Events Formazione Responsabili Clienti Pagina 9
 08/2007
- Nachdem Personen auch in OLAV gesucht werden ( Checkbox inkl. Olav ist selektiert) und
-die Suche auf keinen Mitarbeiter eingeschränkt wurde, werden sehr viele Treffer erzielt.
- Schränken sie die Trefferliste weiter ein, indem sie die Suchkriterien auf der Lasche
-„Unternehmen(1)“ mit dem Firmennamen „Tyrolit“ ergänzen. Damit werden nur Personen
-gesucht, die Ansprechpartner von Unternehmen „Tyrolit“ zugeordnet sind. Starten sie die
-Suche mit Klick auf die Schaltfläche Suchen:
-Seite 10 Events Schulung Kundenbetreuer
+ Poiché le persone vengono cercate anche in OLAV ( checkbox incl. Olav è selezionata) e la ricerca non è stata limitata a nessun collaboratore, si ottengono molti risultati.
+
+ Limitare ulteriormente la lista risultati completando i criteri di ricerca sulla scheda "Aziende(1)" con il nome azienda "Tyrolit". In questo modo vengono cercate solo le persone che sono assegnate come interlocutori alle aziende "Tyrolit". Avviare la ricerca con clic sul pulsante Cerca:
+
+Pagina 10 Events Formazione Responsabili Clienti
 08/2007
- Die Trefferliste wird entsprechend kleiner. Die Person „Peter Dollinger“ ist mehreren
-Unternehmen als Ansprechpartner zugeordnet.
-TIPP: Die OLAV-Kundennummer der Person und des Unternehmens können angezeigt werden,
-wenn man den Mauszeiger über dem Namen der Person resp. des Unternehmens positioniert.
-Wenn sie den Mauszeiger über der Adresse positionieren, wird die gesamte Adresse angezeigt.
- Mit Klick auf die Schaltfläche Neue Suche stellen Sie die Standard-Auswahlmaske wieder
-her. Der angemeldete Mitarbeiter wird automatisch angezeigt:
- Wechsel sie nun zur Lasche „Unternehmen (2)“. In der Gruppe „Kategorien“ die Einstellung
-„Großbetriebe (> 40 Mio Euro)“ vornehmen und die Suche mit der Schaltfläche Suchen
-starten:
-Events Schulung Kundenbetreuer Seite 11
+ La lista risultati diventa corrispondentemente più piccola. La persona "Peter Dollinger" è assegnata a più aziende come interlocutore.
+
+SUGGERIMENTO: Il numero cliente OLAV della persona e dell'azienda possono essere visualizzati se si posiziona il puntatore del mouse sul nome della persona risp. dell'azienda. Se si posiziona il puntatore del mouse sull'indirizzo, viene visualizzato l'indirizzo completo.
+
+ Con clic sul pulsante Nuova ricerca si ripristina la maschera di selezione standard. Il collaboratore registrato viene visualizzato automaticamente:
+
+ Passare ora alla scheda "Aziende (2)". Nel gruppo "Categorie" effettuare l'impostazione "Grandi aziende (> 40 Mio Euro)" e avviare la ricerca con il pulsante Cerca:
+
+Events Formazione Responsabili Clienti Pagina 11
 08/2007
- Es werden nun alle Ansprechpartner in Großbetrieben angezeigt, in denen der Betreuer„Karl-
-Heinz Tissen“ im Betreuungsteam der Person oder in einem Unternehmen ist.
- Nun können diese Ansprechpartner über die Lasche „Ansprechpartner“ weiter auf z.B.
-„Vorstände“ und „Aufsichtsräte“ eingeschränkt werden. Mit Klick auf die Schaltfläche Suchen
-erhalten sie die neue Trefferliste:
-Hinweis: Wenn in den Suchkriterien in der Lasche „Person(1)“ bzw. in „Unternehmen(1)“ eine
-Kundennummer eingegeben wird, werden alle anderen Kriterien ignoriert.
-5.1.3 Aufgaben
- Suchen sie alle Personen und alle Ansprechpartner in einem Unternehmen die von ihnen
-betreut werden.
- Schränken sie die Suche auf alle Ansprechpartner in Unternehmen der Kategorien
-„Großbetriebe“ und „Mittelbetriebe“ ein.
- Schränken sie die Suche weiter auf „Vorstände“ und „Geschäftsführer“ ein.
-Seite 12 Events Schulung Kundenbetreuer
+ Vengono ora visualizzati tutti gli interlocutori in grandi aziende in cui il responsabile "Karl-Heinz Tissen" è nel team di gestione della persona o in un'azienda.
+
+ Ora questi interlocutori possono essere ulteriormente limitati tramite la scheda "Interlocutori" ad es. a "Consigli di amministrazione" e "Consigli di sorveglianza". Con clic sul pulsante Cerca si ottiene la nuova lista risultati:
+
+Nota: Se nei criteri di ricerca nella scheda "Persona(1)" o in "Aziende(1)" viene inserito un numero cliente, tutti gli altri criteri vengono ignorati.
+
+5.1.3 Compiti
+ Cercare tutte le persone e tutti gli interlocutori in un'azienda che sono gestiti da voi.
+ Limitare la ricerca a tutti gli interlocutori in aziende delle categorie "Grandi aziende" e "Medie aziende".
+ Limitare ulteriormente la ricerca a "Consigli di amministrazione" e "Amministratori delegati".
+
+Pagina 12 Events Formazione Responsabili Clienti
 08/2007
-5.2 Personendaten
-5.2.1 Ziel
- Objektsicht Stammdaten der Person aus der Trefferliste öffnen.
- Weitere Informationsbereiche der Person öffnen.
- Standardtelefonnummer und Standardadresse für eine Person definieren.
-5.2.2 Beispiel
- Suchen sie die Person „Kurt Hölz“.
- Es werden mehrere Person gefunden. Für das Beispiel soll in weiterer Folge der
-Ansprechpartner des Unternehmens „Tyrolit-Schleifmittelwerke.Swarovski“ verwendet
-werden.
- Mit einem Mausklick auf den Namen (in der Trefferliste einer Personensuche) wird die
-Objektsicht der Person geöffnet und die Stammdaten der Person werden angezeigt.
- Im Navigationsbereich wird die Objektnavigation zur Person angezeigt.
-Stammdaten einer Person
-Hinweis: Wenn sie in der Trefferliste einer Suche mehrere Personen gefunden haben und ohne
-Wechsel in die Trefferliste zwischen diesen Personen wechseln wollen, so können sie mit „<“
-bzw. „>“ in der ursprünglichen Liste navigieren.
-Events Schulung Kundenbetreuer Seite 13
+5.2 Dati personali
+5.2.1 Obiettivo
+ Aprire la vista oggetto Dati anagrafici della persona dalla lista risultati.
+ Aprire ulteriori aree informative della persona.
+ Definire numero telefonico standard e indirizzo standard per una persona.
+
+5.2.2 Esempio
+ Cercare la persona "Kurt Hölz".
+ Vengono trovate più persone. Per l'esempio deve essere utilizzato in seguito l'interlocutore dell'azienda "Tyrolit-Schleifmittelwerke.Swarovski".
+
+ Con un clic del mouse sul nome (nella lista risultati di una ricerca persone) viene aperta la vista oggetto della persona e vengono visualizzati i dati anagrafici della persona.
+
+ Nell'area di navigazione viene visualizzata la navigazione oggetto per la persona.
+
+Dati anagrafici di una persona
+
+Nota: Se avete trovato più persone nella lista risultati di una ricerca e volete passare tra queste persone senza passare alla lista risultati, potete navigare nella lista originale con "<" risp. ">".
+
+Events Formazione Responsabili Clienti Pagina 13
 08/2007
- Nachdem es sich um eine OLAV-Person handelt, können die Stammdaten nicht geändert
-werden und müssen daher über SaM gepflegt werden.
- Es werden alle Telefon- und Faxnummern der Person angezeigt. Das sind persönliche
-Telefonnummern und Ansprechpartnertelefonnummern von Unternehmen in denen die
-Person ein Ansprechpartner ist. Eine dieser Telefonnummern kann als
-Standardtelefonnummer für Events markiert werden (durch Anklicken des 
-Auswahlknopfes links neben den Telefonnummern). Die Standardtelefonnummer wird in
-diversen Listen verwendet.
- In diversen Listen wird eine Telefonnummer angezeigt. Eine Standardtelefonnummer sollte
-nur dann gesetzt werden, wenn eine der folgenden Regeln für Events keine Gültigkeit haben.
-Person wird ohne Unternehmensbezug eingeladen:
-o die Haupttelefonnummer der Person wird verwendet. Wenn nicht vorhanden,
-o bleibt die Telefonnummer leer.
-Person wird als Ansprechpartner eines Unternehmens eingeladen:
-o die Telefonnummer aus den SaM Ansprechpartnerdaten wird verwendet. Wenn
-nicht vorhanden, wird
-o die Standardtelefonnummer aus Events für das Unternehmen verwendet. Wenn
-nicht vorhanden, wird
-o die Haupttelefonnummer des Unternehmens verwendet. Wenn nicht vorhanden,
-o wird die Haupttelefonnummer der Person verwendet. Wenn nicht vorhanden,
-o bleibt die Telefonnummer leer.
- Durch Anklicken der  Checkbox „Alle Unternehmensnummern anzeigen“, werden alle
-Telefonnummer jener Unternehmen eingeblendet, bei denen die Person Ansprechpartner ist.
-Seite 14 Events Schulung Kundenbetreuer
+ Poiché si tratta di una persona OLAV, i dati anagrafici non possono essere modificati e devono quindi essere gestiti tramite SaM.
+
+ Vengono visualizzati tutti i numeri di telefono e fax della persona. Questi sono numeri telefonici personali e numeri telefonici interlocutori di aziende in cui la persona è un interlocutore. Uno di questi numeri telefonici può essere contrassegnato come numero telefonico standard per Events (cliccando sul  pulsante di selezione a sinistra dei numeri telefonici). Il numero telefonico standard viene utilizzato in varie liste.
+
+ In varie liste viene visualizzato un numero telefonico. Un numero telefonico standard dovrebbe essere impostato solo se una delle seguenti regole per Events non ha validità.
+
+La persona viene invitata senza riferimento aziendale:
+o viene utilizzato il numero telefonico principale della persona. Se non disponibile,
+o il numero telefonico rimane vuoto.
+
+La persona viene invitata come interlocutore di un'azienda:
+o viene utilizzato il numero telefonico dai dati interlocutori SaM. Se non disponibile, viene
+o utilizzato il numero telefonico standard da Events per l'azienda. Se non disponibile, viene
+o utilizzato il numero telefonico principale dell'azienda. Se non disponibile,
+o viene utilizzato il numero telefonico principale della persona. Se non disponibile,
+o il numero telefonico rimane vuoto.
+
+ Cliccando sulla  checkbox "Visualizza tutti i numeri aziendali", vengono mostrati tutti i numeri telefonici di quelle aziende in cui la persona è interlocutore.
+
+Pagina 14 Events Formazione Responsabili Clienti
 08/2007
- Mit der Schaltfläche Übernehmen werden die vorgenommenen Änderungen gespeichert.
- Über die Objektnavigation kann man die verschiedenen Informationsbereiche der Person
-ansteuern.
-Achtung: Änderungen werden nur durch Klick der Schaltfläche Übernehmen gespeichert. Es gibt
-keinerlei Warnungen oder Hinweise, wenn sie die Seite ohne speichern verlassen
-Events Schulung Kundenbetreuer Seite 15
+ Con il pulsante Acquisisci vengono salvate le modifiche effettuate.
+
+ Tramite la navigazione oggetto si possono controllare le varie aree informative della persona.
+
+Attenzione: Le modifiche vengono salvate solo con clic del pulsante Acquisisci. Non ci sono avvisi o indicazioni se lasciate la pagina senza salvare
+
+Events Formazione Responsabili Clienti Pagina 15
 08/2007
-Ansprechpartner in Unternehmen
- Bei der Auswahl „Unternehmen“ in der Objektnavigation werden die Funktionen und
-Unternehmensinteressen (=berufliche Interessen in SaM), die Herr „Dipl.Ing. Kurt Hölz“ in
-einem bestimmten Unternehmen hat, angezeigt.
- Nachdem es sich um eine OLAV-Person handelt, können die Ansprechpartnerdaten nicht
-geändert werden und müssen daher über SaM gepflegt werden.
-Seite 16 Events Schulung Kundenbetreuer
+Interlocutori in aziende
+ Con la selezione "Aziende" nella navigazione oggetto vengono visualizzate le funzioni e gli interessi aziendali (=interessi professionali in SaM) che il Sig. "Dipl.Ing. Kurt Hölz" ha in una determinata azienda.
+
+ Poiché si tratta di una persona OLAV, i dati interlocutori non possono essere modificati e devono quindi essere gestiti tramite SaM.
+
+Pagina 16 Events Formazione Responsabili Clienti
 08/2007
-TIPP: Über den Link rechts oben können sie von der Person direkt zum
-Unternehmen weiternavigieren. Vom Unternehmen können sie über die Seite „Personen“ wieder
-zur Person zurücknavigieren.
-Adressen einer Person
- Bei der Auswahl "Adressen" in der Objektnavigation werden alle E-Mail und Post-Adressen
-der Person angezeigt. Neben den Personenadressen (gekennzeichnet durch den Zusatz
-„Eigene“) werden die Ansprechpartneradressen von jenen Unternehmen angezeigt, bei
-denen die Person eine Funktion ausübt (gekennzeichnet durch den Kurzwortlaut des
-Unternehmens).
- Hauptwohnsitz und abweichende Mailinganschriften werden durch die Zusatztexte
-„Hauptwohnsitz“ und „abw. Mailinganschrift“ angezeigt.
- Ein in SaM als gekennzeichnetes bevorzugtes Unternehmen in den Ansprechpartnerdaten,
-wird in der Adressliste durch ein „*“ gekennzeichnet.
- Eine der Post-Adressen kann als Standardadresse für Events markiert werden (durch
-Anklicken des  Auswahlknopfes links neben der Adresse. Eine Adresse wird in weiterer
-Folge in Events für alle Produktionen im Zusammenhang mit Veranstaltungen verwendet.
-Events Schulung Kundenbetreuer Seite 17
+SUGGERIMENTO: Tramite il link in alto a destra potete navigare direttamente dalla persona all'azienda. Dall'azienda potete navigare di nuovo alla persona tramite la pagina "Persone".
+
+Indirizzi di una persona
+ Con la selezione "Indirizzi" nella navigazione oggetto vengono visualizzati tutti gli indirizzi e-mail e postali della persona. Oltre agli indirizzi personali (contrassegnati dall'aggiunta "Propri") vengono visualizzati gli indirizzi interlocutori di quelle aziende in cui la persona esercita una funzione (contrassegnati dalla denominazione breve dell'azienda).
+
+ Residenza principale e indirizzi di spedizione divergenti vengono visualizzati dai testi aggiuntivi "Residenza principale" e "ind. sped. divergente".
+
+ Un'azienda preferita contrassegnata in SaM nei dati interlocutori viene contrassegnata nella lista indirizzi con un "*".
+
+ Uno degli indirizzi postali può essere contrassegnato come indirizzo standard per Events (cliccando sul  pulsante di selezione a sinistra dell'indirizzo. Un indirizzo viene in seguito utilizzato in Events per tutte le produzioni in relazione agli eventi.
+
+Events Formazione Responsabili Clienti Pagina 17
 08/2007
- Eine Standardadresse sollte nur dann gesetzt werden, wenn eine der folgenden Regeln für
-Events keine Gültigkeit haben.
-Person wird ohne Unternehmensbezug eingeladen:
-o die „abw. Mailinganschrift“ der Person wird verwendet. Wenn nicht vorhanden,
-wird die
-o Adresse des Hauptwohnsitzes genommen.
-Person wird als Ansprechpartner eines Unternehmens eingeladen:
-o Die Anschrift aus den SaM Ansprechpartnerdaten wird verwendet. Wenn nicht
-vorhanden wird die
-o „abw. Mailinganschrift“ des Unternehmens verwendet. Wenn nicht vorhanden,
-wird die
-o Hauptsitzadresse des Unternehmens verwendet.
- Mit der Schaltfläche Übernehmen werden die vorgenommenen Änderungen gespeichert.
-Seite 18 Events Schulung Kundenbetreuer
+ Un indirizzo standard dovrebbe essere impostato solo se una delle seguenti regole per Events non ha validità.
+
+La persona viene invitata senza riferimento aziendale:
+o viene utilizzato l'"ind. sped. divergente" della persona. Se non disponibile, viene
+o preso l'indirizzo della residenza principale.
+
+La persona viene invitata come interlocutore di un'azienda:
+o Viene utilizzato l'indirizzo dai dati interlocutori SaM. Se non disponibile viene
+o utilizzato l'"ind. sped. divergente" dell'azienda. Se non disponibile, viene
+o utilizzato l'indirizzo della sede principale dell'azienda.
+
+ Con il pulsante Acquisisci vengono salvate le modifiche effettuate.
+
+Pagina 18 Events Formazione Responsabili Clienti
 08/2007
-Marketinginformationen einer Person
- Bei der Auswahl " Marketing " in der Objektnavigation werden die Kommunikationskanäle
-und die persönlichen Interessen zur Person aufgelistet.
- Nachdem es sich um eine OLAV-Person handelt, können die Ansprechpartnerdaten nicht
-geändert werden und müssen daher über SaM gepflegt werden.
-Events Schulung Kundenbetreuer Seite 19
+Informazioni marketing di una persona
+ Con la selezione "Marketing" nella navigazione oggetto vengono elencati i canali di comunicazione e gli interessi personali della persona.
+
+ Poiché si tratta di una persona OLAV, i dati interlocutori non possono essere modificati e devono quindi essere gestiti tramite SaM.
+
+Events Formazione Responsabili Clienti Pagina 19
 08/2007
-Veranstaltungen einer Person
- Bei der Auswahl „Veranstaltungen“ in der Objektnavigation werden alle Veranstaltungen, für
-die Person nominiert ist, angezeigt.
- Es können Zusagen, Absagen oder Teilgenommen geändert werden.
- Durch anklicken des Symbols gelangt man in die Nominierungsdetails der nominierten
-Person.
- Mit der Schaltfläche Übernehmen werden die vorgenommenen Änderungen gespeichert.
-5.2.3 Aufgaben
- Suchen sie 3 Ansprechpartner von Unternehmen, die sie als Kundenbetreuer betreuen.
- Setzen sie für jede dieser Personen die Standardtelefonnummer und die Standardadresse in
-Events.
-Seite 20 Events Schulung Kundenbetreuer
+Eventi di una persona
+ Con la selezione "Eventi" nella navigazione oggetto vengono visualizzati tutti gli eventi per cui la persona è nominata.
+
+ Possono essere modificate conferme, rifiuti o Partecipato.
+
+ Cliccando sul simbolo si accede ai dettagli nomina della persona nominata.
+
+ Con il pulsante Acquisisci vengono salvate le modifiche effettuate.
+
+5.2.3 Compiti
+ Cercare 3 interlocutori di aziende che gestite come responsabile clienti.
+ Impostare per ciascuna di queste persone il numero telefonico standard e l'indirizzo standard in Events.
+
+Pagina 20 Events Formazione Responsabili Clienti
 08/2007
-Verwendungen einer Person
- Bei der Auswahl " Verwendungen " in der Objektnavigation werden alle Mitarbeiter
-aufgelistet, die im Betreuungsteam die Rolle „Spezialist Marketing“ innehaben.
- Die Rolle „Spezialist Marketing“ können von einem Benutzer für eine längerfristige
-Marketingverwendung gekennzeichnet werden.
- Nachdem es sich um eine OLAV-Person handelt, können die Verwendungen nicht geändert
-werden und müssen daher über SaM gepflegt werden.
-Events Schulung Kundenbetreuer Seite 21
+Utilizzi di una persona
+ Con la selezione "Utilizzi" nella navigazione oggetto vengono elencati tutti i collaboratori che nel team di gestione hanno il ruolo "Specialista Marketing".
+
+ Il ruolo "Specialista Marketing" può essere contrassegnato da un utente per un utilizzo marketing a lungo termine.
+
+ Poiché si tratta di una persona OLAV, gli utilizzi non possono essere modificati e devono quindi essere gestiti tramite SaM.
+
+Events Formazione Responsabili Clienti Pagina 21
 08/2007
-6 Unternehmen suchen und anzeigen
-Wenn Sie mehrere Ansprechpartner eines Unternehmens in Events verwalten und diese
-Personen nach Unternehmenskriterien suchen wollen, so können sie auch über eine Suche des
-Unternehmens ein Unternehmen identifizieren.
-Wenn sie Unternehmensdaten in Events anzeigen oder pflegen wollen, so müssen sie das
-Unternehmen suchen und die Objektsicht des Unternehmens öffnen. Alternativ kann die
-Objektsicht eines Unternehmens aus den diversen Formularen wie z.B. der Einladungsliste einer
-Veranstaltung über Hyperlinks geöffnet werden.
-6.1 Unternehmenssuche
-6.1.1 Ziel
- Suchkriterien für Unternehmen kennen lernen
- Ein bestimmtes Unternehmen suchen
- Aufbau der Trefferliste kennen lernen.
-6.1.2 Beispiel
- Unternehmenssuche über Themennavigation Menüpunkt „Unternehmen“ öffnen.
- In der Suche ist automatisch ihre Region/Stelle/Mitarbeiter eingestellt.
- Für diese Übung Einschränkung für Region entfernen und in der Lasche „Unternehmen(1)“
-den „Firmennamen 1“ „Tyrolit“ eingeben und die Suche mit Klick auf die Schaltfläche Suchen
-starten.
-Seite 22 Events Schulung Kundenbetreuer
+6 Cercare e visualizzare aziende
+Se si vogliono gestire più interlocutori di un'azienda in Events e cercare queste persone secondo criteri aziendali, si può anche identificare un'azienda tramite una ricerca dell'azienda.
+
+Se si vogliono visualizzare o gestire dati aziendali in Events, è necessario cercare l'azienda e aprire la vista oggetto dell'azienda. In alternativa la vista oggetto di un'azienda può essere aperta dai vari moduli come ad es. la lista inviti di un evento tramite hyperlink.
+
+6.1 Ricerca aziende
+6.1.1 Obiettivo
+ Conoscere i criteri di ricerca per le aziende
+ Cercare un'azienda specifica
+ Conoscere la struttura della lista risultati.
+
+6.1.2 Esempio
+ Aprire la ricerca aziende tramite navigazione tematica voce di menu "Aziende".
+ Nella ricerca è automaticamente impostata la vostra Regione/Sede/Collaboratore.
+
+ Per questo esercizio rimuovere la limitazione per Regione e nella scheda "Aziende(1)" inserire il "Nome azienda 1" "Tyrolit" e avviare la ricerca con clic sul pulsante Cerca.
+
+Pagina 22 Events Formazione Responsabili Clienti
 08/2007
- Nachdem Unternehmen auch in OLAV gesucht werden ( Checkbox inkl. Olav ist selektiert)
-und die Suche auf keinen Mitarbeiter eingeschränkt wurde, werden mehrere Seiten mit
-Treffern erzielt.
- Schränken sie die Trefferliste weiter ein, indem sie die Suchkriterien auf der Lasche
-„Unternehmen(2)“ durch Eingabe des Zusatzkriteriums „Kategorien“ „Großbetriebe (>40 Mio
-Euro)“ ein und die Suche mit der Schaltfläche Suchenstarten:
-Hinweis: Wenn in den Suchkriterien in der Lasche „Unternehmen(1)“ eine Kundennummer
-eingegeben wird, werden alle anderen Kriterien ignoriert.
-Events Schulung Kundenbetreuer Seite 23
+ Poiché le aziende vengono cercate anche in OLAV ( checkbox incl. Olav è selezionata) e la ricerca non è stata limitata a nessun collaboratore, si ottengono più pagine con risultati.
+
+ Limitare ulteriormente la lista risultati completando i criteri di ricerca sulla scheda "Aziende(2)" inserendo il criterio aggiuntivo "Categorie" "Grandi aziende (>40 Mio Euro)" e avviare la ricerca con il pulsante Cerca:
+
+Nota: Se nei criteri di ricerca nella scheda "Aziende(1)" viene inserito un numero cliente, tutti gli altri criteri vengono ignorati.
+
+Events Formazione Responsabili Clienti Pagina 23
 08/2007
-6.1.3 Aufgaben
- Suchen sie alle Unternehmen, die von ihnen betreut werden.
- Schränken sie die Suche auf alle Unternehmen der Kategorien „Großbetriebe“ und
-„Mittelbetriebe“ ein.
-Seite 24 Events Schulung Kundenbetreuer
+6.1.3 Compiti
+ Cercare tutte le aziende che sono gestite da voi.
+ Limitare la ricerca a tutte le aziende delle categorie "Grandi aziende" e "Medie aziende".
+
+Pagina 24 Events Formazione Responsabili Clienti
 08/2007
-6.2 Unternehmensdaten
-6.2.1 Ziel
- Objektsicht des Unternehmens aus der Trefferliste einer Suche öffnen.
- Weitere Informationsbereiche des Unternehmens öffnen.
- Standardtelefonnummer und Standardadresse für ein Unternehmen definieren.
-6.2.2 Beispiel
- Mit der Auswahl durch Mausklick auf den Namen in der Trefferliste einer
-Unternehmenssuche wird die Objektsicht des Unternehmens geöffnet und die Stammdaten
-des Unternehmens werden angezeigt.
- Im Navigationsbereich wird die Objektnavigation zum Unternehmen angezeigt.
-Stammdaten eines Unternehmens
-Events Schulung Kundenbetreuer Seite 25
+6.2 Dati aziendali
+6.2.1 Obiettivo
+ Aprire la vista oggetto dell'azienda dalla lista risultati di una ricerca.
+ Aprire ulteriori aree informative dell'azienda.
+ Definire numero telefonico standard e indirizzo standard per un'azienda.
+
+6.2.2 Esempio
+ Con la selezione tramite clic del mouse sul nome nella lista risultati di una ricerca aziende viene aperta la vista oggetto dell'azienda e vengono visualizzati i dati anagrafici dell'azienda.
+
+ Nell'area di navigazione viene visualizzata la navigazione oggetto per l'azienda.
+
+Dati anagrafici di un'azienda
+
+Events Formazione Responsabili Clienti Pagina 25
 08/2007
- Nachdem es sich um ein OLAV-Unternehmen handelt, können die Stammdaten nicht
-geändert werden und müssen daher über SaM gepflegt werden.
- Es werden alle Telefon- und Faxnummern des Unternehmens angezeigt, sowie alle
-Ansprechpartnertelefonnummern von jenen Personen die Ansprechpartner des
-Unternehmens sind. Eine dieser Telefonnummern kann als Standardtelefonnummer für
-Events markiert werden (durch Anklicken des  Auswahlknopfes links neben den
-Telefonnummern). Die Standardtelefonnummer wird in diversen Listen in denen
-Ansprechpartner aufgelistet werden verwendet (siehe Kapitel „Stammdaten einer Person“).
- Mit der Schaltfläche Übernehmen werden die vorgenommenen Änderungen gespeichert
- Über die Objektnavigation kann man die verschiedenen Informationsbereiche des
-Unternehmens ansteuern.
-Seite 26 Events Schulung Kundenbetreuer
+ Poiché si tratta di un'azienda OLAV, i dati anagrafici non possono essere modificati e devono quindi essere gestiti tramite SaM.
+
+ Vengono visualizzati tutti i numeri di telefono e fax dell'azienda, così come tutti i numeri telefonici interlocutori di quelle persone che sono interlocutori dell'azienda. Uno di questi numeri telefonici può essere contrassegnato come numero telefonico standard per Events (cliccando sul  pulsante di selezione a sinistra dei numeri telefonici). Il numero telefonico standard viene utilizzato in varie liste in cui vengono elencati gli interlocutori (vedi capitolo "Dati anagrafici di una persona").
+
+ Con il pulsante Acquisisci vengono salvate le modifiche effettuate
+
+ Tramite la navigazione oggetto si possono controllare le varie aree informative dell'azienda.
+
+Pagina 26 Events Formazione Responsabili Clienti
 08/2007
-Ansprechpartners im Unternehmen
- Bei der Auswahl „Personen“ in der Objektnavigation werden die Funktionen und
-Unternehmensinteressen (=berufliche Interessen in SaM), die Herr Dipl.Ing. Kurt Hölz in
-einem bestimmten Unternehmen hat, angezeigt.
- Nachdem es sich um ein OLAV-Unternehmen handelt, können die Ansprechpartnerdaten
-nicht geändert werden und müssen daher über SaM gepflegt werden.
-TIPP: Über den Link rechts oben können sie von dem Unternehmen direkt zur
-Person weiternavigieren. Von der Person können sie über die Seite „Unternehmen“ wieder zum
-Unternehmen zurücknavigieren.
-Events Schulung Kundenbetreuer Seite 27
+Interlocutori nell'azienda
+ Con la selezione "Persone" nella navigazione oggetto vengono visualizzate le funzioni e gli interessi aziendali (=interessi professionali in SaM) che il Sig. Dipl.Ing. Kurt Hölz ha in una determinata azienda.
+
+ Poiché si tratta di un'azienda OLAV, i dati interlocutori non possono essere modificati e devono quindi essere gestiti tramite SaM.
+
+SUGGERIMENTO: Tramite il link in alto a destra potete navigare direttamente dall'azienda alla persona. Dalla persona potete navigare di nuovo all'azienda tramite la pagina "Aziende".
+
+Events Formazione Responsabili Clienti Pagina 27
 08/2007
-Adressen eines Unternehmens
- Bei der Auswahl "Adressen" in der Objektnavigation werden alle Post-Adressen des
-Unternehmens angezeigt.
- Hauptsitz und abweichende Mailinganschriften werden durch die Zusatztexte „Hauptsitz“ und
-„abw. Mailinganschrift“ angezeigt.
- Eine der Post-Adressen kann als Standardadresse für Events markiert werden (durch
-Anklicken des  Auswahlknopfes links neben der Adresse. Eine Adresse wird in weiterer
-Folge in Events für alle Produktionen im Zusammenhang mit Veranstaltungen verwendet
-(siehe Kapitel „Stammdaten einer Person“).
- Mit der Schaltfläche Übernehmen werden die vorgenommenen Änderungen gespeichert.
-Seite 28 Events Schulung Kundenbetreuer
+Indirizzi di un'azienda
+ Con la selezione "Indirizzi" nella navigazione oggetto vengono visualizzati tutti gli indirizzi postali dell'azienda.
+
+ Sede principale e indirizzi di spedizione divergenti vengono visualizzati dai testi aggiuntivi "Sede principale" e "ind. sped. divergente".
+
+ Uno degli indirizzi postali può essere contrassegnato come indirizzo standard per Events (cliccando sul  pulsante di selezione a sinistra dell'indirizzo. Un indirizzo viene in seguito utilizzato in Events per tutte le produzioni in relazione agli eventi (vedi capitolo "Dati anagrafici di una persona").
+
+ Con il pulsante Acquisisci vengono salvate le modifiche effettuate.
+
+Pagina 28 Events Formazione Responsabili Clienti
 08/2007
-7 Einladen zu Veranstaltungen
-HINWEIS: Der Übungsleiter als Veranstaltungsplaner legt nun eine neue Golfveranstaltung
-„Golfturnier Schulung“ an und führt eine Vorselektion für Golfspieler in der Region durch. Diese
-Veranstaltung ist die Basis für die weiteren Übungen.
-In der nachfolgenden Darstellung werden einige wichtige Zustände vorgestellt, die eine Person
-im Zuge einer Veranstaltungseinladung bzw. –teilnahme annehmen kann.
-vorselektiert nominiert eingeladen
-zugesagt abgesagt
-teilgenommen
-gelöscht
-Bestätigung
-durch Planer
-oder Betreuer
-direkter tel. Kontakt
-oder Produktion
-(Brief- bzw.
-Email-Versand)
-direkter telefonischer
-Kontakt
-schriftliche bzw.
-elektronische Antwort
-Eintragung durch Planer
-oder Einladender
-Streichung
-durch Planer
-Einladender
-Streichung
-durch Planer
-oder Betreuer
-Abgleich mit
-Teinehmerliste
-durch Planer
-durch Planer
-oder Betreuer
-Person ist
-verständigt!
-Nominierung
-durch Planer
-oder Betreuer
-7.1 Veranstaltungssuche
-Veranstaltungen können nur von definierten Abteilungen (Regionale Marketingmanager, Group
-Public Relation, Corporates-Marketing usw.) und Benutzern mit der Rolle Veranstaltungsplaner
-angelegt werden.
-7.1.1 Ziel
- Veranstaltungen suchen.
- Stammdaten für eine Veranstaltung kennen lernen.
-7.1.2 Beispiel
- Start der Veranstaltungssuche über die Themennavigation mit Auswahl des Kapitels
-Veranstaltungen.
- Starten sie die Suche mit Klick auf die Schaltfläche Suchen.
-Events Schulung Kundenbetreuer Seite 29
+7 Invitare a eventi
+NOTA: Il formatore come organizzatore di eventi crea ora un nuovo evento golf "Torneo golf Formazione" ed effettua una preselezione per golfisti nella regione. Questo evento è la base per gli esercizi successivi.
+
+Nella rappresentazione seguente vengono presentati alcuni stati importanti che una persona può assumere nel corso di un invito o partecipazione ad un evento.
+
+preselezionato nominato invitato
+confermato rifiutato
+partecipato
+cancellato
+Conferma
+da parte dell'organizzatore
+o responsabile
+contatto telefonico diretto
+o produzione
+(invio lettera o
+e-mail)
+contatto telefonico diretto
+risposta scritta o elettronica
+Inserimento da parte dell'organizzatore
+o invitante
+Cancellazione
+da parte dell'organizzatore
+invitante
+Cancellazione
+da parte dell'organizzatore
+o responsabile
+Confronto con
+lista partecipanti
+da parte dell'organizzatore
+da parte dell'organizzatore
+o responsabile
+La persona è
+informata!
+Nomina
+da parte dell'organizzatore
+o responsabile
+
+7.1 Ricerca eventi
+Gli eventi possono essere creati solo da dipartimenti definiti (Manager Marketing Regionali, Group Public Relation, Corporates-Marketing ecc.) e utenti con il ruolo organizzatore di eventi.
+
+7.1.1 Obiettivo
+ Cercare eventi.
+ Conoscere i dati anagrafici di un evento.
+
+7.1.2 Esempio
+ Avvio della ricerca eventi tramite la navigazione tematica con selezione del capitolo Eventi.
+ Avviare la ricerca con clic sul pulsante Cerca.
+
+Events Formazione Responsabili Clienti Pagina 29
 08/2007
- Es werden alle Veranstaltungen angezeigt in denen die Stelle des angemeldeten Mitarbeiters
-teilnehmen darf.
- Schränken Sie nun die Suche nach Veranstaltungen ein, welche für das aktuelle Jahr
-geplant sind und drücken die Schaltfläche Suchen:
-Seite 30 Events Schulung Kundenbetreuer
+ Vengono visualizzati tutti gli eventi a cui la sede del collaboratore registrato può partecipare.
+
+ Limitare ora la ricerca degli eventi che sono pianificati per l'anno corrente e premere il pulsante Cerca:
+
+Pagina 30 Events Formazione Responsabili Clienti
 08/2007
- Schränken sie die Suche weiter ein, indem nur Veranstaltungen angezeigt werden sollen, die
-im Namen mit „Golf“ beginnen:
- In der Trefferliste sehen sie neben dem Veranstaltungsdatum, den Namen der Veranstaltung
-und den Mitarbeiter, der für die Organisation der Veranstaltung verantwortlich zeichnet.
- Die Trefferliste ist nach Datum, Namen und Verantwortlicher sortierbar, wenn die jeweilige
-Spaltenüberschrift selektiert wird.
-TIPP: Wenn sie den Mauszeiger über der Personalnummer des Verantwortlichen positionieren,
-wird auch der Name des Mitarbeiters angezeigt.
-Events Schulung Kundenbetreuer Seite 31
+ Limitare ulteriormente la ricerca mostrando solo gli eventi che nel nome iniziano con "Golf":
+
+ Nella lista risultati vedete accanto alla data dell'evento, il nome dell'evento e il collaboratore che è responsabile dell'organizzazione dell'evento.
+
+ La lista risultati è ordinabile per data, nome e responsabile se viene selezionata la rispettiva intestazione colonna.
+
+SUGGERIMENTO: Se posizionate il puntatore del mouse sul numero personale del responsabile, viene visualizzato anche il nome del collaboratore.
+
+Events Formazione Responsabili Clienti Pagina 31
 08/2007
- Die Objektsicht für die Veranstaltung kann über den Link in der Trefferliste geöffnet werden (=
-Anklicken des Namens der gewünschten Veranstaltung). Suchen sie die Veranstaltung
-„Golftunier Schulung“ in der aktuellen Liste und öffnen sie diese.
- Im Navigationsbereich wird die Objektnavigation für eine Veranstaltung angezeigt.
- Es wird nun die aktuelle Personenliste/suche dieser Veranstaltung angezeigt (Menüpunkt
-Personen in der Objektnavigation):
-Seite 32 Events Schulung Kundenbetreuer
+ La vista oggetto per l'evento può essere aperta tramite il link nella lista risultati (= clic sul nome dell'evento desiderato). Cercare l'evento "Torneo golf Formazione" nella lista attuale e aprirlo.
+
+ Nell'area di navigazione viene visualizzata la navigazione oggetto per un evento.
+
+ Viene ora visualizzata la lista persone/ricerca attuale di questo evento (voce di menu Persone nella navigazione oggetto):
+
+Pagina 32 Events Formazione Responsabili Clienti
 08/2007
-Veranstaltungsinformationen
- Neben dem eigentlichen Veranstaltungsdatum kann auch ein Nominierungsschluss für die
-Veranstaltung definiert sein. Bis zu diesem Datum können Personen nominiert werden.
- Weiters können die Zusagen für eine Veranstaltung kontingentiert sein. Sobald das
-Kontingent erschöpft ist, können keine weiteren Zusagen eingetragen werden. Ebenso
-können Nominierungen kontingentiert sein.
-TIPP: Über den Link können sie zu einer vom
-Veranstaltungsplaner definierten Informationsseite, die außerhalb von Events liegt,
-weiternavigieren.
-7.1.3 Aufgaben
- Suchen sie alle Veranstaltungen im aktuellen Jahr.
- Gehen sie zur Veranstaltung „Golfturnier Schulung“, das vom Übungsleiter angelegt wurde.
-Events Schulung Kundenbetreuer Seite 33
+Informazioni evento
+ Oltre alla data effettiva dell'evento può essere definita anche una scadenza nomina per l'evento. Fino a questa data possono essere nominate persone.
+
+ Inoltre le conferme per un evento possono essere contingentate. Non appena il contingente è esaurito, non possono essere inserite ulteriori conferme. Allo stesso modo le nomine possono essere contingentate.
+
+SUGGERIMENTO: Tramite il link potete navigare a una pagina informativa definita dall'organizzatore dell'evento, che si trova al di fuori di Events.
+
+7.1.3 Compiti
+ Cercare tutti gli eventi nell'anno corrente.
+ Andare all'evento "Torneo golf Formazione" che è stato creato dal formatore.
+
+Events Formazione Responsabili Clienti Pagina 33
 08/2007
-7.2 Vorselektierter Personen bestätigen und streichen
-7.2.1 Ziel
- Vorselektierte Personen suchen
- Vorselektierte Personen bestätigen.
- Vorselektierte Personen streichen
-7.2.2 Beispiel
- Veranstaltung „Golfturnier Schulung“ suchen und öffnen.
- Status in der Personenliste auf „Vorselektiert“ stellen.
- Mit Suchen werden alle für die Veranstaltung vorselektierten Personen in der Trefferliste
-angezeigt.
- Für die Suche nach Personen in der Personenliste ist der Status „Nominiert“ voreingestellt.
-Nominierte Personen sind jene Personen, die vom Veranstaltungsplaner oder vom
-zuständigen Kundenbetreuer entweder explizit nominiert wurden, oder jene vom
-Veranstaltungsplaner vorselektierten Personen, die vom Kundenbetreuer bestätigt wurden.
-Weitere mögliche Status-Varianten: Vorselektiert, Keine Antwort, Zugesagt, Abgesagt,
-Teilgenommen, Gelöscht
- Einzelne Personen, die für die Veranstaltung nominiert werden sollen, können über die
-Selektionsspalte durch Klick auf die  Checkbox ausgewählt werden.
-Seite 34 Events Schulung Kundenbetreuer
+7.2 Confermare e cancellare persone preselezionate
+7.2.1 Obiettivo
+ Cercare persone preselezionate
+ Confermare persone preselezionate.
+ Cancellare persone preselezionate
+
+7.2.2 Esempio
+ Cercare e aprire l'evento "Torneo golf Formazione".
+ Impostare lo stato nella lista persone su "Preselezionato".
+
+ Con Cerca vengono visualizzate nella lista risultati tutte le persone preselezionate per l'evento.
+
+ Per la ricerca di persone nella lista persone è preimpostato lo stato "Nominato". Le persone nominate sono quelle persone che sono state nominate esplicitamente dall'organizzatore dell'evento o dal responsabile clienti competente, o quelle persone preselezionate dall'organizzatore dell'evento che sono state confermate dal responsabile clienti.
+
+Altre possibili varianti di stato: Preselezionato, Nessuna risposta, Confermato, Rifiutato, Partecipato, Cancellato
+
+ Singole persone che devono essere nominate per l'evento possono essere selezionate tramite la colonna selezione con clic sulla  checkbox.
+
+Pagina 34 Events Formazione Responsabili Clienti
 08/2007
- Mit der Schaltfläche Bestätigen werden diese Personen in den Status „Nominiert“
-übergeführt.
-TIPP: Wenn sie alle Personen einer Bildschirmseite bestätigen oder streichen wollen, klicken sie
-auf die Checkbox in der Titelzeile um alle Personen der Seite zu markieren.
-Achtung: Falls die Personenliste mehr als eine Bildschirmseite benötigt, müssen Sie Ihre
-Selektionen auf jeder angezeigten Seite bestätigen!
- Sie können auch einzelne Personen selektieren und „Streichen“, wenn sie diese Personen
-nicht nominieren wollen.
- Mit Streichen werden diese Personen gelöscht.
-7.2.3 Aufgaben
- Suchen sie die für sie vorselektierten Personen in der Veranstaltung „Golfturnier Schulung“.
- Nominieren sie 2 Personen mit „Bestätigen“.
- Streichen sie eine Person von der Vorselektionsliste.
-Events Schulung Kundenbetreuer Seite 35
+ Con il pulsante Conferma queste persone vengono trasferite nello stato "Nominato".
+
+SUGGERIMENTO: Se volete confermare o cancellare tutte le persone di una pagina schermo, cliccate sulla checkbox nella riga titolo per contrassegnare tutte le persone della pagina.
+
+Attenzione: Se la lista persone richiede più di una pagina schermo, dovete confermare le vostre selezioni su ogni pagina visualizzata!
+
+ Potete anche selezionare singole persone e "Cancellare" se non volete nominare queste persone.
+
+ Con Cancella queste persone vengono eliminate.
+
+7.2.3 Compiti
+ Cercare le persone preselezionate per voi nell'evento "Torneo golf Formazione".
+ Nominare 2 persone con "Conferma".
+ Cancellare una persona dalla lista preselezione.
+
+Events Formazione Responsabili Clienti Pagina 35
 08/2007
-7.3 Zusätzlichen Personen nominieren
-Unabhängig von einer Vorselektion können sie weitere zusätzliche Personen für eine
-Veranstaltung nominieren. Der Veranstaltungsplaner muss nicht notwendigerweise eine
-Vorselektion durchführen. In diesem Fall entsteht die Personenliste nur aus den Nominierungen
-der Kundenbetreuer und dem Veranstaltungsplaner.
-7.3.1 Ziele
- Verwendung der Personensuche aus der Personenliste einer Veranstaltung.
- Übernehmen von Personen aus der Trefferliste der Personensuche in die Personenliste der
-Veranstaltung
-7.3.2 Beispiel
- Öffnen sie die Personenliste der Veranstaltung „Golfturnier Schulung“
- Suchen sie innerhalb der Liste nach den eigenen Nominierungen.
- Starten sie die zusätzliche Nominierung über den Button Nominieren.
- Es erscheint die Personensuche für Veranstaltungen. Die Suchkriterien sind gleich wie die
-Suchkriterien der Personensuche für die Datenpflege:
-Seite 36 Events Schulung Kundenbetreuer
+7.3 Nominare persone aggiuntive
+Indipendentemente da una preselezione potete nominare ulteriori persone aggiuntive per un evento. L'organizzatore dell'evento non deve necessariamente effettuare una preselezione. In questo caso la lista persone nasce solo dalle nomine dei responsabili clienti e dell'organizzatore dell'evento.
+
+7.3.1 Obiettivi
+ Utilizzo della ricerca persone dalla lista persone di un evento.
+ Acquisire persone dalla lista risultati della ricerca persone nella lista persone dell'evento
+
+7.3.2 Esempio
+ Aprire la lista persone dell'evento "Torneo golf Formazione"
+ Cercare all'interno della lista le proprie nomine.
+
+ Avviare la nomina aggiuntiva tramite il pulsante Nomina.
+
+ Appare la ricerca persone per eventi. I criteri di ricerca sono gli stessi dei criteri di ricerca della ricerca persone per la gestione dati:
+
+Pagina 36 Events Formazione Responsabili Clienti
 08/2007
-  Checkbox „inkl. bereits nominierte Personen“:
-Wenn sie diese Checkbox wählen, so werden in der Trefferliste der Suche auch Personen
-angezeigt, die bereits für die Veranstaltung nominiert wurden. Andernfalls werden Personen,
-die bereits nominiert sind, automatisch von der Suche ausgeschlossen.
- In der Trefferliste können nominierte Personen nicht nochmals nominiert werden. Anstatt der
-Checkbox für die Auswahl der Person, sehen sie die Personalnummer des Mitarbeiters, der
-diese Person nominiert hat. Wenn sie den Mauszeiger über diese Personalnummer stellen,
-wird der Namen des Mitarbeiters angezeigt
-Events Schulung Kundenbetreuer Seite 37
+  checkbox "incl. persone già nominate":
+Se selezionate questa checkbox, vengono visualizzate nella lista risultati della ricerca anche le persone che sono già state nominate per l'evento. Altrimenti le persone già nominate vengono automaticamente escluse dalla ricerca.
+
+ Nella lista risultati le persone nominate non possono essere nominate di nuovo. Invece della checkbox per la selezione della persona, vedete il numero personale del collaboratore che ha nominato questa persona. Se posizionate il puntatore del mouse su questo numero personale, viene visualizzato il nome del collaboratore
+
+Events Formazione Responsabili Clienti Pagina 37
 08/2007
- Es können nun weitere Personen über die  Checkbox links selektiert und mit Einfügen in
-die Personenliste der Veranstaltung eingefügt werden, d.h. diese Personen sind dann
-zusätzlich nominiert. Sie können auch entscheiden über welches Unternehmen eine Person
-eingeladen werden soll.
- Die Suche kann nun beliebig oft wiederholt und aus der Trefferliste können Personen
-eingefügt werden.
- Mit der Schaltfläche Alle Einfügen werden alle Personen der Trefferliste übernommen. Wenn
-eine Person Ansprechpartner von Unternehmen ist, wird die Person nach folgenden Regeln
-eingefügt:
- Für die Person ist in Events eine Standardadresse bei einer der Personenadressen
-definiert, so wird die Person ohne Unternehmenszuordnung eingefügt.
- Für die Person ist in Events eine Standardadresse bei einem Unternehmen bei dem
-er Ansprechpartner ist definiert, so wird die Person mit dieser
-Unternehmenszuordnung eingefügt.
- Wenn die Person ein Ansprechpartner von mehreren Unternehmen ist und ein
-Unternehmen ist in SaM als bevorzugtes Unternehmen markiert ist, wird die Person
-mit diesem Unternehmen eingefügt.
- Wenn es kein bevorzugtes Unternehmen gibt, wird per Zufall ein Unternehmen aus
-der Unternehmensliste, bei denen die Person Ansprechpartner ist, eingefügt.
-Hinweis: In der Trefferliste wird eine Person die einem Unternehmen zugeordnet ist, mehrfach
-aufgelistet. In der ersten Zeile ist die Person ohne Unternehmen und in den Folgezeilen mit den
-Unternehmen aufgelistet. Je nachdem in welchem Kontext eingeladen werden soll (als
-Privatperson oder für ein Unternehmen), ist die  Checkbox in die entsprechende Zeile zu
-setzen.
- Mit Fertig kehrt man in die Personenliste der Veranstaltung zurück.
- Wenn sie in der Personenliste der Veranstaltung nach den Nominierungen suchen, werden
-nun alle durch sie bestätigten bzw. zusätzlich nominierten Personen angezeigt. Wenn man
-den Mauszeiger über dem Namen der Person positioniert, so wird die OLAV
-Kundennummer, die Adresse über die die Person eingeladen wird und die
-Seite 38 Events Schulung Kundenbetreuer
+ Possono ora essere selezionate ulteriori persone tramite la  checkbox a sinistra e inserite nella lista persone dell'evento con Inserisci, cioè queste persone sono quindi nominate in aggiunta. Potete anche decidere tramite quale azienda una persona deve essere invitata.
+
+ La ricerca può ora essere ripetuta a piacere e dalla lista risultati possono essere inserite persone.
+
+ Con il pulsante Inserisci tutti vengono acquisite tutte le persone della lista risultati. Se una persona è interlocutore di aziende, la persona viene inserita secondo le seguenti regole:
+
+ Per la persona è definito in Events un indirizzo standard presso uno degli indirizzi personali, quindi la persona viene inserita senza assegnazione aziendale.
+
+ Per la persona è definito in Events un indirizzo standard presso un'azienda di cui è interlocutore, quindi la persona viene inserita con questa assegnazione aziendale.
+
+ Se la persona è interlocutore di più aziende e un'azienda è contrassegnata in SaM come azienda preferita, la persona viene inserita con questa azienda.
+
+ Se non c'è un'azienda preferita, viene inserita casualmente un'azienda dalla lista aziende di cui la persona è interlocutore.
+
+Nota: Nella lista risultati una persona che è assegnata a un'azienda viene elencata più volte. Nella prima riga la persona è senza azienda e nelle righe successive con le aziende. A seconda del contesto in cui si vuole invitare (come persona privata o per un'azienda), la  checkbox va impostata nella riga corrispondente.
+
+ Con Fatto si torna alla lista persone dell'evento.
+
+ Se cercate nella lista persone dell'evento le nomine, vengono ora visualizzate tutte le persone da voi confermate o nominate in aggiunta. Se posizionate il puntatore del mouse sul nome della persona, vengono visualizzati il numero cliente OLAV, l'indirizzo tramite cui la persona viene invitata e il
+
+Pagina 38 Events Formazione Responsabili Clienti
 08/2007
-Standardtelefonnummer angezeigt.
- Die Trefferliste ist durch Selektion der Spaltenüberschriften sortierbar.
-TIPP: Die Namen der Personen und die Namen der Unternehmen sind Hyperlinks, die sie zur
-Person bzw. zum Unternehmen führen. Verwenden sie diese Links z.B. um die
-Standardtelefonnummer für eine Person zu setzen.
-Hinweis: Wenn sie auf das Druckersymbol klicken können sie eine aus der aktuellen
-Personenliste eine Kurzliste für einen Ausdruck und als Downloaddatei erstellen. Wenn sie das
-Symbol anwählen, können sie dabei zwischen einer Kurzliste, Detailliste und Adressliste
-wählen.
-Einzelschritte der Nominierung
-Die nachfolgende Darstellung zeigt nochmals die notwendigen Schritte einer Nominierung im
-Überblick.
+numero telefonico standard.
+
+ La lista risultati è ordinabile tramite selezione delle intestazioni colonne.
+
+SUGGERIMENTO: I nomi delle persone e i nomi delle aziende sono hyperlink che vi portano alla persona risp. all'azienda. Utilizzate questi link ad es. per impostare il numero telefonico standard per una persona.
+
+Nota: Se cliccate sul simbolo della stampante potete creare dalla lista persone attuale una lista breve per una stampa e come file download. Se selezionate il simbolo, potete scegliere tra una lista breve, lista dettagliata e lista indirizzi.
+
+Singoli passi della nomina
+La rappresentazione seguente mostra nuovamente i passi necessari di una nomina in panoramica.
+
 (2)
-Nominierung
-starten
+Avviare
+nomina
 (3)
-Suchkriterien
-eingeben
+Inserire criteri
+di ricerca
 (4)
-Suche
-starten
+Avviare
+ricerca
 (5)
-Personen
-auswählen
+Selezionare
+persone
 (6)
-Personen
-einfügen (7)
-Zurück zur
-Personenliste
-der Veranstaltung
-Suche kann
-beliebig oft
-wiederholt
-werden
-Auswahl kann
-beliebig oft
-wiederholt
-werden
+Inserire
+persone (7)
+Tornare alla
+lista persone
+dell'evento
+La ricerca può
+essere ripetuta
+a piacere
+La selezione può
+essere ripetuta
+a piacere
 (1)
-Nominierungen
-suchen
-7.3.3 Aufgaben
- Nominieren sie weitere 3 Personen, die Ansprechpartner in einem von ihnen betreuten
-Unternehmen sind und 2 weitere Personen ohne Unternehmenskontext für die Veranstaltung
-„Golfturnier Schulung“.
-Events Schulung Kundenbetreuer Seite 39
+Cercare
+nomine
+
+7.3.3 Compiti
+ Nominare ulteriori 3 persone che sono interlocutori in un'azienda da voi gestita e 2 ulteriori persone senza contesto aziendale per l'evento "Torneo golf Formazione".
+
+Events Formazione Responsabili Clienti Pagina 39
 08/2007
-7.4 Zusagen und Absagen eintragen
-Nach dem Nominierungsprozess für eine Veranstaltung führt der Veranstaltungsplaner eine Postoder
-E-Mail-Produktion durch, d.h. die nominierten Personen werden verständigt. Im Anschluss
-werden die Reaktionen der Personen wieder in Events erfasst. Die Erfassung kann entweder von
-der planenden Stelle (z.B. zentraler Rücklauf über Antwortfax) oder aber auch vom
-Kundenbetreuer erfolgen (telefonischer Kontakt des Kundenbetreuers mit der nominierten
-Person).
-7.4.1 Ziele
- Zusagen und Absagen zu einer Veranstaltung eintragen.
- Suchkriterien in der Personenliste einer Veranstaltung kennen lernen.
- Löschen von Personen aus der Nominierungsliste.
-7.4.2 Beispiel
- „Golfturnier Schulung“ suchen und in die Veranstaltung einsteigen.
- Suche nach den nominierten Personen.
- Anzahl der Zusagen und Absagen in der Trefferliste eintragen.
- Zusagen sind in der Spalte „Zuges.“ und Absagen in Spalte „Abges.“ einzutragen.
- Änderungen mit Übernehmen speichern.
- Status Filter auf Zugesagt setzen ändern und Suche wiederholen.
-Seite 40 Events Schulung Kundenbetreuer
+7.4 Inserire conferme e rifiuti
+Dopo il processo di nomina per un evento l'organizzatore dell'evento effettua una produzione postale o e-mail, cioè le persone nominate vengono informate. Successivamente le reazioni delle persone vengono nuovamente registrate in Events. La registrazione può avvenire sia dall'ufficio pianificatore (ad es. ritorno centrale tramite fax risposta) sia anche dal responsabile clienti (contatto telefonico del responsabile clienti con la persona nominata).
+
+7.4.1 Obiettivi
+ Inserire conferme e rifiuti a un evento.
+ Conoscere i criteri di ricerca nella lista persone di un evento.
+ Cancellare persone dalla lista nomine.
+
+7.4.2 Esempio
+ Cercare "Torneo golf Formazione" ed entrare nell'evento.
+ Ricerca delle persone nominate.
+
+ Inserire il numero di conferme e rifiuti nella lista risultati.
+
+ Le conferme sono da inserire nella colonna "Conf." e i rifiuti nella colonna "Rif.".
+
+ Salvare le modifiche con Acquisisci.
+
+ Cambiare il filtro stato su Confermato e ripetere la ricerca.
+
+Pagina 40 Events Formazione Responsabili Clienti
 08/2007
- Die Trefferliste zeigt nun nur noch Personen, die bereits zur Veranstaltung zugesagt haben.
-TIPP: Verwenden sie den Status „Keine Antwort“ um nominierte Personen zu suchen, die zur
-Veranstaltung weder zugesagt noch abgesagt haben. Dieser kann z.B. dann verwendet werden,
-wenn nach einer Erstinformation des Kunden über den Postweg eine telefonische Nachfrage
-erfolgen soll.
- Sie können in längeren Personenlisten auch über den Namen der Person oder den Namen
-des Unternehmens gezielt nach Personen suchen:
-Events Schulung Kundenbetreuer Seite 41
+ La lista risultati mostra ora solo le persone che hanno già confermato la partecipazione all'evento.
+
+SUGGERIMENTO: Utilizzate lo stato "Nessuna risposta" per cercare persone nominate che non hanno né confermato né rifiutato la partecipazione all'evento. Questo può essere utilizzato ad es. quando dopo una prima informazione del cliente tramite posta deve seguire una richiesta telefonica.
+
+ Potete anche cercare specificamente persone tramite il nome della persona o il nome dell'azienda in liste persone più lunghe:
+
+Events Formazione Responsabili Clienti Pagina 41
 08/2007
- Solange die Einladungen für eine Veranstaltung noch nicht versendet wurden, kann diese
-Person auch aus der Nominierungsliste gelöscht werden. Z.B. wenn diese Person irrtümlich
-nominiert wurde.
- Über ein spezielles Filter „Gelöscht“ können gelöschte Personen gesucht und bei Bedarf aus
-der Trefferliste wieder nominiert werden.
-7.4.3 Aufgaben
- Tragen sie Zusagen und Absagen für die von ihnen nominierten Personen ein.
- Löschen sie eine Person von der Personenliste.
- Nominieren sie die gelöschte Person wieder für die Veranstaltung.
-Seite 42 Events Schulung Kundenbetreuer
+ Finché gli inviti per un evento non sono ancora stati inviati, questa persona può anche essere cancellata dalla lista nomine. Ad es. se questa persona è stata nominata per errore.
+
+ Tramite un filtro speciale "Cancellato" si possono cercare persone cancellate e se necessario nominarle di nuovo dalla lista risultati.
+
+7.4.3 Compiti
+ Inserire conferme e rifiuti per le persone da voi nominate.
+ Cancellare una persona dalla lista persone.
+ Nominare di nuovo la persona cancellata per l'evento.
+
+Pagina 42 Events Formazione Responsabili Clienti
 08/2007
-7.5 Nominierungsdetails
-In der Personenliste einer Veranstaltung können nur Zusagen, Absage und Teilnahme
-eingetragen werden. Nachträglich Änderung des Einladenden oder des zugeordneten
-Unternehmens ist nicht möglich. Um auch diese ändern zu können, kann von der Personenliste
-einer Veranstaltung oder von der Veranstaltungsliste einer Person in die Nominierungsdetails
-gewechselt werden.
-7.5.1 Ziele
- Nominierungsdetails aus der Personenliste öffen.
- Nominierungsdetails ändern und speichern.
- Zurückkehren in die Personenliste.
-7.5.2 Beispiel
- „Golfturnier Schulung“ suchen und in die Veranstaltung einsteigen.
- Suche nach den nominierten Personen.
- Durch anklicken des Symbols gelangt man in die Nominierungsdetails der nominierten
-Person:
-Events Schulung Kundenbetreuer Seite 43
+7.5 Dettagli nomina
+Nella lista persone di un evento possono essere inseriti solo conferme, rifiuti e partecipazione. Modifiche successive dell'invitante o dell'azienda assegnata non sono possibili. Per poter modificare anche questi, si può passare dalla lista persone di un evento o dalla lista eventi di una persona ai dettagli nomina.
+
+7.5.1 Obiettivi
+ Aprire i dettagli nomina dalla lista persone.
+ Modificare e salvare i dettagli nomina.
+ Tornare alla lista persone.
+
+7.5.2 Esempio
+ Cercare "Torneo golf Formazione" ed entrare nell'evento.
+ Ricerca delle persone nominate.
+
+ Cliccando sul simbolo si accede ai dettagli nomina della persona nominata:
+
+Events Formazione Responsabili Clienti Pagina 43
 08/2007
- Wenn die nominierte Person Ansprechpartner von Unternehmen ist, werden alle
-Unternehmen in der Auswahlbox aufgelistet. Jenes Unternehmen das in SaM als
-„bevorzugtes Unternehmen“ markiert ist, ist in der Liste durch ein „*“ gekennzeichnet.
- Vorgenommene Änderungen werden mit der Schaltfläche Übernehmen gespeichert.
- Mit der Schaltfläche Zurück gelangt man wieder in die Personenliste der Veranstaltung
-zurück, wobei vorgenommene Änderungen dabei nicht gespeichert werden.
-7.5.3 Aufgaben
- Suchen sie eine von ihnen nominierten Personen.
- Öffnen sie die Nominierungsdetails und ändern sie den Einladenden.
- Kehren sie in die Personenliste zurück.
-Seite 44 Events Schulung Kundenbetreuer
+ Se la persona nominata è interlocutore di aziende, vengono elencate tutte le aziende nella casella di selezione. Quell'azienda che è contrassegnata in SaM come "azienda preferita" è contrassegnata nella lista con un "*".
+
+ Le modifiche effettuate vengono salvate con il pulsante Acquisisci.
+
+ Con il pulsante Indietro si torna alla lista persone dell'evento, senza che le modifiche effettuate vengano salvate.
+
+7.5.3 Compiti
+ Cercare una delle persone da voi nominate.
+ Aprire i dettagli nomina e modificare l'invitante.
+ Tornare alla lista persone.
+
+Pagina 44 Events Formazione Responsabili Clienti
 08/2007
-8 Hilfe!
-8.1 Wo finden Sie Informationen?
- Neben dieser Schulungsunterlage finden sie Informationen im Benutzerhandbuch von Events
-im pdf-Format im Intranet:
- Für manche komplexeren Formulare von Events kann auch eine Online-Hilfe aufgerufen
-werden. Verwende sie dazu den Link Hilfe in der Überschrift des Formulars.
- Die Hilfe wird als PDF-Dokument in einem eigenen Browser Fenster angezeigt.
-8.2 Wer kann bei einem Problem helfen?
- Der Veranstaltungsplaner der Veranstaltung.
- Sollte der Veranstaltungsplaner ihre Fragen nicht beantworten können, so ist Frau Irene-
-Müller-Gerstenbauer DW 42053 (Corporates Marketing) ihr nächster Ansprechpartner.
-Events Schulung Kundenbetreuer Seite 45
+8 Aiuto!
+8.1 Dove trovare informazioni?
+ Oltre a questa documentazione formativa troverete informazioni nel manuale utente di Events in formato pdf nell'intranet:
+
+ Per alcuni moduli più complessi di Events può essere richiamato anche un aiuto online. Utilizzate a tal fine il link Aiuto nell'intestazione del modulo.
+
+ L'aiuto viene visualizzato come documento PDF in una finestra browser separata.
+
+8.2 Chi può aiutare in caso di problemi?
+ L'organizzatore dell'evento.
+ Se l'organizzatore dell'evento non può rispondere alle vostre domande, la Sig.ra Irene-Müller-Gerstenbauer int. 42053 (Corporates Marketing) è il vostro prossimo interlocutore.
+
+Events Formazione Responsabili Clienti Pagina 45
 08/2007
- Bei technischen Problemen wenden sie sich an Herrn Herbert Schaludek DW 58817 oder
-Herrn Wolfgang Wagner DW 58816 (WAT2CW).
-Seite 46 Events Schulung Kundenbetreuer
+ Per problemi tecnici rivolgetevi al Sig. Herbert Schaludek int. 58817 o al Sig. Wolfgang Wagner int. 58816 (WAT2CW).
+
+Pagina 46 Events Formazione Responsabili Clienti
 08/2007
-9 Vorbereitung einer Schulung
-Aktivitäten, die der Vortragende vor einer Schulung durchführen bzw. überprüfen muss.
-Veranstaltung „Golfturnier Schulung“
- Alte Veranstaltung löschen.
- „Golfturnier Schulung“ neu anlegen (siehe Kapitel Einladen zu Veranstaltungen).
- Vorselektion durchführen mit Interesse Golf und der jeweiligen Region durchführen.
+9 Preparazione di una formazione
+Attività che il relatore deve svolgere o verificare prima di una formazione.
+
+Evento "Torneo golf Formazione"
+ Cancellare il vecchio evento.
+ Creare di nuovo "Torneo golf Formazione" (vedi capitolo Invitare a eventi).
+ Effettuare la preselezione con interesse Golf e la rispettiva regione.
