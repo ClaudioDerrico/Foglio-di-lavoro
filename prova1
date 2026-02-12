@@ -1,768 +1,2248 @@
 Events
-Formazione Responsabili Clienti
-Persona di contatto: 8858 Corporates Marketing
-Irene Müller-Gerstenbauer, 42053 int.
-Copyright © Bank Austria Creditanstalt AG. Tutti i diritti riservati. Tutti i diritti riservati.
-Tutti i diritti, in particolare il diritto di riproduzione e trattamento così come di traduzione,
-riservati. Nessuna parte dell'opera può essere riprodotta in qualsiasi forma (tramite fotocopia, microfilm
-o altro procedimento) senza autorizzazione scritta del gruppo Bank Austria Creditanstalt
-o memorizzata, elaborata, riprodotta o diffusa utilizzando sistemi elettronici.
-
-Indice
-1 Introduzione ..............................................................................................................................1
-1.1 Cos'è il database Events?.............................................................................................1
-1.2 Chi può utilizzare il database Events? .........................................................................2
-1.3 Come si svolge l'organizzazione di un evento?..........................................................3
-2 Svolgimento della formazione ............................................................................................................4
-3 Avvio dell'applicazione...........................................................................................................5
-3.1 Compiti ................................................................................................................................5
-4 L'area applicativa.....................................................................................................6
-4.1 Ricerca Collaboratori ...................................................................................................................7
-5 Cercare e visualizzare persone .........................................................................................8
-5.1 Ricerca persone ......................................................................................................................8
-5.1.1 Obiettivo.............................................................................................................................8
-5.1.2 Esempio ......................................................................................................................8
-5.1.3 Compiti .................................................................................................................11
-5.2 Dati personali .....................................................................................................................12
-5.2.1 Obiettivo...........................................................................................................................12
-5.2.2 Esempio ....................................................................................................................12
-5.2.3 Compiti .................................................................................................................19
-6 Cercare e visualizzare aziende ................................................................................21
-6.1 Ricerca aziende ............................................................................................................21
-6.1.1 Obiettivo...........................................................................................................................21
-6.1.2 Esempio ....................................................................................................................21
-6.1.3 Compiti .................................................................................................................23
-6.2 Dati aziendali.............................................................................................................24
-6.2.1 Obiettivo...........................................................................................................................24
-6.2.2 Esempio ....................................................................................................................24
-7 Invitare a eventi............................................................................................28
-7.1 Ricerca eventi............................................................................................................28
-7.1.1 Obiettivo...........................................................................................................................28
-7.1.2 Esempio ....................................................................................................................28
-7.1.3 Compiti .................................................................................................................32
-7.2 Confermare e cancellare persone preselezionate .............................................................33
-7.2.1 Obiettivo...........................................................................................................................33
-7.2.2 Esempio ....................................................................................................................33
-7.2.3 Compiti .................................................................................................................34
-7.3 Nominare persone aggiuntive......................................................................................35
-7.3.1 Obiettivi.........................................................................................................................35
-
-Events Formazione Responsabili Clienti Pagina 3
-08/200708/2007
-7.3.2 Esempio.................................................................................................................... 35
-7.3.3 Compiti................................................................................................................. 38
-7.4 Inserire conferme e rifiuti......................................................................................... 39
-7.4.1 Obiettivi......................................................................................................................... 39
-7.4.2 Esempio.................................................................................................................... 39
-7.4.3 Compiti................................................................................................................. 41
-7.5 Dettagli nomina ............................................................................................................ 42
-7.5.1 Obiettivi......................................................................................................................... 42
-7.5.2 Esempio.................................................................................................................... 42
-7.5.3 Compiti................................................................................................................. 43
-8 Aiuto! .................................................................................................................................... 44
-8.1 Dove trovare informazioni?.............................................................................................. 44
-8.2 Chi può aiutare in caso di problemi?.................................................................................. 44
-9 Preparazione di una formazione............................................................................................ 46
-
-Events Formazione Responsabili Clienti Pagina 1
+Benutzerhandbuch
 08/2007
-1 Introduzione
-1.1 Cos'è il database Events?
-Con il database Events è stato sviluppato uno strumento che apporta miglioramenti qualitativi sostanziali nella pianificazione e realizzazione di attività di marketing relative agli eventi.
+Ansprechpartner: 8425 Group Marketing - Irene Müller-Gerstenbauer
+Copyright © Bank Austria Creditanstalt AG. All rights reserved. Alle Rechte vorbehalten.
+Alle Rechte, insbesondere das Recht der Vervielfältigung und Verarbeitung sowie der Übersetzung,
+vorbehalten. Kein Teil des Werkes darf in irgendeiner Form (durch Fotokopie, Mikrofilm
+oder ein anderes Verfahren) ohne schriftliche Genehmigung des Bank Austria Creditanstalt
+Konzerns reproduziert oder unter Verwendung elektronischer Systeme gespeichert, verarbeitet,
+vervielfältigt oder verbreitet werden.
 
-Particolare attenzione è stata posta nello sviluppo sull'aumento dell'efficienza nel processo di invito, sul miglioramento della qualità dei dati, sull'evitare duplicazioni e sulla facilitazione nella selezione dei gruppi target.
-
-Il database Events ha sostituito "soluzioni isolate" nell'area dei database di marketing dell'istituto (ad es. database VIP gestiti nelle regioni e nei dipartimenti centrali) e attinge principalmente ai dati di OLAV. In questo modo si evitano confronti manuali dispendiosi in termini di tempo e si migliora la qualità dei dati.
-
-Il database Events si basa su Intranet e consente l'accesso online sia da parte degli uffici che pianificano gli eventi sia dei responsabili clienti coinvolti. Uno stato intermedio o liste finali relative ai clienti invitati e registrati in ogni fase dell'organizzazione dell'evento è visibile a tutti i partecipanti, inoltre si evitano inviti doppi da parte dei responsabili ed eventuali co-responsabili attraverso la visualizzazione del rispettivo "primo invitante". Il sistema è dinamico, è possibile accedere a un gruppo di persone già invitate per eventi successivi.
-
-I vantaggi in sintesi:
- Sostituzione delle soluzioni isolate esistenti. Acquisizione e aggiornamenti dei dati da Olav (non è più necessaria la doppia manutenzione.
- Non sono più necessarie registrazioni clienti tramite fogli Excel o liste di cancellazione Dirma.
- Selezione dei clienti anche in base a interessi/interessi di prodotto (ad es. Golf, Treasury, ecc.) possibile.
- Controllo automatico degli inviti doppi
- Creazione automatica di liste (ad es. clienti invitati), che possono essere riutilizzate per eventi successivi (= archiviazione delle liste inviti).
- Gestione efficiente e user-friendly della modalità di invito.
-
-Pagina 2 Events Formazione Responsabili Clienti
+Events Benutzerhandbuch Seite 1
 08/2007
-1.2 Chi può utilizzare il database Events?
-Il database Events è progettato per gli organizzatori di eventi e i responsabili clienti.
-Gli organizzatori di eventi sono collaboratori del Marketing Centrale, di Group Public Relations e Manager Marketing Regionali.
-
-Queste persone pianificano eventi e li creano in Events insieme alla descrizione del gruppo target e ai dettagli contenutistici per i responsabili clienti.
-
-Dopo la nomina dei partecipanti da parte dei responsabili clienti, conducono l'evento (invio degli inviti, gestione della lista delle conferme e dei rifiuti).
-
-I responsabili clienti richiamano il rispettivo evento in Events e selezionano i loro clienti secondo la descrizione della definizione del gruppo target da parte dell'organizzatore dell'evento. Events fornisce un elenco clienti secondo i criteri selezionati sul quale il responsabile clienti può nominare per l'invito con un clic del mouse.
-
-Poiché anche i co-responsabili hanno la possibilità di effettuare inviti, viene visualizzato per ogni cliente se e da chi (tramite numero personale e nome) è già stato invitato.
-
-Ruoli utente e autorizzazioni:
-Dai tipi di utente brevemente descritti sopra derivano tre diversi ruoli utente o autorizzazioni di utilizzo:
-
-Responsabili clienti/Assistenti di gestione sono autorizzati a
- Invitare persone a eventi
-
-Organizzatori di eventi (Corporate Marketing, Group Public Relation, Manager Marketing Regionali):
- hanno tutte le autorizzazioni di un responsabile clienti,
- possono creare VIP in Events (= politici, giornalisti, ambasciatori ecc., che non sono registrati come clienti in OLAV) e contrassegnarli con il sigillo VIP e
- Pianificare e condurre eventi
-
-Amministratori (Corporate Marketing, Group Public Relation) hanno
- tutte le autorizzazioni di un organizzatore di eventi e possono
- espandere il database Events con nuovi attributi di marketing come funzioni Events.
- Definire organizzatori di eventi.
-
-Events Formazione Responsabili Clienti Pagina 3
+Inhaltsverzeichnis
+1 Einleitung ......................................................................................................................................... 1
+1.1 Was ist die Events-Datenbank?............................................................................................. 1
+1.2 Wer kann die Events-Datenbank benützen? ......................................................................... 1
+1.2.1 Anwenderrollen und Berechtigungen:....................................................................... 2
+1.3 Wie ist der Organisationsablauf einer Veranstaltung?........................................................... 3
+2 Begriffe............................................................................................................................................. 4
+3 Start der Anwendung ....................................................................................................................... 5
+3.1 Mitarbeitermappe ................................................................................................................... 5
+3.2 Anwendungsübersicht............................................................................................................ 5
+3.3 Internet Explorer..................................................................................................................... 6
+3.4 Startseite ................................................................................................................................ 6
+4 Anwendungsnavigation.................................................................................................................... 7
+4.1 Benutzerauswahl.................................................................................................................... 8
+4.2 Themennavigation.................................................................................................................. 8
+4.3 Objektnavigation..................................................................................................................... 9
+4.4 Hilfe ........................................................................................................................................ 9
+5 Personen und Unternehmen.......................................................................................................... 10
+6 Veranstaltungen............................................................................................................................. 12
+6.1 Veranstaltung Suchen.......................................................................................................... 14
+6.2 Veranstaltung Details ........................................................................................................... 16
+6.2.1 Veranstaltung Personen.......................................................................................... 16
+6.2.2 Vorselektionsliste .................................................................................................... 19
+6.2.3 Nominiertenliste....................................................................................................... 21
+6.2.4 Druck- und Downloadlisten ..................................................................................... 23
+6.2.5 Personen hinzufügen .............................................................................................. 26
+6.2.6 Personen aus Veranstaltung importieren................................................................ 30
+6.2.7 Veranstaltung Stammdaten..................................................................................... 34
+6.2.8 Veranstaltung Kontingentierung.............................................................................. 37
+6.2.9 Veranstaltung Produktion (V) .................................................................................. 40
+6.2.10 Veranstaltung Statistik ............................................................................................ 52
+6.3 Veranstaltung Anlegen (V) ................................................................................................... 53
+6.3.1 Neue Veranstaltung ................................................................................................ 53
+6.3.2 Veranstaltung Kopieren........................................................................................... 55
+6.4 Veranstaltung Löschen (V)................................................................................................... 57
+7 Personen........................................................................................................................................ 59
+7.1 Personen Suchen................................................................................................................. 59
+7.1.1 Kriteriengruppe Person(1)....................................................................................... 60
+7.1.2 Kriteriengruppe Person(2)....................................................................................... 61
+7.1.3 Kriteriengruppe Unternehmen(1) ............................................................................ 62
+7.1.4 Kriteriengruppe Unternehmen(2) ............................................................................ 63
+7.1.5 Kriteriengruppe Ansprechpartner ............................................................................ 63
+Seite 2 Events Benutzerhandbuch
 08/2007
-1.3 Come si svolge l'organizzazione di un evento?
-Creazione e pianificazione di un evento
-Gli eventi possono essere pianificati centralmente o regionalmente. A livello centrale i collaboratori di Group Marketing o Group Public Relations, a livello regionale i manager marketing regionali creano un nuovo evento in Events. Inseriscono il titolo dell'evento, la data dell'evento, il luogo dell'evento, una descrizione del contenuto e una scadenza per gli inviti e un link web con ulteriori informazioni sul programma dell'evento. Se necessario, può essere inserito anche un contingente (numero massimo di partecipanti) e la partecipazione di regioni/sedi. In uno spazio per note fornisce l'esatta descrizione del gruppo target e c'è la possibilità di una preselezione diretta (lista di proposte) e nomina di clienti.
-
-Successivamente avviene l'informazione dei responsabili clienti coinvolti.
-
-Selezione partecipanti:
-I responsabili clienti cancellano o confermano i clienti dalla lista di proposte creata dall'organizzatore dell'evento. Inoltre, i responsabili clienti selezionano con un clic del mouse quelle persone e interlocutori di aziende che devono essere invitati sulla base della descrizione del gruppo target indicata.
-
-Si evitano inviti doppi da parte di eventuali altri responsabili, poiché per il responsabile clienti è visibile all'interno della lista se e da chi è già stato invitato l'uno o l'altro cliente. Un invito doppio allo stesso evento non è quindi possibile.
-
-Produzione e invio inviti:
-Dopo il completamento della selezione degli invitati avviene la produzione e l'invio degli inviti. Su quale canale informativo questo avvenga è anch'esso definito nella descrizione dell'evento dall'organizzatore dell'evento (posta, e-mail o telefono). Per la produzione degli inviti il sistema mette a disposizione anche diversi strumenti, ad es. la creazione di una lettera circolare che accede direttamente agli indirizzi della lista conferme.
-
-Conferme clienti:
-Le registrazioni in arrivo vengono inserite in Events. A seconda dell'evento, le conferme vengono inserite dall'organizzatore dell'evento o direttamente dal responsabile clienti. Per una post-elaborazione o puramente per informazione, uno stato intermedio sulle conferme o rifiuti in arrivo è visibile in qualsiasi momento per ogni responsabile clienti.
-
-Dopo la scadenza delle registrazioni possono essere create liste partecipanti, segnaposti ecc.
-
-Dopo l'evento:
-L'evento rimane nel sistema fino a 3 anni dopo la data dell'evento. I partecipanti selezionati possono essere riutilizzati per eventi futuri sullo stesso o simile tema (cioè le liste partecipanti vengono archiviate).
-
-Pagina 4 Events Formazione Responsabili Clienti
+7.1.6 Kriteriengruppe Interessen...................................................................................... 64
+7.1.7 Suche Starten.......................................................................................................... 64
+7.1.8 Trefferliste ............................................................................................................... 65
+7.2 Person Details ...................................................................................................................... 59
+7.2.1 Person Stammdaten ............................................................................................... 67
+7.2.2 Person Unternehmen .............................................................................................. 70
+7.2.3 Person Adressen..................................................................................................... 74
+7.2.4 Person Marketing .................................................................................................... 76
+7.2.5 Person Veranstaltungen.......................................................................................... 78
+7.2.6 Person Verwendung................................................................................................ 79
+7.3 Events Person Anlegen (V).................................................................................................. 81
+7.4 Events Person Verknüpfen (V)............................................................................................. 85
+8 Unternehmen ................................................................................................................................. 88
+8.1 Unternehmen Suchen .......................................................................................................... 88
+8.1.1 Kriteriengruppe Unternehmen(1) ............................................................................ 89
+8.1.2 Kriteriengruppe Unternehmen (2) ........................................................................... 90
+8.1.3 Suche Starten.......................................................................................................... 90
+8.1.4 Trefferliste ............................................................................................................... 91
+8.2 Unternehmen Details ........................................................................................................... 92
+8.2.1 Unternehmen Stammdaten..................................................................................... 93
+8.2.2 Unternehmen Personen .......................................................................................... 96
+8.2.3 Unternehmen Adressen ........................................................................................ 100
+8.2.4 Unternehmen Verwendung ................................................................................... 102
+8.3 Events Unternehmen Anlegen (V) ..................................................................................... 103
+8.4 Events Unternehmen Löschen (V) ..................................................................................... 104
+8.5 Events Unternehmen Löschen (V) ..................................................................................... 106
+8.6 Events Unternehmen Verknüpfen (V) ................................................................................ 108
+9 Mitarbeiter Suche......................................................................................................................... 112
+10 Administration .............................................................................................................................. 113
+10.1 Veranstaltungsplaner (A) ................................................................................................... 113
+10.2 Administratoren (A) ............................................................................................................ 115
+10.3 Funktionen (A).................................................................................................................... 116
+10.4 Dirma Parameters (A) ........................................................................................................ 117
+Events Benutzerhandbuch Seite 1
 08/2007
-2 Svolgimento della formazione
-Dopo la breve introduzione all'organizzazione generale di eventi centrali e regionali, le funzioni importanti di Events per il responsabile clienti/assistente di gestione vengono simulate tramite un evento.
-
-Come documentazione integrativa viene utilizzata la documentazione utente Events. In questa documentazione utente troverete descrizioni precise delle singole funzioni.
-
-La formazione è strutturata in una serie di esercizi. Gli esercizi sono progressivi. Pertanto i partecipanti devono svolgere i compiti degli esercizi secondo le specifiche.
-
-Struttura di un esercizio:
- Presentazione dell'obiettivo dell'esercizio.
-Per ogni capitolo della formazione vengono prima presentati dal formatore gli obiettivi e le funzioni rilevanti.
- Presentazione di un esempio da parte del formatore.
-Nell'ambito della formazione il formatore assume il ruolo dell'organizzatore dell'evento. Si prega di seguire questa parte della dimostrazione.
- Soluzione del compito dell'esercizio da parte dei partecipanti al corso
- Risposta alle domande
-
-SUGGERIMENTO: Oltre ai riferimenti incrociati alla documentazione vengono forniti anche suggerimenti per un uso efficiente.
-
-Events Formazione Responsabili Clienti Pagina 5
+1 Einleitung
+1.1 Was ist die Events-Datenbank?
+Mit der Events-Datenbank wurde ein Instrument entwickelt, welches bei der Planung und Umsetzung
+von Marketingaktivitäten rund um das Thema Veranstaltungen wesentliche Qualitätsverbesserungen
+bringt.
+Besonderes Augenmerk wurde bei der Entwicklung auf die Effizienzsteigerung im
+Einladungsablauf, die Verbesserung der Datenqualität, die Vermeidung von Doppelgleisigkeiten
+und die Erleichterung bei der Zielgruppenauswahl gelegt.
+Die Events-Datenbank löst bisherige "Insellösungen" im Bereich der Marketingdatenbanken im
+Haus ab (z.B. geführte VIP-Datenbanken in Regionen und Zentralen Abteilungen) und greift primär
+auf Daten aus OLAV zu. Weiters erlaubt sie erstmals die Erfassung und Weiterverarbeitung von
+Marketing relevanten Kriterien zu Unternehmen bzw. Personen (z.B. Interessen/Produktinteressen
+wie Golf, Treasury, etc.). Dadurch werden zeitintensive manuelle Abgleiche vermieden und die
+Datenqualität verbessert.
+Die Events-Datenbank ist eine Intranetanwendung und erlaubt den Zugriff sowohl durch
+veranstaltungsplanende Stellen als auch involvierten KundenbetreuerInnen online. Ein Zwischenstand
+bzw. Endlisten bezüglich eingeladener und angemeldeter Kunden in jedem Stadium der
+Veranstaltungsorganisation ist für alle Beteiligten ersichtlich, ebenso werden Doppeleinladungen
+durch Betreuer und etwaige Zusatzbetreuer durch die Anzeige des jeweiligen "Ersteinladers"
+vermieden. Das System ist dynamisch, auf einen bereits eingeladenen Personenkreis kann bei
+Folgeveranstaltungen zugegriffen werden.
+Die Vorteile auf einem Blick:
+ Ablöse bestehender Insellösungen. Übernahme und Updates der Daten aus Olav (keine
+Doppelwartung mehr nötig).
+ Keine Kundeneinmeldungen per Excel-Sheet oder Dirma-Streichlisten mehr nötig.
+ Selektion der Kunden auch nach Interessen/Produktinteressen (z.B. Golf, Treasury, etc.) möglich.
+ Automatischer Abgleich von Doppeleinladungen.
+ Automatische Erstellung von Listen (z.B. eingeladene Kunden), die für Folgeveranstaltungen
+wieder eingesetzt werden können (= Archivierung der Einladungslisten).
+ Effiziente und anwenderfreundliche Abwicklung des Einladungsmodus.
+ Kontingentierung bis auf Stellenebene.
+ Produktion von Adresskleber, Tischkarten, Namensschilder über Word Serienbrieffunktionalitäten.
+Aufteilung der Produktion bis auf Stellenebene.
+1.2 Wer kann die Events-Datenbank benützen?
+Die Events-Datenbank ist für Veranstaltungsplaner und Kundenbetreuer konzipiert.
+Veranstaltungsplaner sind Mitarbeiter des Zentralen Firmenkundenmarketings, aus Group Public
+Relations und Regionale Marketingmanager.
+Diese Personen planen Veranstaltungen und legen sie in Events samt Zielgruppenbeschreibung und
+inhaltlichen Details für die Kundenbetreuer an.
+Nach der Teilnehmernominierung durch die Kundenbetreuer führen sie die Veranstaltung durch (=
+Versendung der Einladungen, Wartung der Zusagen- und Absagenliste).
+Kundenbetreuer rufen die jeweilige Veranstaltung in Events auf, ebenso ihre Kunden lt. Beschreibung
+der Zielgruppendefinition durch den Veranstaltungsplaner. Bei der Auswahl können sowohl Kriterien
+Seite 2 Events Benutzerhandbuch
 08/2007
-3 Avvio dell'applicazione
-È possibile avviare Events nei seguenti modi:
- Cartella collaboratori: Marketing, Vendite e Pubblicità / Events – Database eventi
- Panoramica applicazioni: BA-CA Intranet / Events – Database eventi
- Internet Explorer: http://fkevents.intranet.lan.at
-
-Appare la seguente maschera di accesso:
-
-Attenzione: Per questo accesso è necessario utilizzare la password host e non la password intranet.
-
-SUGGERIMENTO: All'avvio dalla cartella collaboratori e dalla panoramica applicazioni l'accesso a Events non è necessario.
-
-Nota: Se non si lavora in una finestra del browser per più di 2 ore, appare anche questo modulo di accesso.
-
-Dopo l'avvio dell'applicazione si accede alla ricerca eventi:
-
-3.1 Compiti
- Avvio tramite Internet Explorer tramite il link http://fkevents.intranet.lan.at
-Tutti si registrano in Events con il proprio numero personale e la password host attuale.
- Avvio di Events dalla cartella collaboratori.
-
-Pagina 6 Events Formazione Responsabili Clienti
+aus Olav als auch marketingrelevante Kriterien aus Events kombiniert werden. Events liefert nach den
+definierten Kriterien eine Kundenaufstellung auf welcher der Kundenbetreuer per Mausklick Kunden
+für die Einladung nominieren kann.
+Da auch Zusatzbetreuer die Möglichkeit haben, Einladungen vorzunehmen, wird bei jedem Kunden
+angezeigt, ob bzw. von wem (durch Personalnummer und Namen) dieser bereits eingeladen bzw.
+nominiert wurde.
+1.2.1 Anwenderrollen und Berechtigungen:
+Aus den oben kurz beschriebenen Anwenderarten ergeben sich drei verschiedene Anwenderrollen
+bzw. Benützungsberechtigungen:
+(K) Kundenbetreuer/BetreuungsassistInnen sind berechtigt
+ Personen zu Veranstaltungen einzuladen
+(V) Veranstaltungsplaner (Group Marketing, GPR, Regionale
+Marketingmanager):
+ haben alle Berechtigungen eines Kundenbetreuers,
+ können VIPs in Events anlegen (= Politiker, Journalisten, Botschafter etc., welche nicht als
+Kunden in OLAV angelegt sind) und mit dem Sigel VIP versehen und
+ Veranstaltungen planen und durchführen
+(A) Administratoren (GPR, Group Marketing) haben
+ alle Berechtigungen eines Veranstaltungsplaners und können
+ die Events-Datenbank um neue Marketingattribute wie Events-Funktionen erweitern.
+Die einzelnen Kapitel und auch die Inhalte in diesem Handbuch sind mit (K), (V) resp. (A)
+gekennzeichnet. Die Kennzeichnung zeigt an ob das Kapitel für Verwender mit der entsprechenden
+Anwendungsrolle relevant ist.
+Events Benutzerhandbuch Seite 3
 08/2007
-4 L'area applicativa
-L'area applicativa di Events è strutturata come segue:
- Barra titolo:
-o Logo: Il logo BACA è un hyperlink al modulo errori dell'applicazione
-o Titolo dell'applicazione
- Navigazione
-o Selezione utente: Selezione di un utente della propria sede, se si vuole lavorare con Events in rappresentanza di questo utente. Se si vuole passare a un utente di un'altra sede, si accede alla "Ricerca collaboratori" selezionando la voce <Cerca…>.
-o Navigazione tematica: Voci di menu principali dell'applicazione
-o Navigazione oggetti: Voci di menu per un oggetto come evento o persona
- Modulo applicazione
-o Titolo modulo: Qui si trova in alcuni moduli anche un link all'aiuto dell'applicazione.
-o Contenuto del modulo con controlli di input, pulsanti, tooltip e hyperlink.
-
-Events Formazione Responsabili Clienti Pagina 7
+1.3 Wie ist der Organisationsablauf einer Veranstaltung?
+Anlegen und Planen einer Veranstaltung
+Veranstaltungen können zentral oder regional geplant werden. Zentral legen Mitarbeiter aus dem
+Group Marketing oder Group Public Relations, auf regionaler Ebene die regionalen Marketingmanager
+eine neue Veranstaltung in Events an. Sie geben den Veranstaltungstitel, das Veranstaltungsdatum,
+den Veranstaltungsort, eine Inhaltsbeschreibung und eine Einladungsdeadline ein. Bei Bedarf kann
+auch eine Kontingentierung (maximale Teilnehmerzahl) eingegeben werden. In einem Raum für
+Notizen gibt er die genaue Zielgruppenbeschreibung ab, es besteht auch die Möglichkeit einer
+direkten Vorselektion. Weiters kann man einen Link eingeben der zum Veranstaltungsprogramm führt.
+Danach erfolgt die Information der involvierten Kundenbetreuer.
+Teilnehmerauswahl:
+Die Kundenbetreuer wählen aufgrund der angegebenen Zielgruppenbeschreibung per Mausklick jene
+Personen in Unternehmen aus einer Vorselektion aus, welche tatsächlich eingeladen bzw. nominiert
+werden sollen. Die Personenliste kann so eingeschränkt werden, dass der Kundenbetreuer nur seine
+eigenen Kunden sieht. Diese Liste kann auch um Personen erweitert werden. Weiters kann der
+Kundenbetreuer Interessen von Personen und Unternehmen in die Events einpflegen, was bei
+künftigen Aktivitäten die Zielgruppenauswahl erleichtert.
+Doppeleinladungen durch etwaige Zusatzbetreuer werden vermieden, da für den Kundenbetreuer
+innerhalb der Liste ersichtlich ist, ob und von wem, der eine oder andere Kunde bereits eingeladen
+wurde. Eine zweifache Einladung zu ein und derselben Veranstaltung ist also nicht möglich.
+Einladungsproduktion und -versendung:
+Nach Abschluss der Auswahl der Einzuladenden erfolgt die Einladungsproduktion und Versendung.
+Auf welchem Informationskanal dies erfolgt, ist ebenfalls bei der Veranstaltungsbeschreibung durch
+den Veranstaltungsplaner definiert (Post, e-mail oder Telefon). Für die Einladungsproduktion stellt das
+System ebenfalls diverse Tools zur Verfügung, z.B. die Erstellung eines Serienbriefes, welcher direkt
+auf die Adressen der Personenliste zugreift.
+Kundenzusagen:
+Eingehende Anmeldungen werden in Events eingepflegt. Je nach Veranstaltung werden die Zusagen
+vom Veranstaltungsplaner oder auch direkt vom Kundenbetreuer eingepflegt. Für eine
+Nachbearbeitung oder rein zur Information ist ein Zwischenstand über eingehende Zusagen bzw.
+Absagen für jeden Firmenkundenbetreuer jederzeit ersichtlich.
+Nach Anmeldeschluss können Teilnehmerlisten, Tischkarten etc. erstellt werden.
+Nach der Veranstaltung:
+Die Veranstaltung bleibt im System, die ausgewählten Teilnehmer können für künftige
+Veranstaltungen zu gleichem oder ähnlichem Thema wieder verwendet werden (d.h. Teilnehmerlisten
+werden archiviert).
+Seite 4 Events Benutzerhandbuch
 08/2007
-4.1 Ricerca Collaboratori
-Nella selezione utente (sopra la navigazione tematica) o nella lista di selezione "Collabs." (lista di selezione dall'area di input "Regione/Sede/Collab.", utilizzata nei vari moduli), può essere sempre selezionato direttamente solo un collaboratore della rispettiva sede.
-
-Tramite una ricerca collaboratori si possono cercare e acquisire collaboratori tramite vari criteri di selezione.
-
- Per selezionare un collaboratore di un'altra sede, selezionare nella lista di selezione dei collaboratori la voce "<Cerca…>":
-
- Tramite i criteri di ricerca si può limitare la ricerca, dove per le abbreviazioni del contenuto dei campi può essere utilizzato un "*".
-
- Con il pulsante Cerca viene avviata la ricerca e i collaboratori trovati vengono visualizzati nella lista risultati.
-
- Quello da acquisire va selezionato tramite il  pulsante di selezione a sinistra del numero personale.
-
- Con il pulsante Acquisisci vengono acquisiti i dati del collaboratore.
-
-Pagina 8 Events Formazione Responsabili Clienti
+2 Begriffe
+Für das bessere Verständnis der nachfolgenden Dokumentation sollen einige wesentliche Begriffe der
+Anwendung an dieser Stelle definiert werden:
+Begriff Verwendung
+Events-Unternehmen Unternehmen, das in Events gepflegt wird. Events-Unternehmen sind
+nicht in OLAV vorhanden. Events-Unternehmen sollen nur dann
+verwendet werden, wenn keine Geschäftsbeziehung zu diesem
+Unternehmen besteht aber ein oder mehrere Events-Personen diesem
+Unternehmen zugeordnet werden können.
+Grundsätzlich sollten Kundenbetreuer alle Unternehmen in OLAV
+erfasst werden, auch solche, mit denen wir in keiner
+Geschäftsbeziehung stehen.
+OLAV-Unternehmen Unternehmen ist eine Kunde der Bank, der eine Geschäftsbeziehung
+zur Bank unterhält. Ein OLAV-Unternehmen ist im System OLAV
+vorhanden. Unternehmensdaten werden nur in OLAV gepflegt.
+Person Person, die zu bestimmten Veranstaltungen eingeladen werden kann,
+d.h. über unsere Anwendung in Bezug auf Veranstaltungen kontaktiert
+wird.
+Events-Person Ist eine Person, die in Events angelegt wird und daher in OLAV nicht
+vorhanden ist, z.B. Journalist, Politiker. Eine Events-Person kann einem
+oder mehreren Events-Unternehmen zugeordnet werden.
+OLAV-Person Ist eine Person, die in einer Beziehung zu einem OLAV-Unternehmen
+steht (z.B. Geschäftsführer, Marketingleiter). Die OLAV-Person wird im
+System OLAV als Funktionsträger oder Organ zu einem Unternehmen
+dargestellt. Alle Daten zu OLAV-Personen - außer Interessen - werden
+in OLAV gepflegt.
+Benutzer Ist eine Person, die im Personalsystem bekannt ist, und die einen
+Zugang zum System hat. Mitarbeiter arbeiten aufgrund ihrer
+organisatorischen Zuordnung in einer oder mehreren Rollen mit dem
+System (z.B. Kundenbetreuer, Regionaler Marketingverantwortlicher).
+Kundenbetreuer Ist eine spezielle Rolle eines Mitarbeiters. Ein Mitarbeiter ist im System
+OLAV einem oder mehreren Kunden als Betreuer zugeordnet.
+GPR Group Public Relations
+RMM Regionaler Marketing Manager
+FKM Group Marketing
+Assistenz RD/LD Assistenzkräfte in einer Regionaldirektion bzw. Landesdirektion
+Betreuungsassistenz Assistenzkräfte für die Kundenbetreuung.
+Events Benutzerhandbuch Seite 5
 08/2007
-5 Cercare e visualizzare persone
-Il capitolo Ricerca Gestione dati personali ha lo scopo di familiarizzarvi con la ricerca persone di Events e presentarvi i contenuti dati di Events - integrativi a OLAV.
-
-Se si vogliono visualizzare o gestire dati personali in Events, è necessario cercare la persona e aprire la vista oggetto della persona. In alternativa la vista oggetto di una persona può essere aperta dai vari moduli come ad es. la lista inviti di un evento tramite hyperlink.
-
-5.1 Ricerca persone
-5.1.1 Obiettivo
- Conoscere i criteri di ricerca per le persone.
- Cercare una persona specifica.
- Conoscere la struttura della lista risultati.
-
-5.1.2 Esempio
- Aprire la ricerca persone tramite la navigazione tematica voce di menu "Persone".
- Nella ricerca è automaticamente impostata la vostra Regione/Sede/Collab.
-
-Nota: Una limitazione su Regione/Sede/Collab. o CAP. e Località ha effetto sia sulle persone che sulle aziende (vedi scheda Aziende(1)).
-
- Per questo esercizio rimuovere la limitazione per Regione e nella scheda Persona inserire il cognome "Dollinger" e avviare la ricerca con clic sul pulsante Cerca:
-
-Events Formazione Responsabili Clienti Pagina 9
+3 Start der Anwendung
+3.1 Mitarbeitermappe
+Sie können Events aus der Mitarbeitermappe starten. Sie finden den Startknoten unter „Marketing,
+Verkauf und Werbung“. Beim Start (Doppelklick auf den Mappenknoten) aus der Mitarbeitermappe ist
+keine Anmeldung erforderlich.
+3.2 Anwendungsübersicht
+Sie können Events aus der Anwendungsübersicht starten. Sie finden den Startknoten unter „BA-CA
+Intranet“. Sie können in der Anwendungsübersicht auch nach Events suchen und die Anwendung
+direkt aus der Trefferliste starten. Beim Start aus der Anwendungsübersicht (Doppelklick auf den
+Anwendungsknoten oder den Eintrag in der Trefferliste einer Anwendungssuche) ist keine Anmeldung
+erforderlich.
+Seite 6 Events Benutzerhandbuch
 08/2007
- Poiché le persone vengono cercate anche in OLAV ( checkbox incl. Olav è selezionata) e la ricerca non è stata limitata a nessun collaboratore, si ottengono molti risultati.
-
- Limitare ulteriormente la lista risultati completando i criteri di ricerca sulla scheda "Aziende(1)" con il nome azienda "Tyrolit". In questo modo vengono cercate solo le persone che sono assegnate come interlocutori alle aziende "Tyrolit". Avviare la ricerca con clic sul pulsante Cerca:
-
-Pagina 10 Events Formazione Responsabili Clienti
+3.3 Internet Explorer
+Sie starten die Anwendung über folgenden Link aus dem Internet Explorer
+http://fkevents.intranet.lan.at
+Es erscheint folgender Anmeldedialog für die Anwendung:
+Bitte geben sie an dieser Stelle Ihre Host Benutzerkennung (z.B. N562199) und Ihr HOST-Kennwort
+ein und bestätigen sie die Eingaben mit Login .
+3.4 Startseite
+Das Anwendungsfenster ist in drei Bereiche gegliedert:
+1. Header mit Logo und Titel der Anwendung
+2. Anwendungsnavigation: Hier befinden sich Links, die zu anderen Anwendungsseiten
+verzweigen. Es gibt hier drei Blöcke:
+- Benutzerauswahl
+- Themennavigation
+- Objektnavigation
+3. Anwendungsseite: Darstellung der aktuellen Anwendungsseite oder Anwendungsformular mit
+einem Überschriftsbalken
+1
+3
+2
+Events Benutzerhandbuch Seite 7
 08/2007
- La lista risultati diventa corrispondentemente più piccola. La persona "Peter Dollinger" è assegnata a più aziende come interlocutore.
-
-SUGGERIMENTO: Il numero cliente OLAV della persona e dell'azienda possono essere visualizzati se si posiziona il puntatore del mouse sul nome della persona risp. dell'azienda. Se si posiziona il puntatore del mouse sull'indirizzo, viene visualizzato l'indirizzo completo.
-
- Con clic sul pulsante Nuova ricerca si ripristina la maschera di selezione standard. Il collaboratore registrato viene visualizzato automaticamente:
-
- Passare ora alla scheda "Aziende (2)". Nel gruppo "Categorie" effettuare l'impostazione "Grandi aziende (> 40 Mio Euro)" e avviare la ricerca con il pulsante Cerca:
-
-Events Formazione Responsabili Clienti Pagina 11
+4 Anwendungsnavigation
+Die Anwendungsnavigation befindet im linken Bereich des Anwendungsfensters.
+In der Anwendungsnavigation finden sie von oben nach unten die
+Anzeige Beispiel "Planer" Beispiel "Betreuer"
+Benutzerauswahl Immer sichtbar Mag. Verena Aschauer Mag. Georg Fröschl
+Themennavigation
+Immer sichtbar. Inhalt
+der Themennavigation
+ist abhängig von der
+Benutzerrolle des
+angemeldeten
+Benutzers.
+Z.B. "Administration"
+sehen nur Benutzer mit
+der Rolle Administrator.
+Für Veranstaltungsplaner
+und <Administratoren>
+werden die Themen
+angezeigt:
+ Veranstaltungen
+ Personen
+ Unternehmen
+ <Administration>
+Für Betreuer bzw.
+Zusatzbetreuer werden
+die Themen angezeigt:
+ Veranstaltungen
+ Personen
+ Unternehmen
+Objektnavigation
+Nur sichtbar, wenn sie
+ein Anwendungsobjekt
+aktiviert haben.
+Inhalt der
+Objektnavigation ist
+abhängig von der
+Benutzerrolle des
+angemeldeten
+Benutzers.
+Für Veranstaltungsplaner
+werden z.B. für eine
+konkrete Veranstaltung
+die Navigationen
+angezeigt:
+ Personen
+ Stammdaten
+ Kontingentierung
+ Produktion
+ Statistik
+Für Betreuer bzw.
+Zusatzbetreuer werden
+z.B: für eine konkrete
+Veranstaltung die
+Navigationen angezeigt:
+ Personen
+ Stammdaten
+ Statistik
+Benutzerauswahl
+Themennavigation
+Objektnavigation
+Seite 8 Events Benutzerhandbuch
 08/2007
- Vengono ora visualizzati tutti gli interlocutori in grandi aziende in cui il responsabile "Karl-Heinz Tissen" è nel team di gestione della persona o in un'azienda.
-
- Ora questi interlocutori possono essere ulteriormente limitati tramite la scheda "Interlocutori" ad es. a "Consigli di amministrazione" e "Consigli di sorveglianza". Con clic sul pulsante Cerca si ottiene la nuova lista risultati:
-
-Nota: Se nei criteri di ricerca nella scheda "Persona(1)" o in "Aziende(1)" viene inserito un numero cliente, tutti gli altri criteri vengono ignorati.
-
-5.1.3 Compiti
- Cercare tutte le persone e tutti gli interlocutori in un'azienda che sono gestiti da voi.
- Limitare la ricerca a tutti gli interlocutori in aziende delle categorie "Grandi aziende" e "Medie aziende".
- Limitare ulteriormente la ricerca a "Consigli di amministrazione" e "Amministratori delegati".
-
-Pagina 12 Events Formazione Responsabili Clienti
+4.1 Benutzerauswahl
+In der Anwendungsnavigation finden sie ganz oben die Benutzerauswahl. Nach der Anmeldung sind
+sie selbst als Benutzer automatisch ausgewählt. Sollten Sie als Benutzer in der Anwendung
+unbekannt sein, so ist die Benutzerauswahl leer.
+Sie können nun einen anderen Benutzer aus ihrer Stelle wählen und im Namen dieses Benutzers
+arbeiten. Diese Funktion brauchen sie, wenn sie z.B. stellvertretend für einen Kundenbetreuer oder
+einen Veranstaltungsplaner ihrer Stelle Einladungen zu Veranstaltungen vornehmen wollen.
+4.2 Themennavigation
+Abhängig von der Anwenderrolle, die sie haben, sehen sie in der Startseite eine unterschiedliche
+Themennavigation. Das oberste Thema („Veranstaltungen“) ist nach dem Start automatisch selektiert.
+Administrator
+Sofern sie in der Rolle Administrator arbeiten, erhalten sie die Auswahl folgende Themennavigator im
+Navigationsteil:
+Veranstaltungsplaner und Kundenbetreuer
+Sofern sie in der Rolle Veranstaltungsplaner oder Kundenbetreuer
+Arbeiten, erhalten sie den Einstieg zu folgenden Themen über den Themennavigator:
+HINWEIS: Für die Rollen Veranstaltungsplaner oder Kundenbetreuer unterscheiden sich die
+möglichen Anwendungsfunktionen erst innerhalb der Themen.
+Die Berechtigungen für einzelne Anwendungsfunktionen werden über folgende Informationen gebildet:
+ Angemeldeter Benutzer: Angemeldeter Benutzer. Für diesen Benutzer werden die
+Anwendungsrollen (Kundenbetreuer, Veranstaltungsplaner, Administrator) im Sinne einer
+Berechtigungsprüfung ausgewertet.
+ Ausgewählter Benutzer: Ausgewählter Benutzer in der Benutzerauswahl. Z.B. eine
+Assistenzkraft A (Angemeldeter Benutzer) ist angemeldet und führt im Auftrag eines
+Kundenbetreuers B (Ausgewählter Benutzer) Einladungen zu einer Veranstaltung durch.
+ Inhaber: Inhaber eines Objektes. Nur der Inhaber kann bestimmte Daten des entsprechenden
+Objektes ändern, z.B. Verantwortlicher für eine Veranstaltung kann die Stammdaten oder
+Kontingentierungen seiner Veranstaltung ändern. Für die Auswertung wird zunächst geprüft
+ob der angemeldete Benutzer die Rolle Veranstaltungsplaner hat. Im zweiten Schritt wird
+geprüft ob der ausgewählte Benutzer der Inhaber der Veranstaltung ist. Wenn beide
+Prüfungen OK sind, dann kann die Funktion ausgeführt werden.
+Events Benutzerhandbuch Seite 9
 08/2007
-5.2 Dati personali
-5.2.1 Obiettivo
- Aprire la vista oggetto Dati anagrafici della persona dalla lista risultati.
- Aprire ulteriori aree informative della persona.
- Definire numero telefonico standard e indirizzo standard per una persona.
-
-5.2.2 Esempio
- Cercare la persona "Kurt Hölz".
- Vengono trovate più persone. Per l'esempio deve essere utilizzato in seguito l'interlocutore dell'azienda "Tyrolit-Schleifmittelwerke.Swarovski".
-
- Con un clic del mouse sul nome (nella lista risultati di una ricerca persone) viene aperta la vista oggetto della persona e vengono visualizzati i dati anagrafici della persona.
-
- Nell'area di navigazione viene visualizzata la navigazione oggetto per la persona.
-
-Dati anagrafici di una persona
-
-Nota: Se avete trovato più persone nella lista risultati di una ricerca e volete passare tra queste persone senza passare alla lista risultati, potete navigare nella lista originale con "<" risp. ">".
-
-Events Formazione Responsabili Clienti Pagina 13
+4.3 Objektnavigation
+Wenn sie über die Themennavigation ein bestimmtes Thema (Personen, Unternehmen,
+Veranstaltungen) gewählt haben, können sie nun nach einer Suche aus der entsprechenden
+Trefferliste zum gewünschten Objekt (Person, Unternehmen, Veranstaltung) navigieren.
+Beispiel: Objektnavigation „Person“
+Aus der Objektnavigation können sie zu den verschiedenen Informationsbereichen (z.B. Stammdaten,
+Unternehmen, Adressen, Marketing, Veranstaltungen, Verwendung) des Objektes weiternavigieren.
+Mit den Links < bzw. > können sie zur vorigen resp. nächsten Person aus der ursprünglichen
+Trefferliste der Personensuche navigieren ohne die Trefferliste anzuzeigen.
+4.4 Hilfe
+In komplizierteren Dialogen von Events finden sie im Überschriftsbalken der Anwendungsseite einen
+Link Hilfe, über den sie ein PDF-Dokument mit Hinweisen zu diesem Dialog anzeigen können. Das
+PDF-Dokument wird in einem eigenen Browser-Fenster geöffnet.
+Seite 10 Events Benutzerhandbuch
 08/2007
- Poiché si tratta di una persona OLAV, i dati anagrafici non possono essere modificati e devono quindi essere gestiti tramite SaM.
-
- Vengono visualizzati tutti i numeri di telefono e fax della persona. Questi sono numeri telefonici personali e numeri telefonici interlocutori di aziende in cui la persona è un interlocutore. Uno di questi numeri telefonici può essere contrassegnato come numero telefonico standard per Events (cliccando sul  pulsante di selezione a sinistra dei numeri telefonici). Il numero telefonico standard viene utilizzato in varie liste.
-
- In varie liste viene visualizzato un numero telefonico. Un numero telefonico standard dovrebbe essere impostato solo se una delle seguenti regole per Events non ha validità.
-
-La persona viene invitata senza riferimento aziendale:
-o viene utilizzato il numero telefonico principale della persona. Se non disponibile,
-o il numero telefonico rimane vuoto.
-
-La persona viene invitata come interlocutore di un'azienda:
-o viene utilizzato il numero telefonico dai dati interlocutori SaM. Se non disponibile, viene
-o utilizzato il numero telefonico standard da Events per l'azienda. Se non disponibile, viene
-o utilizzato il numero telefonico principale dell'azienda. Se non disponibile,
-o viene utilizzato il numero telefonico principale della persona. Se non disponibile,
-o il numero telefonico rimane vuoto.
-
- Cliccando sulla  checkbox "Visualizza tutti i numeri aziendali", vengono mostrati tutti i numeri telefonici di quelle aziende in cui la persona è interlocutore.
-
-Pagina 14 Events Formazione Responsabili Clienti
+5 Personen und Unternehmen
+Für das grundsätzliche Verständnis der nachfolgenden Kapitel zur Pflege der Personen- und
+Unternehmensdaten, sowie für den Einladungsprozess, sollen an dieser Stelle die Zusammenhänge
+der relevanten Begriffe kurz dargestellt werden.
+Wie auch bereits im Kapitel „Begriffe“ erläutert verwaltet Events die Daten in einer zentralen Datenbank.
+Neben den Veranstaltungen werden vor allem Events-Personen und Events-Unternehmen in
+dieser Datenbank verwaltet. Darüber hinaus greift die Events Anwendung auch direkt auf den OLAV
+Datenbestand zu um OLAV-Personen resp. OLAV-Unternehmen verfügbar zu machen.
+Unternehmen werden dafür verwendet, dass man bestimmte Personen nicht privat sondern über ein
+Unternehmen kontaktieren möchte. Um nicht bei jeder Person die Unternehmensadresse erfassen zu
+müssen, kann die Adresse einmal beim Unternehmen erfasst und dann die relevanten Personen dem
+Unternehmen als Ansprechpartner zugeordnet werden.
+Im nachfolgenden Beispiel wird die OLAV Person „DI. A. Hochleitner“ mit dem persönlichem
+Interesse „Golf“ dargestellt. Weiters werden die Unternehmensinteressen „O.Europa“ und „Export“ von
+Herrn Hochleitner in seiner Funktion als Vorstand von „Siemens“ dargestellt.
+Events Benutzerhandbuch Seite 11
 08/2007
- Con il pulsante Acquisisci vengono salvate le modifiche effettuate.
-
- Tramite la navigazione oggetto si possono controllare le varie aree informative della persona.
-
-Attenzione: Le modifiche vengono salvate solo con clic del pulsante Acquisisci. Non ci sono avvisi o indicazioni se lasciate la pagina senza salvare
-
-Events Formazione Responsabili Clienti Pagina 15
+Seite 12 Events Benutzerhandbuch
 08/2007
-Interlocutori in aziende
- Con la selezione "Aziende" nella navigazione oggetto vengono visualizzate le funzioni e gli interessi aziendali (=interessi professionali in SaM) che il Sig. "Dipl.Ing. Kurt Hölz" ha in una determinata azienda.
-
- Poiché si tratta di una persona OLAV, i dati interlocutori non possono essere modificati e devono quindi essere gestiti tramite SaM.
-
-Pagina 16 Events Formazione Responsabili Clienti
+6 Veranstaltungen
+Das Kapitel Veranstaltungen enthält die Kernfunktionen der Events Anwendung. Die meisten
+Subkapitel sind vor allem für Veranstaltungsplaner von Interesse.
+Hinweis: Im Kapitel „Wie ist der Organisationsablauf einer Veranstaltung?“ finden sie wichtige
+Hinweise zur Veranstaltungsorganisation.
+Für jede einzelne Person, die zu einer Veranstaltung eingeladen werden soll, ergeben sich
+unterschiedliche Datenzustände in Events. Die Begriffe für diese Datenzustände werden in den
+Beschreibungen der nachfolgenden Kapitel häufig verwendet und sind deshalb für das Verständnis
+der Anwendung wichtig.
+vorselektiert nominiert eingeladen
+zugesagt abgesagt
+teilgenommen
+gelöscht
+Bestätigung
+durch Planer
+oder Betreuer
+direkter tel. Kontakt
+oder Produktion
+(Brief- bzw.
+Email-Versand)
+direkter telefonischer
+Kontakt
+schriftliche bzw.
+elektronische Antwort
+Eintragung durch Planer
+oder Einladender
+Streichung
+durch Planer
+Einladender
+Streichung
+durch Planer
+oder Betreuer
+Abgleich mit
+Teinehmerliste
+durch Planer
+durch Planer
+oder Betreuer
+Person ist
+verständigt!
+Nominierung
+durch Planer
+oder Betreuer
+ Der Veranstaltungsplaner kann den Anwendern mit der Rolle Betreuer eine Zielgruppendefinition
+bekanntgeben und die Betreuer nominieren entsprechende Kunden zu der Veranstaltung.
+Eine weitere Möglichkeit besteht darin, bereits eine Vorselektion von Personen vorzunehmen,
+diese vorselektierte Liste wird dann durch die Betreuer bearbeitet (löschen, hinzufügen). Jede
+Person dieser Vorselektion bekommt den Zustand „vorselektiert“.
+ Nach Information der Kundenbetreuer per Email oder News-Beitrag, können nun die
+Kundenbetreuer die vorselektierten Personen von der Personenliste streichen oder bestätigen.
+Durch eine Bestätigung ist eine Person „nominiert“. Personen können natürlich vom Planer oder
+vom Betreuer auch direkt nominiert werden. Wenn eine vorselektierte oder nominierte Person
+gelöscht wird, so verbleibt sie im Zustand „gelöscht“ in der Datenbank. Man kann nach
+gelöschten Personen innerhalb der Personenliste einer Veranstaltung suchen und gelöschte
+Personen wieder nominieren.
+ Über einen direkten Kontakt bzw. über eine Brief- oder Email-Produktion werden die nominierten
+Personen über die Veranstaltung informiert. Ab diesem Zeitpunkt gelten diese Personen als
+„eingeladen“.
+ Sobald eine eingeladene Person zur Veranstaltung zu- oder absagt, wechselt der Zustand dieser
+Person in „zugesagt“ resp. „abgesagt“.
+Events Benutzerhandbuch Seite 13
 08/2007
-SUGGERIMENTO: Tramite il link in alto a destra potete navigare direttamente dalla persona all'azienda. Dall'azienda potete navigare di nuovo alla persona tramite la pagina "Persone".
-
-Indirizzi di una persona
- Con la selezione "Indirizzi" nella navigazione oggetto vengono visualizzati tutti gli indirizzi e-mail e postali della persona. Oltre agli indirizzi personali (contrassegnati dall'aggiunta "Propri") vengono visualizzati gli indirizzi interlocutori di quelle aziende in cui la persona esercita una funzione (contrassegnati dalla denominazione breve dell'azienda).
-
- Residenza principale e indirizzi di spedizione divergenti vengono visualizzati dai testi aggiuntivi "Residenza principale" e "ind. sped. divergente".
-
- Un'azienda preferita contrassegnata in SaM nei dati interlocutori viene contrassegnata nella lista indirizzi con un "*".
-
- Uno degli indirizzi postali può essere contrassegnato come indirizzo standard per Events (cliccando sul  pulsante di selezione a sinistra dell'indirizzo. Un indirizzo viene in seguito utilizzato in Events per tutte le produzioni in relazione agli eventi.
-
-Events Formazione Responsabili Clienti Pagina 17
+Wenn im Zuge der Veranstaltung auch Teilnehmerlisten geführt werden, so kann über eine
+Nachbearbeitung eine Person in den Zustand „teilgenommen“. Für alle Teilnehmer kann dann eine
+Nachinformation oder Nachbetreuung erfolgen.
+Hinweis: Veranstaltungen stehen 3 Jahre nach dem Veranstaltungsdatum in der Datenbank zur
+Verfügung und werden danach aus dem System gelöscht.
+Seite 14 Events Benutzerhandbuch
 08/2007
- Un indirizzo standard dovrebbe essere impostato solo se una delle seguenti regole per Events non ha validità.
-
-La persona viene invitata senza riferimento aziendale:
-o viene utilizzato l'"ind. sped. divergente" della persona. Se non disponibile, viene
-o preso l'indirizzo della residenza principale.
-
-La persona viene invitata come interlocutore di un'azienda:
-o Viene utilizzato l'indirizzo dai dati interlocutori SaM. Se non disponibile viene
-o utilizzato l'"ind. sped. divergente" dell'azienda. Se non disponibile, viene
-o utilizzato l'indirizzo della sede principale dell'azienda.
-
- Con il pulsante Acquisisci vengono salvate le modifiche effettuate.
-
-Pagina 18 Events Formazione Responsabili Clienti
+6.1 Veranstaltung Suchen
+Starten sie die Suche aus der Themennavigation mit „Veranstaltungen“. Es erscheint die
+Veranstaltungsliste mit allen bereits geplanten Veranstaltungen. Sie können die Anzeige der
+Veranstaltungsliste über die Suchkriterien entsprechend einschränken:
+Datum: Start der Veranstaltung zwischen Datum1 und Datum2
+Ort: Name oder Teil des Namens des Veranstaltungsortes
+Event: Name oder Teil des Namens der Veranstaltung
+Notiz: Notiz oder Teil der Notiz zur Veranstaltung
+Region/Stelle/Mitarb.:
+Auswahl einer Region bedeutet Einschränkung auf alle Veranstaltungen, bei denen Mitarbeiter dieser
+Region als Verantwortlicher definiert wurde. Auswahl einer Stelle bedeutet Einschränkung auf alle
+Veranstaltungen, bei denen ein Mitarbeiter dieser Stelle als Verantwortlicher definiert wurde.
+Beim Start der Veranstaltungssuche in der Rolle „Veranstaltungsplaner“ wird die Kennung des
+aktuellen Benutzers automatisch in der Auswahl „Mitarb.“ selektiert.
+Beim Start in der Rolle Kundenbetreuer erfolgt keine automatische Selektion. Für den Kundenbetreuer
+werden automatisch alle Veranstaltungen angezeigt. Veranstaltungen für die keine Freigabe vom
+Veranstaltungsplaner erfolgt ist, werden nicht angezeigt (siehe auch Kapitel „Veranstaltung
+Kontingentierung“).
+Wenn sie eine bestimmte Veranstaltung suchen wollen, so geben sie die Kriterien ein und starten sie
+die Suche mit Suchen . Mit Neue Suche setzen sie die Suchkriterien wieder auf die Standardwerte.
+In der Veranstaltungsliste sehen sie das Datum der Veranstaltung, den Namen der Veranstaltung und
+den Verantwortlichen für die Veranstaltung. Über den Namen der Veranstaltung können sie direkt zur
+Veranstaltung weiternavigieren.
+Sobald sie eine Veranstaltung aus der Trefferliste der Suche öffnen oder die Neuanlage einer
+Veranstaltung abgeschlossen haben, können sie mit der Objektnavigation der Veranstaltung zu den
+verschiedenen Daten/Funktionsbereichen einer Veranstaltung wechseln. Als Startseite der
+Veranstaltung erscheint die „Personenliste“ (siehe Kapitel „Veranstaltung Personen“).
+Events Benutzerhandbuch Seite 15
 08/2007
-Informazioni marketing di una persona
- Con la selezione "Marketing" nella navigazione oggetto vengono elencati i canali di comunicazione e gli interessi personali della persona.
-
- Poiché si tratta di una persona OLAV, i dati interlocutori non possono essere modificati e devono quindi essere gestiti tramite SaM.
-
-Events Formazione Responsabili Clienti Pagina 19
+(V) Objektnavigation für Veranstaltungsplaner
+(K) Objektnavigation für Kundenbetreuer
+Seite 16 Events Benutzerhandbuch
 08/2007
-Eventi di una persona
- Con la selezione "Eventi" nella navigazione oggetto vengono visualizzati tutti gli eventi per cui la persona è nominata.
-
- Possono essere modificate conferme, rifiuti o Partecipato.
-
- Cliccando sul simbolo si accede ai dettagli nomina della persona nominata.
-
- Con il pulsante Acquisisci vengono salvate le modifiche effettuate.
-
-5.2.3 Compiti
- Cercare 3 interlocutori di aziende che gestite come responsabile clienti.
- Impostare per ciascuna di queste persone il numero telefonico standard e l'indirizzo standard in Events.
-
-Pagina 20 Events Formazione Responsabili Clienti
+6.2 Veranstaltung Details
+6.2.1 Veranstaltung Personen
+Mit Selektion der gewünschten Veranstaltung in der Veranstaltungsliste gelangen Sie in die
+Objektnavigation der gewünschten Veranstaltung:
+Wenn sie in der Objektnavigation „Personen“ wählen, so gelangen sie zur aktuellen Personenliste der
+selektierten Veranstaltung.
+Die Ansicht der Personenliste zu einer Veranstaltung ist über "Filterkriterien" steuerbar. Geben sie
+bitte die gewünschten Suchkriterien ein und wählen sie Suchen .
+Für die Eingabe von Filterkriterien stehen die Gruppen
+ Kriterien(1) und
+ Kriterien(2)
+zur Verfügung. Es werden immer die Kriterien beider Kriteriengruppen für eine Suche verwendet.
+Kriteriengruppe Kriterien(1)
+Status:
+Die Personenliste kann durch die Auswahl des Statusfilters eine Nominierungsliste, Vorselektionsliste,
+Zusagenliste, Absagenliste, Teilnehmerliste, Liste der gelöschten Nominierungen, bzw. jener sein, von
+denen zu einer Veranstaltung noch keine Antwort vorliegt. Die Auswahl des gewünschten Status
+erfolgt über ein Scrollmenü:
+Vorselektiert: Der Veranstaltungsplaner kann für eine Veranstaltung bereits eine
+Vorselektion zur Bearbeitung für die Kundenbetreuer vorbereiten.
+In dieser Liste nimmt dann der Kundenbetreuer Änderungen vor (Streichen,
+Hinzufügen, Korrigieren). Siehe dazu auch Kapitel "Vorselektionsliste".
+Nominiert: Zeigt alle Personen an, welche bereits für eine Veranstaltung nominiert
+wurden. Siehe dazu auch Kapitel "Nominiertenliste".
+Events Benutzerhandbuch Seite 17
 08/2007
-Utilizzi di una persona
- Con la selezione "Utilizzi" nella navigazione oggetto vengono elencati tutti i collaboratori che nel team di gestione hanno il ruolo "Specialista Marketing".
-
- Il ruolo "Specialista Marketing" può essere contrassegnato da un utente per un utilizzo marketing a lungo termine.
-
- Poiché si tratta di una persona OLAV, gli utilizzi non possono essere modificati e devono quindi essere gestiti tramite SaM.
-
-Events Formazione Responsabili Clienti Pagina 21
+Keine Antwort: Zeigt alle Personen an, von denen nach erfolgter Einladung noch keine
+Antwort erfolgte (hilfreich z.B. bei der Nachbearbeitung).
+Zugesagt: Zeigt alle Personen an, welche eine Teilnahme zugesagt haben.
+Abgesagt: Zeigt alle Personen an, welche abgesagt haben
+Teilgenommen: Zeigt nach einer Veranstaltung an, welche Personen teilgenommen haben.
+Gelöscht: Zeigt an, welche Kunden aus einer Vorselektionsliste gelöscht wurden, bzw.
+von wem.
+Person:
+Mit dem Suchkriterium Person können sie überprüfen, ob eine bestimmte Person bereits auf einer
+Vorselektionsliste, Nominierungsliste oder Zusagenliste etc. vorhanden ist. Eingabe von mindestens 3
+Zeichen den Namens plus *.
+Unternehmen:
+Mit dem Suchkriterium Unternehmen können sie überprüfen, ob ein bestimmtes Unternehmen bereits
+auf einer Vorselektionsliste, Nominierungsliste oder Zusagenliste etc. bereits vorhanden ist. Eingabe
+von mindestens 3 Zeichen des Unternehmensnamens plus *
+Region/Stelle/Mitarbeiter:
+Über diesen Filter können sie steuern, von welchen Organisationseinheiten sie die jeweils
+gewünschten Personenlisten ersehen möchten. Automatisch wird hier der angemeldete Nutzer des
+Systems angezeigt. Sind sie beispielsweise ein Kundenbetreuer einer bestimmten Region/Stelle,
+bewirkt dieser Filter, das in den von ihnen ausgewählten Personenlisten automatisch nur jene
+Personen/Unternehmen angezeigt werden, bei denen sie im Betreuungsteam definiert sind (Olav)
+bzw. selbst Einladender sind:
+Region: Es werden alle Personen einer Liste angezeigt, die einem Mitarbeiter dieser Region
+zugeordnet sind.
+Stelle: Es werden alle Personen angezeigt, die einem Mitarbeiter dieser Stelle zugeordnet
+sind.
+Mitarbeiter: Es werden alle Personen angezeigt, die diesem Mitarbeiter zugeordnet sind.
+Die Zuordnung eines Mitarbeiters zu einer Person ist nach folgenden Regeln definiert:
+ Der Mitarbeiter ist im Betreuungsteam der Person oder im Betreuungsteam des Unternehmens
+über das die Person eingeladen wird.
+ Der Mitarbeiter hat die Person für die Veranstaltung nominiert, auch wenn er nicht im
+Betreuungsteam der Person oder des Unternehmens ist.
+Hinweis: Es kann bei einem Filter nach Mitarbeiter vorkommen, dass in der Trefferliste eine andere
+Person als Einladender aufscheint. Dieser Fall tritt dann ein, wenn der im Filter selektierten Mitarbeiter
+ein Betreuer der Person ist und die Person aber von einem anderen Benutzer nominiert wurde.
+Stelle/Mitarb.
+Wenn einer der Checkboxen  „Betreuungsteam“ oder „Einladender“ selektiert ist, wird der
+ausgewählte Wert in Region, Stelle oder Mitarbeiter entweder auf das Betreuungsteam oder auf den
+Einladenden angewendet.
+Seite 18 Events Benutzerhandbuch
 08/2007
-6 Cercare e visualizzare aziende
-Se si vogliono gestire più interlocutori di un'azienda in Events e cercare queste persone secondo criteri aziendali, si può anche identificare un'azienda tramite una ricerca dell'azienda.
-
-Se si vogliono visualizzare o gestire dati aziendali in Events, è necessario cercare l'azienda e aprire la vista oggetto dell'azienda. In alternativa la vista oggetto di un'azienda può essere aperta dai vari moduli come ad es. la lista inviti di un evento tramite hyperlink.
-
-6.1 Ricerca aziende
-6.1.1 Obiettivo
- Conoscere i criteri di ricerca per le aziende
- Cercare un'azienda specifica
- Conoscere la struttura della lista risultati.
-
-6.1.2 Esempio
- Aprire la ricerca aziende tramite navigazione tematica voce di menu "Aziende".
- Nella ricerca è automaticamente impostata la vostra Regione/Sede/Collaboratore.
-
- Per questo esercizio rimuovere la limitazione per Regione e nella scheda "Aziende(1)" inserire il "Nome azienda 1" "Tyrolit" e avviare la ricerca con clic sul pulsante Cerca.
-
-Pagina 22 Events Formazione Responsabili Clienti
+Kriteriengruppe Kriterien(2)
+Die in den „Kriterien(2)“ eingebaren Filterkriterien beziehen sich auf die Nominierungsdetails der
+nominierten Personen (siehe Kapitel „Veranstaltung Nominierungsdetails“).
+Notiz:
+Im Eingabefeld Notiz können sie nach einer Notiz oder auch nur Teile einer Notiz aus den
+Nominierungsdetails des Eingeladenen bzw. einer seiner Begleitpersonen suche.
+Z.B.
+Die Eingabe „Betreuer“ sucht alle Nominierte mit dem Wort „Betreuer“ in der gesamten Notiz
+des Nominierten oder der Begleitperson, z.B. „möchte neben dem Betreuer sitzen“.
+Kommt:
+Wenn die Checkboxen  „selbst“ selektiert ist, werden nur jene Personen selektiert, die in den
+Nominierungsdetails die Checkbox „kommt selbst“ selektiert haben.
+Wenn die Checkboxen  „nicht selbst“ selektiert ist, werden nur jene Personen selektiert, die in den
+Nominierungsdetails die Checkbox „kommt selbst“ nicht selektiert haben.
+Begleitpersonen:
+Wenn die Checkboxen  „mit“ selektiert ist, werden nur jene Personen selektiert, die in den
+Nominierungsdetails eine Begleitperson zugeordnet haben.
+Wenn die Checkboxen  „ohne“ selektiert ist, werden nur jene Personen selektiert, die in den
+Nominierungsdetails keine Begleitperson zugeordnet haben.
+Kategorie:
+Über Kategorie können sie eine in den Stammdaten der Veranstaltung definierten Kontingentkategorien
+auswählen (siehe Kapitel „Veranstaltung Stammdaten“). Wenn sie eine Kategorie auswählen,
+werden nur jene Personen aufgelistet, die in den Nominierungsdetails bzw. deren Begleitpersonen
+diese Kategorie gesetzt haben.
+Hinweis: Standardmäßig ist kein Eintrag ausgewählt und die Combobox wird nur dann angezeigt,
+wenn es mehr als eine Kontingentkategorie in den Stammdaten der Veranstaltung definiert ist.
+Zusatzinfos:
+Über die Zusatzinfos können sie eine oder mehrer in den Stammdaten der Veranstaltung definierten
+Teilnehmerinfos auswählen (siehe Kapitel „Veranstaltung Stammdaten“). Wenn sie eine oder mehrere
+Zusatzinfos durch Selektion der Checkboxen  auswählen, werden nur jene Personen aufgelistet, die
+in den Nominierungsdetails bzw. deren Begleitpersonen zumindest eine dieser selektierten Zusatzinfos
+gesetzt haben.
+Hinweis: Standardmäßig ist kein Eintrag ausgewählt und die Combobox wird nur dann angezeigt,
+wenn es mehr als eine Kontingentkategorie in den Stammdaten der Veranstaltung definiert ist.
+Events Benutzerhandbuch Seite 19
 08/2007
- Poiché le aziende vengono cercate anche in OLAV ( checkbox incl. Olav è selezionata) e la ricerca non è stata limitata a nessun collaboratore, si ottengono più pagine con risultati.
-
- Limitare ulteriormente la lista risultati completando i criteri di ricerca sulla scheda "Aziende(2)" inserendo il criterio aggiuntivo "Categorie" "Grandi aziende (>40 Mio Euro)" e avviare la ricerca con il pulsante Cerca:
-
-Nota: Se nei criteri di ricerca nella scheda "Aziende(1)" viene inserito un numero cliente, tutti gli altri criteri vengono ignorati.
-
-Events Formazione Responsabili Clienti Pagina 23
+Personenliste starten
+Sobald sie alle Filterkriterien eingegeben haben, können sie den Suchvorgang mit der Schaltfläche
+Suchen starten und das Ergebnis wird in der Trefferliste angezeigt.
+Mit Neue Suche können sie die Eingaben in den Filterkriterien in allen Kriteriengruppen wieder auf
+die Standardwerte zurücksetzen.
+6.2.2 Vorselektionsliste
+Der Anwender in der Rolle Veranstaltungsplaner hat die Möglichkeit, bereits eine Vorselektion
+möglicher Teilnehmer zu einer Veranstaltung vorzunehmen. Die zuständigen Betreuer sind gebeten,
+diese Liste zu bearbeiten, sie können aus dieser Liste Kunden für die betreffende Veranstaltung
+nominieren, löschen und auch neue hinzufügen.
+(V) Vorselektionsliste erstellen:
+Die Vorselektionen zu einer Veranstaltung können durch Veranstaltungsplaner folgendermaßen
+durchgeführt werden:
+ Personen suchen und einfügen:
+Entweder direkt auf die Schaltfläche Vorselektieren oder über das Scrollmenü rechts
+neben dieser Schaltfläche wechseln sie in die Personensuche um Personen der
+Vorselektionsliste hinzuzufügen (siehe Kapitel "Personen hinzufügen").
+ Personen von einer anderen Veranstaltung importieren:
+Scrollmenü rechts neben der Schaltfläche Vorselektieren wechseln Sie in die
+Veranstaltungssuche um Nominierungen, Teilnehmer, etc. einer anderen Veranstaltung zu
+importieren (siehe auch Kapitel "Teilnehmer aus anderer Veranstaltung importieren“).
+Seite 20 Events Benutzerhandbuch
 08/2007
-6.1.3 Compiti
- Cercare tutte le aziende che sono gestite da voi.
- Limitare la ricerca a tutte le aziende delle categorie "Grandi aziende" e "Medie aziende".
-
-Pagina 24 Events Formazione Responsabili Clienti
+Trefferliste
+Wenn in den Suchkriterien der Status „Vorselektiert“ eingestellt ist, erscheint folgender Listenaufbau:
+Sie sehen in der Liste folgende Spalten:
+ Selektionsspalte: Über diese Spalte können einzelne oder alle Einträge der Seite selektiert
+werden.
+ Nominierungdetails: Durch Auswahl des Icons gelangt man in die Nominierungsdetails der
+Person (siehe Kapitel „Nominierungsdetails“).
+Hinweis: Wenn die Daten in den Nominierungsdetails geändert und übernommen werden,
+wird die vorselektierte Person als „nominiert“ in die Personenliste übernommen und die
+Person wird in der Vorselektionsliste nicht mehr angezeigt.
+ Person: Name der Person, die vorselektiert wurde. Wenn sie den Mauszeiger über dem
+Namen einer Person positionieren, so wird bei die OLAV-Kundennummer (nur bei OLAVPersonen)
+und die aktuelle zu verwendende Adresse sowie die Standardtelefonnummer
+angezeigt. Über den Link des Personennamens können sie zu den Stammdaten der
+ausgewählten Person weiternavigieren, z.B. um zusätzliche Details der Person einzusehen.
+ Unternehmen: Kurzwortlaut des Unternehmens. Wenn sie den Mauszeiger über den
+Korzwortlaut eines Unternehmens positionieren, so wird bei die OLAV-Kundennummer (nur
+bei OLAV-Unternehmen) angezeigt. Über den Link des Personennamens können sie zu den
+Stammdaten des ausgewählten Unternehmens weiternavigieren, z.B. um zusätzliche Details
+des Unternehmens einzusehen.
+ Adresse: PLZ und Ort der Adresse über die die Person eingeladen werden soll. Wenn sie den
+Mauszeiger über der Adresse positionieren, wird die gesamte Adresse angezeigt. Über den
+Link der Adresse gelangen sie in die Adressseite der Person.
+Events Benutzerhandbuch Seite 21
 08/2007
-6.2 Dati aziendali
-6.2.1 Obiettivo
- Aprire la vista oggetto dell'azienda dalla lista risultati di una ricerca.
- Aprire ulteriori aree informative dell'azienda.
- Definire numero telefonico standard e indirizzo standard per un'azienda.
-
-6.2.2 Esempio
- Con la selezione tramite clic del mouse sul nome nella lista risultati di una ricerca aziende viene aperta la vista oggetto dell'azienda e vengono visualizzati i dati anagrafici dell'azienda.
-
- Nell'area di navigazione viene visualizzata la navigazione oggetto per l'azienda.
-
-Dati anagrafici di un'azienda
-
-Events Formazione Responsabili Clienti Pagina 25
+Sortieren
+Durch Auswahl der Spaltenüberschriften „Person“ und „Unternehmen“ kann die Trefferliste sortiert
+werden.
+Vorselektion Bestätigen
+Sie können einzelne Personen über die Selektionsspalte der Vorselektionsliste auswählen und mit
+dem Button Bestätigen für die Veranstaltung nominieren. Eine weitere Möglichkeit der Bestätigung
+ist der Wechsel in die Nominierungsdetails durch Auswahl des Icons und das Übernehmen der
+Daten in den Nominierungsdetails.
+Wenn für die Veranstaltung unterschiedliche Kontingentkategorien festgelegt sind, so werden diese in
+der Combobox „Kategorien“ angezeigt. Durch Auswahl der entsprechenden Kategorie wird diese beim
+Bestätigen den ausgewählten Personen zugeordnet.
+Achtung: Sie müssen auf jeder Bildschirmseite die Selektionen Bestätigen .
+Vorselektion Streichen
+Sie können einzelne Personen über die Selektionsspalte der Vorselektionsliste auswählen und mit
+dem Button Streichen aus der Liste löschen.
+Personen hinzufügen:
+Über die Schaltfläche Nominieren bzw. Vorselektieren (nur für Veranstaltungsplaner sichtbar)
+gelangen Sie in die Personensuche für diese Veranstaltung. Mehr darüber finden sie in Kapitel
+"Personen hinzufügen".
+6.2.3 Nominiertenliste
+Wenn in den Suchkriterien der Personenliste ein anderer Status als „Vorselektiert“ oder „Geslöscht“
+eingestellt ist, z.B. „Nominiert“, werden alle Personen angezeigt, welche bis zu diesem Zeitpunkt für
+die jeweilige Veranstaltung nominiert wurden.
+Setzen Sie den Mitarbeiterfilter auf "leer" wird die Gesamtnominierungsliste einer Veranstaltungsliste
+angezeigt. Die Personalnummer in der Spalte "Einladender" gibt Auskunft über den Mitarbeiter,
+welcher diesen Kunden für die Veranstaltung auf die Nominierungsliste gesetzt hat.
+Steigen Sie im Mitarbeiterfilter mit ihrer Person ein, werden nur die von ihnen nominierten Teilnehmer
+angezeigt.
+Seite 22 Events Benutzerhandbuch
 08/2007
- Poiché si tratta di un'azienda OLAV, i dati anagrafici non possono essere modificati e devono quindi essere gestiti tramite SaM.
-
- Vengono visualizzati tutti i numeri di telefono e fax dell'azienda, così come tutti i numeri telefonici interlocutori di quelle persone che sono interlocutori dell'azienda. Uno di questi numeri telefonici può essere contrassegnato come numero telefonico standard per Events (cliccando sul  pulsante di selezione a sinistra dei numeri telefonici). Il numero telefonico standard viene utilizzato in varie liste in cui vengono elencati gli interlocutori (vedi capitolo "Dati anagrafici di una persona").
-
- Con il pulsante Acquisisci vengono salvate le modifiche effettuate
-
- Tramite la navigazione oggetto si possono controllare le varie aree informative dell'azienda.
-
-Pagina 26 Events Formazione Responsabili Clienti
+Events Benutzerhandbuch Seite 23
 08/2007
-Interlocutori nell'azienda
- Con la selezione "Persone" nella navigazione oggetto vengono visualizzate le funzioni e gli interessi aziendali (=interessi professionali in SaM) che il Sig. Dipl.Ing. Kurt Hölz ha in una determinata azienda.
-
- Poiché si tratta di un'azienda OLAV, i dati interlocutori non possono essere modificati e devono quindi essere gestiti tramite SaM.
-
-SUGGERIMENTO: Tramite il link in alto a destra potete navigare direttamente dall'azienda alla persona. Dalla persona potete navigare di nuovo all'azienda tramite la pagina "Aziende".
-
-Events Formazione Responsabili Clienti Pagina 27
+Sie sehen in der Liste folgende Spalten:
+ Nominierungdetails: Durch Auswahl des Icons gelangt man in die Nominierungsdetails der
+Person. Neben den Attributen die auch in der Personenliste gesetzt werden können, können
+sie in der Detailseite den Einladenden und das Unternehmen ändern, sowie weitere Attribute
+wie Notiz, Kontingentkategorie, Begleitpersonen usw. gesetzt werden (siehe Kapitel
+„Nominierungsdetails“.
+Wenn sie den Mauszeiger über das Icon positionieren, wird die Personalnummer des
+Mitarbeiters der die letzte Änderung durchgeführt hat und das letzte Änderungsdatum
+angezeigt.
+Das Icon zeigt an, das in den Nominierungsdetails zusätzliche Attribute die in der Liste
+selbst nicht angezeigt werden, vorhanden sind.
+ Person: Name der Person, die vorselektiert wurde. Wenn sie den Mauszeiger über dem
+Namen einer Person positionieren, so wird bei die OLAV-Kundennummer (nur bei OLAVPersonen)
+und die aktuelle zu verwendende Adresse sowie die Standardtelefonnummer
+angezeigt. Über den Link des Personennamens können sie zu den Stammdaten der
+ausgewählten Person weiternavigieren, z.B. um zusätzliche Details der Person einzusehen.
+ Unternehmen: Kurzwortlaut des Unternehmens. Wenn sie den Mauszeiger über den
+Korzwortlaut eines Unternehmens positionieren, so wird bei die OLAV-Kundennummer (nur
+bei OLAV-Unternehmen) angezeigt. Über den Link des Personennamens können sie zu den
+Stammdaten des ausgewählten Unternehmens weiternavigieren, z.B. um zusätzliche Details
+des Unternehmens einzusehen.
+ Einladender: Personalnummer und Kostenstelle des Benutzers, der die Person für die
+Veranstaltung nominiert hat. Diese Spalte fehlt, wenn alle Personen den gleichen Einladenden
+zugeordnet haben.
+ Zuges.: Spalte für die Eingabe der Zusagen zur Veranstaltung. Zusagen können sie nur bis
+zum Veranstaltungsdatum eintragen.
+ Abges.:Spalte für die Eingabe der Absagen zur Veranstaltung. Absagen können sie nur bis
+zum Veranstaltungsdatum eintragen.
+ Löschen: Spalte zum Löschen einer Person von der Nominierungsliste. Personen können nur
+vom Einladenden oder vom Veranstaltungsplaner gelöscht werden. Sobald eine Zusage oder
+Absage zu dieser Person vorliegt kann, die Person nicht mehr gelöscht werden. Es muss
+dann die Zusage oder Absage vorher entfernt werden.
+Nach erreichen des Veranstaltungsdatum wird noch folgende weitere Spalte angezeigt:
+ Teilgen.: Spalte für die Eingabe der Teilnahme zur Veranstaltung.
+Alle Änderungen in der Einladungsliste müssen mit Übernehmen gespeichert werden.
+HINWEIS: auch wenn sie in der Liste blättern, müssen sie alle Änderungen auf der Seite (Zusagen,
+Absagen, Löschen) vor dem Blättern mit „Übernehmen“ speichern.
+Sortieren
+Durch Auswahl einer der Spaltenüberschriften kann die Trefferliste sortiert werden.
+6.2.4 Druck- und Downloadlisten
+Über die Links „Kurzliste“ und „Detailliste“ - erreichbar über Klick auf das Menü neben dem Druckersymbol
+▼rechts unten im Fußbereich der Trefferliste - können druckerfreundliche Darstellungen der
+Liste eingeblendet und für einen Druck bzw. Dateidownload zur Verfügung gestellt.
+Seite 24 Events Benutzerhandbuch
 08/2007
-Indirizzi di un'azienda
- Con la selezione "Indirizzi" nella navigazione oggetto vengono visualizzati tutti gli indirizzi postali dell'azienda.
-
- Sede principale e indirizzi di spedizione divergenti vengono visualizzati dai testi aggiuntivi "Sede principale" e "ind. sped. divergente".
-
- Uno degli indirizzi postali può essere contrassegnato come indirizzo standard per Events (cliccando sul  pulsante di selezione a sinistra dell'indirizzo. Un indirizzo viene in seguito utilizzato in Events per tutte le produzioni in relazione agli eventi (vedi capitolo "Dati anagrafici di una persona").
-
- Con il pulsante Acquisisci vengono salvate le modifiche effettuate.
-
-Pagina 28 Events Formazione Responsabili Clienti
+ Die Kurzliste ist für DINA4 Hochformat und die
+ Detailliste bzw. Adressliste ist für DINA4 Querformat ausgelegt.
+Wenn sie direkt das Symbol anwählen, wird automatisch die „Kurzliste“ gestartet.
+Hinweis: Diese Liste stellen nur Arbeitslisten dar. Im Kapitel "Veranstaltung Produktion“ finden sie
+weitere Ausgabemöglichkeiten wie Adressetiketten oder Serienbriefe.
+In der Kurzliste werden folgende Attribute dargestellt:
+ Berufstitel mit Kurzwortlaut der Person und der Firmenkurzwortlaut
+ Standardtelefonnummern
+ Zusagen bzw. Absage
+In der Detailliste werden folgende Attribute dargestellt:
+ Kurzwortlaut der Person
+ Berufstitel
+ Firmenkurzwortlaut
+ Standardtelefonnummern
+ Zusagen bzw. Absage
+In der Adressliste werden folgende Attribute dargestellt:
+ Kurzwortlaut der Person
+ Firmenkurzwortlaut
+ Adresse mit Plz, Ort und Straße
+ Standardtelefonnummern
+ Einladender mit Name, Personalnummer und Kostenstelle
+ Personalnummer des Kundenbetreuers
+Die Listen werden in einem eigenen Browserfenster dargestellt und über das Symbol in der
+Druckseite kann der Druckvorgang gestartet werden.
+Neben dem Druck können die Daten der Druckliste in Form einer CSV Datei gedownloadet und in
+Excel weiter verwendet werden. Der Download erfolgt durch Anwählen des XLS Symbol in der
+Druckseite.
+Events Benutzerhandbuch Seite 25
 08/2007
-7 Invitare a eventi
-NOTA: Il formatore come organizzatore di eventi crea ora un nuovo evento golf "Torneo golf Formazione" ed effettua una preselezione per golfisti nella regione. Questo evento è la base per gli esercizi successivi.
-
-Nella rappresentazione seguente vengono presentati alcuni stati importanti che una persona può assumere nel corso di un invito o partecipazione ad un evento.
-
-preselezionato nominato invitato
-confermato rifiutato
-partecipato
-cancellato
-Conferma
-da parte dell'organizzatore
-o responsabile
-contatto telefonico diretto
-o produzione
-(invio lettera o
-e-mail)
-contatto telefonico diretto
-risposta scritta o elettronica
-Inserimento da parte dell'organizzatore
-o invitante
-Cancellazione
-da parte dell'organizzatore
-invitante
-Cancellazione
-da parte dell'organizzatore
-o responsabile
-Confronto con
-lista partecipanti
-da parte dell'organizzatore
-da parte dell'organizzatore
-o responsabile
-La persona è
-informata!
-Nomina
-da parte dell'organizzatore
-o responsabile
-
-7.1 Ricerca eventi
-Gli eventi possono essere creati solo da dipartimenti definiti (Manager Marketing Regionali, Group Public Relation, Corporates-Marketing ecc.) e utenti con il ruolo organizzatore di eventi.
-
-7.1.1 Obiettivo
- Cercare eventi.
- Conoscere i dati anagrafici di un evento.
-
-7.1.2 Esempio
- Avvio della ricerca eventi tramite la navigazione tematica con selezione del capitolo Eventi.
- Avviare la ricerca con clic sul pulsante Cerca.
-
-Events Formazione Responsabili Clienti Pagina 29
+Beispiel Kurzliste:
+Da die Aufbereitung der Daten mehrere Minuten in Anspruch nehmen kann, werden bei längeren
+Antwortzeiten die Daten im Hintergrund erstellt und folgender Zwischenschirm eingeblendet:
+Seite 26 Events Benutzerhandbuch
 08/2007
- Vengono visualizzati tutti gli eventi a cui la sede del collaboratore registrato può partecipare.
-
- Limitare ora la ricerca degli eventi che sono pianificati per l'anno corrente e premere il pulsante Cerca:
-
-Pagina 30 Events Formazione Responsabili Clienti
+6.2.5 Personen hinzufügen
+Aus der Personenliste einer Veranstaltung wechseln sie mit den Buttons
+ Nominieren
+ Vorselektieren (V)
+in die Personensuche (siehe auch Kapitel „Personen Suchen“). Sie können nun verschiedene
+Kriterien eingeben und wiederholt nach Personen suchen.
+Zusätzlich zu den im Kapitel „Personen Suchen “ beschriebenen Kriterien, können sie über die
+Checkbox „inkl. bereits nominierte Personen“ festlegen, ob zur Veranstaltung bereits nominierte
+Personen in die Suche ein- resp. von der Suche ausgeschlossen werden:
+Diese Funktion ermöglicht es, auf einen Blick zu erkennen, ob eine bestimmte Person schon nominiert
+wurde (ev. durch einen anderen Betreuer/Stelle). Es wird die Personalnummer des Mitarbeiters
+angezeigt, welche die Person bereits für die Veranstaltung nominiert hat. Stellt man den Mauszeiger
+über diese Personalnummer, werden der Name und die Stelle dieses Mitarbeiters angezeigt:
+Events Benutzerhandbuch Seite 27
 08/2007
- Limitare ulteriormente la ricerca mostrando solo gli eventi che nel nome iniziano con "Golf":
-
- Nella lista risultati vedete accanto alla data dell'evento, il nome dell'evento e il collaboratore che è responsabile dell'organizzazione dell'evento.
-
- La lista risultati è ordinabile per data, nome e responsabile se viene selezionata la rispettiva intestazione colonna.
-
-SUGGERIMENTO: Se posizionate il puntatore del mouse sul numero personale del responsabile, viene visualizzato anche il nome del collaboratore.
-
-Events Formazione Responsabili Clienti Pagina 31
+Beschreibung der Trefferliste:
+Selektionsspalte:
+Checkbox für die Auswahl der Personen. Bei den Personen, die bereits in der Personenliste enthalten
+sind, fehlt in der Trefferliste die Checkbox. Sie können über diese Spalte auch steuern über welche
+Adresse die Person eingeladen werden soll, falls diese Person in mehreren Unternehmen tätig ist.
+Falls die Person bereits nominiert wurde, wird die Personalnummer des Einladenden angezeigt.
+Person:
+Titel, Vorname, Nachname der Person. Wenn sie den Mauszeiger über den Namen der Person stellen
+wird für OLAV-Personen die Kundennummer angezeigt.
+Unternehmen:
+Name des Unternehmens, wenn die Person Funktionsträger in einem Unternehmen ist. Wenn sie den
+Mauszeiger über den Namen des Unternehmens bewegen wird für OLAV-Unternehmen die
+Kundennummer angezeigt.
+Adresse:
+Wenn für die Person noch keine Standardadresse in Events definiert wurde, so wird die
+Standardadresse des Unternehmens verwendet, sofern die Person einem Unternehmen zugeordnet
+ist. Wenn auch das Unternehmen keine Standardadresse in Events hat, dann wird der Hauptsitz des
+Unternehmens verwendet. Für Personen ohne zugeordnetem Unternehmen wird der Haupt(wohn)sitz
+der Person verwendet.
+Hinweisspalte:
+Hier wird mit „*“ angezeigt, was die bevorzugte Adresse der Person ist, falls diese Person über
+verschiedene Firmen eingeladen werden kann. Die Definition der bevorzugten Adresse ist in Kapitel
+„Person Adressen“ beschrieben.
+Seite 28 Events Benutzerhandbuch
 08/2007
- La vista oggetto per l'evento può essere aperta tramite il link nella lista risultati (= clic sul nome dell'evento desiderato). Cercare l'evento "Torneo golf Formazione" nella lista attuale e aprirlo.
-
- Nell'area di navigazione viene visualizzata la navigazione oggetto per un evento.
-
- Viene ora visualizzata la lista persone/ricerca attuale di questo evento (voce di menu Persone nella navigazione oggetto):
-
-Pagina 32 Events Formazione Responsabili Clienti
+Wenn in den Stammdaten der Veranstaltung Zusagenkontingente festgelegt wurden, wird zusätzliche
+die Spalte „Zuges.“ angezeigt, um die Anzahl der Zusagen beim Nominieren der Person sofort
+eingeben zu können:
+Personen aus der Trefferliste nominieren:
+Über die Checkboxes in der linken Spalte der Trefferliste können eine oder mehrere Teilnehmer zur
+Nominierung ausgewählt werden. Wenn eine Person über ein Unternehmen eingeladen werden soll,
+ist die Checkbox in der Zeile des Unternehmens zu selektieren.
+Falls die Spalte „Zuges.“ angezeigt wird, kann alternativ dazu auch sofort die Anzahl der Zusagen
+festgelegt werden und es ist die entsprechende Kontingentkategorie in der Auswahlbox „Kategorie“
+einzugeben.
+Wenn sie alle Personen der aktuellen Seite selektieren wollen, können sie die Checkbox  in der
+Titelleiste der Trefferliste selektieren.
+Mit der Schaltfläche Einfügen bestätigen sie diese Selektion.
+HINWEIS: Die Schaltfläche „Einfügen“ bezieht sich nur auf die aktuell sichtbaren und markierten
+Personen in der Trefferliste. Wenn sie Personen markiert haben, müssen sie daher immer die
+Schaltfläche „Einfügen“ drücken bevor sie in der Trefferliste weiterblättern.
+Sie erhalten einen Hinweis, dass die selektierten Personen in die Einladungsliste übernommen
+wurden. Diese Personen scheinen danach in der Trefferliste nicht mehr auf (ausgenommen die
+Checkbox „inkl. bereits nominierte Personen“ ist selektiert).
+Sie können nun folgendermaßen fortfahren:
+ Weitere Personen markieren und in die Personenliste übernehmen.
+ Eine neue Suche starten
+Events Benutzerhandbuch Seite 29
 08/2007
-Informazioni evento
- Oltre alla data effettiva dell'evento può essere definita anche una scadenza nomina per l'evento. Fino a questa data possono essere nominate persone.
-
- Inoltre le conferme per un evento possono essere contingentate. Non appena il contingente è esaurito, non possono essere inserite ulteriori conferme. Allo stesso modo le nomine possono essere contingentate.
-
-SUGGERIMENTO: Tramite il link potete navigare a una pagina informativa definita dall'organizzatore dell'evento, che si trova al di fuori di Events.
-
-7.1.3 Compiti
- Cercare tutti gli eventi nell'anno corrente.
- Andare all'evento "Torneo golf Formazione" che è stato creato dal formatore.
-
-Events Formazione Responsabili Clienti Pagina 33
-08/2007
-7.2 Confermare e cancellare persone preselezionate
-7.2.1 Obiettivo
- Cercare persone preselezionate
- Confermare persone preselezionate.
- Cancellare persone preselezionate
-
-7.2.2 Esempio
- Cercare e aprire l'evento "Torneo golf Formazione".
- Impostare lo stato nella lista persone su "Preselezionato".
-
- Con Cerca vengono visualizzate nella lista risultati tutte le persone preselezionate per l'evento.
-
- Per la ricerca di persone nella lista persone è preimpostato lo stato "Nominato". Le persone nominate sono quelle persone che sono state nominate esplicitamente dall'organizzatore dell'evento o dal responsabile clienti competente, o quelle persone preselezionate dall'organizzatore dell'evento che sono state confermate dal responsabile clienti.
-
-Altre possibili varianti di stato: Preselezionato, Nessuna risposta, Confermato, Rifiutato, Partecipato, Cancellato
-
- Singole persone che devono essere nominate per l'evento possono essere selezionate tramite la colonna selezione con clic sulla  checkbox.
-
-Pagina 34 Events Formazione Responsabili Clienti
-08/2007
- Con il pulsante Conferma queste persone vengono trasferite nello stato "Nominato".
-
-SUGGERIMENTO: Se volete confermare o cancellare tutte le persone di una pagina schermo, cliccate sulla checkbox nella riga titolo per contrassegnare tutte le persone della pagina.
-
-Attenzione: Se la lista persone richiede più di una pagina schermo, dovete confermare le vostre selezioni su ogni pagina visualizzata!
-
- Potete anche selezionare singole persone e "Cancellare" se non volete nominare queste persone.
-
- Con Cancella queste persone vengono eliminate.
-
-7.2.3 Compiti
- Cercare le persone preselezionate per voi nell'evento "Torneo golf Formazione".
- Nominare 2 persone con "Conferma".
- Cancellare una persona dalla lista preselezione.
-
-Events Formazione Responsabili Clienti Pagina 35
-08/2007
-7.3 Nominare persone aggiuntive
-Indipendentemente da una preselezione potete nominare ulteriori persone aggiuntive per un evento. L'organizzatore dell'evento non deve necessariamente effettuare una preselezione. In questo caso la lista persone nasce solo dalle nomine dei responsabili clienti e dell'organizzatore dell'evento.
-
-7.3.1 Obiettivi
- Utilizzo della ricerca persone dalla lista persone di un evento.
- Acquisire persone dalla lista risultati della ricerca persone nella lista persone dell'evento
-
-7.3.2 Esempio
- Aprire la lista persone dell'evento "Torneo golf Formazione"
- Cercare all'interno della lista le proprie nomine.
-
- Avviare la nomina aggiuntiva tramite il pulsante Nomina.
-
- Appare la ricerca persone per eventi. I criteri di ricerca sono gli stessi dei criteri di ricerca della ricerca persone per la gestione dati:
-
-Pagina 36 Events Formazione Responsabili Clienti
-08/2007
-  checkbox "incl. persone già nominate":
-Se selezionate questa checkbox, vengono visualizzate nella lista risultati della ricerca anche le persone che sono già state nominate per l'evento. Altrimenti le persone già nominate vengono automaticamente escluse dalla ricerca.
-
- Nella lista risultati le persone nominate non possono essere nominate di nuovo. Invece della checkbox per la selezione della persona, vedete il numero personale del collaboratore che ha nominato questa persona. Se posizionate il puntatore del mouse su questo numero personale, viene visualizzato il nome del collaboratore
-
-Events Formazione Responsabili Clienti Pagina 37
-08/2007
- Possono ora essere selezionate ulteriori persone tramite la  checkbox a sinistra e inserite nella lista persone dell'evento con Inserisci, cioè queste persone sono quindi nominate in aggiunta. Potete anche decidere tramite quale azienda una persona deve essere invitata.
-
- La ricerca può ora essere ripetuta a piacere e dalla lista risultati possono essere inserite persone.
-
- Con il pulsante Inserisci tutti vengono acquisite tutte le persone della lista risultati. Se una persona è interlocutore di aziende, la persona viene inserita secondo le seguenti regole:
-
- Per la persona è definito in Events un indirizzo standard presso uno degli indirizzi personali, quindi la persona viene inserita senza assegnazione aziendale.
-
- Per la persona è definito in Events un indirizzo standard presso un'azienda di cui è interlocutore, quindi la persona viene inserita con questa assegnazione aziendale.
-
- Se la persona è interlocutore di più aziende e un'azienda è contrassegnata in SaM come azienda preferita, la persona viene inserita con questa azienda.
-
- Se non c'è un'azienda preferita, viene inserita casualmente un'azienda dalla lista aziende di cui la persona è interlocutore.
-
-Nota: Nella lista risultati una persona che è assegnata a un'azienda viene elencata più volte. Nella prima riga la persona è senza azienda e nelle righe successive con le aziende. A seconda del contesto in cui si vuole invitare (come persona privata o per un'azienda), la  checkbox va impostata nella riga corrispondente.
-
- Con Fatto si torna alla lista persone dell'evento.
-
- Se cercate nella lista persone dell'evento le nomine, vengono ora visualizzate tutte le persone da voi confermate o nominate in aggiunta. Se posizionate il puntatore del mouse sul nome della persona, vengono visualizzati il numero cliente OLAV, l'indirizzo tramite cui la persona viene invitata e il
-
-Pagina 38 Events Formazione Responsabili Clienti
-08/2007
-numero telefonico standard.
-
- La lista risultati è ordinabile tramite selezione delle intestazioni colonne.
-
-SUGGERIMENTO: I nomi delle persone e i nomi delle aziende sono hyperlink che vi portano alla persona risp. all'azienda. Utilizzate questi link ad es. per impostare il numero telefonico standard per una persona.
-
-Nota: Se cliccate sul simbolo della stampante potete creare dalla lista persone attuale una lista breve per una stampa e come file download. Se selezionate il simbolo, potete scegliere tra una lista breve, lista dettagliata e lista indirizzi.
-
-Singoli passi della nomina
-La rappresentazione seguente mostra nuovamente i passi necessari di una nomina in panoramica.
-
+ Mit „Fertig“ In die Personenliste (=Einladungsliste zur Veranstaltung) zurückgehen.
+Mit der Schaltfläche Alle Einfügen werden alle Personen der Trefferliste übernommen. Wenn eine
+Person Ansprechpartner von Unternehmen ist, wird die Person nach folgenden Regeln eingefügt:
+ Für die Person ist in Events eine Standardadresse bei einer der Personenadressen definiert
+(siehe Kapitel „Person Adressen“), so wird die Person ohne Unternehmenszuordnung
+eingefügt.
+ Für die Person ist in Events eine Standardadresse bei einem Unternehmen bei dem er
+Ansprechpartner ist definiert (siehe Kapitel „Person Adressen“), so wird die Person mit dieser
+Unternehmenszuordnung eingefügt.
+ Wenn die Person ein Ansprechpartner von mehreren Unternehmen ist und ein Unternehmen
+ist in SaM als bevorzugtes Unternehmen markiert, so wird die Person mit diesem
+Unternehmen eingefügt
+ Wenn es kein bevorzugtes Unternehmen gibt, wird per Zufall ein Unternehmen aus der
+Unternehmenslist bei denen die Person Ansprechpartner ist eingefügt.
+Mit der Schaltfläche Fertig beenden sie den Vorgang und sie kehren in die Personenliste zurück.
+Nach dem vom Veranstaltungsplaner definierten Nominierungsschluss aber spätestens nach dem
+Beginn der Veranstaltung können keine Personen mehr eingefügt werden. Ausgenommen ist der
+Inhaber der Veranstaltungsplaner der auch nach dem Veranstaltungsende Personen nachnominieren
+kann.
+Überblick über den Ablauf einer Nominierung von Personen.
 (2)
-Avviare
-nomina
+Nominierung
+starten
 (3)
-Inserire criteri
-di ricerca
+Suchkriterien
+eingeben
 (4)
-Avviare
-ricerca
+Suche
+starten
 (5)
-Selezionare
-persone
+Personen
+auswählen
 (6)
-Inserire
-persone (7)
-Tornare alla
-lista persone
-dell'evento
-La ricerca può
-essere ripetuta
-a piacere
-La selezione può
-essere ripetuta
-a piacere
+Personen
+einfügen (7)
+Zurück zur
+Personenliste
+der Veranstaltung
+Suche kann
+beliebig oft
+wiederholt
+werden
+Auswahl kann
+beliebig oft
+wiederholt
+werden
 (1)
-Cercare
-nomine
-
-7.3.3 Compiti
- Nominare ulteriori 3 persone che sono interlocutori in un'azienda da voi gestita e 2 ulteriori persone senza contesto aziendale per l'evento "Torneo golf Formazione".
-
-Events Formazione Responsabili Clienti Pagina 39
+Nominierungen
+suchen
+Seite 30 Events Benutzerhandbuch
 08/2007
-7.4 Inserire conferme e rifiuti
-Dopo il processo di nomina per un evento l'organizzatore dell'evento effettua una produzione postale o e-mail, cioè le persone nominate vengono informate. Successivamente le reazioni delle persone vengono nuovamente registrate in Events. La registrazione può avvenire sia dall'ufficio pianificatore (ad es. ritorno centrale tramite fax risposta) sia anche dal responsabile clienti (contatto telefonico del responsabile clienti con la persona nominata).
-
-7.4.1 Obiettivi
- Inserire conferme e rifiuti a un evento.
- Conoscere i criteri di ricerca nella lista persone di un evento.
- Cancellare persone dalla lista nomine.
-
-7.4.2 Esempio
- Cercare "Torneo golf Formazione" ed entrare nell'evento.
- Ricerca delle persone nominate.
-
- Inserire il numero di conferme e rifiuti nella lista risultati.
-
- Le conferme sono da inserire nella colonna "Conf." e i rifiuti nella colonna "Rif.".
-
- Salvare le modifiche con Acquisisci.
-
- Cambiare il filtro stato su Confermato e ripetere la ricerca.
-
-Pagina 40 Events Formazione Responsabili Clienti
+6.2.6 Personen aus Veranstaltung importieren
+Rechts neben den Schaltflächen Nominieren bzw. Vorselektieren kann über ▼ ein Scrollmenü
+eingeblendet werden:
+Über Veranstaltungssuche wechseln sie zur Suche und Auswahl von anderen Veranstaltungen
+(siehe auch Kapitel „Veranstaltungen Suchen“). Sie können nun verschiedene Kriterien eingeben und
+wiederholt nach Veranstaltungen suchen.
+Mit der Schaltfläche Fertig beenden sie den Vorgang und sie kehren in die Personenliste zurück.
+Nach dem vom Veranstaltungsplaner definierten Nominierungsschluss, aber spätestens nach dem
+Beginn der Veranstaltung, können keine Personen mehr importiert werden.
+Wählen sie nun über die Selektionsspalte durch setzen eines Radiobuttons eine Veranstaltung aus.
+(V) Alle Personen importieren
+Veranstaltungsplaner können nun alle nominierten Personen der ausgewählten Veranstaltung über
+die Schaltfläche Einfügen importieren. Wenn in den Stammdaten der Veranstaltung mehrere
+Kontingentkategorien als Zusagenkontingente definiert sind, werden die Kontingentkategorien in der
+Auswahlbox „Kategorie“ eingeblendet.
+Sie erhalten anschließend einen Hinweis, dass die Personen der selektierten Veranstaltung
+erfolgreich importiert wurden:
+Events Benutzerhandbuch Seite 31
 08/2007
- La lista risultati mostra ora solo le persone che hanno già confermato la partecipazione all'evento.
-
-SUGGERIMENTO: Utilizzate lo stato "Nessuna risposta" per cercare persone nominate che non hanno né confermato né rifiutato la partecipazione all'evento. Questo può essere utilizzato ad es. quando dopo una prima informazione del cliente tramite posta deve seguire una richiesta telefonica.
-
- Potete anche cercare specificamente persone tramite il nome della persona o il nome dell'azienda in liste persone più lunghe:
-
-Events Formazione Responsabili Clienti Pagina 41
+Beim Importieren werden die Personen-, Unternehmensdaten und der Einladende übernommen. Eine
+bestimmte Person wird nur einmal zu einer Veranstaltung eingeladen werden, d.h. alle Personen, die
+bereits für die Veranstaltung eingeladen wurden, werden nicht mehr eingefügt.
+Personen die nicht übernommen wurden, werden in folgender Fehlermeldung angezeigt und können
+durch Auswahl des Druckersymbols aufgelistet und/oder ausgedruckt werden:
+Personen selektiv importieren
+Über die Schaltfläche Weiter wird in die Personenliste der ausgewählten Veranstaltung gewechselt.
+Es können verschiedene Kriterien eingeben und wiederholt nach Personen gesucht werden.
+Über die Checkbox „inkl. bereits nominierte Personen“ kann festgelegt werden, ob zur Veranstaltung
+bereits nominierte Personen in die Suche ein- resp. von der Suche ausgeschlossen werden. Diese
+Funktion ermöglicht es, auf einen Blick zu erkennen, ob eine bestimmte Person schon nominiert
+wurde (ev. durch einen anderen Betreuer/Stelle).
+Seite 32 Events Benutzerhandbuch
 08/2007
- Finché gli inviti per un evento non sono ancora stati inviati, questa persona può anche essere cancellata dalla lista nomine. Ad es. se questa persona è stata nominata per errore.
-
- Tramite un filtro speciale "Cancellato" si possono cercare persone cancellate e se necessario nominarle di nuovo dalla lista risultati.
-
-7.4.3 Compiti
- Inserire conferme e rifiuti per le persone da voi nominate.
- Cancellare una persona dalla lista persone.
- Nominare di nuovo la persona cancellata per l'evento.
-
-Pagina 42 Events Formazione Responsabili Clienti
+Über die in der linken Spalte der Trefferliste können ein oder mehrere Teilnehmer zum Einfügen
+ausgewählt werden. Alternativ dazu kann die Checkbox  in der Titelleiste selektiert werden, wenn
+alle Personen der aktuellen Seite markiert werden sollen.
+Wenn in den Stammdaten der Veranstaltung mehrere Kontingentkategorien als Zusagenkontingente
+definiert sind, werden die Kontingentkategorien in einer Auswahlbox „Kategorie“ unterhalb der
+Trefferliste eingeblendet.
+Mit der Schaltfläche Einfügen bestätigen sie diese Selektion. In der Trefferliste wird ein Hinweis
+angezeigt, dass die selektierten Personen in die Einladungsliste übernommen wurden. Es kann nun
+folgendermaßen fortgefahren werden:
+ Weitere Personen markieren und in die Personenliste übernehmen.
+ Eine neue Suche starten
+ Mit Fertig In die Personenliste (=Einladungsliste der Veranstaltung) zurückkehren.
+Mit der Schaltfläche Alle Einfügen , werden alle Personen die den Selektionskriterien entsprechen
+eingefügt. Alle Personen, die sich bereits in der Personenliste der Veranstaltung befinden, werden
+nicht mehr übernommen. In der Trefferliste wird ein Hinweis angezeigt, dass alle Personen der
+Trefferliste in die Personenliste übernommen wurden.
+Hinweis: Die Schaltfläche Einfügen bezieht sich nur auf die aktuell sichtbaren und markierten
+Personen in der Trefferliste. Wenn Personen markiert wurden, muss daher immer die Schaltfläche
+Einfügen gedrückt werden, bevor in der Trefferliste weitergeblättert wird.
+Events Benutzerhandbuch Seite 33
 08/2007
-7.5 Dettagli nomina
-Nella lista persone di un evento possono essere inseriti solo conferme, rifiuti e partecipazione. Modifiche successive dell'invitante o dell'azienda assegnata non sono possibili. Per poter modificare anche questi, si può passare dalla lista persone di un evento o dalla lista eventi di una persona ai dettagli nomina.
-
-7.5.1 Obiettivi
- Aprire i dettagli nomina dalla lista persone.
- Modificare e salvare i dettagli nomina.
- Tornare alla lista persone.
-
-7.5.2 Esempio
- Cercare "Torneo golf Formazione" ed entrare nell'evento.
- Ricerca delle persone nominate.
-
- Cliccando sul simbolo si accede ai dettagli nomina della persona nominata:
-
-Events Formazione Responsabili Clienti Pagina 43
+Seite 34 Events Benutzerhandbuch
 08/2007
- Se la persona nominata è interlocutore di aziende, vengono elencate tutte le aziende nella casella di selezione. Quell'azienda che è contrassegnata in SaM come "azienda preferita" è contrassegnata nella lista con un "*".
-
- Le modifiche effettuate vengono salvate con il pulsante Acquisisci.
-
- Con il pulsante Indietro si torna alla lista persone dell'evento, senza che le modifiche effettuate vengano salvate.
-
-7.5.3 Compiti
- Cercare una delle persone da voi nominate.
- Aprire i dettagli nomina e modificare l'invitante.
- Tornare alla lista persone.
-
-Pagina 44 Events Formazione Responsabili Clienti
+6.2.7 Veranstaltung Stammdaten
+Über die Objektnavigation erreichen Sie die Stammdaten der gewünschten Veranstaltung.
+Die Stammdaten zu einer Veranstaltung informieren über die Veranstaltungsdetails. Angelegt werden
+die Stammdaten durch den Veranstaltungsplaner im Zuge der Veranstaltungsplanung und können
+auch nur durch diesen, bzw. Mitarbeiter seiner Stelle verändert werden.
+Felder im Detail:
+Name für den Event: Titel der Veranstaltung
+Datum (von*/bis): Bei eintägigen Veranstaltungen das Veranstaltungsdatum, bei mehrtägigen
+von-bis-Datum.
+Uhrzeit (von*/bis): Beginnzeit und ev. Veranstaltungsende
+Events Benutzerhandbuch Seite 35
 08/2007
-8 Aiuto!
-8.1 Dove trovare informazioni?
- Oltre a questa documentazione formativa troverete informazioni nel manuale utente di Events in formato pdf nell'intranet:
-
- Per alcuni moduli più complessi di Events può essere richiamato anche un aiuto online. Utilizzate a tal fine il link Aiuto nell'intestazione del modulo.
-
- L'aiuto viene visualizzato come documento PDF in una finestra browser separata.
-
-8.2 Chi può aiutare in caso di problemi?
- L'organizzatore dell'evento.
- Se l'organizzatore dell'evento non può rispondere alle vostre domande, la Sig.ra Irene-Müller-Gerstenbauer int. 42053 (Corporates Marketing) è il vostro prossimo interlocutore.
-
-Events Formazione Responsabili Clienti Pagina 45
+Ort*: Veranstaltungsort (Location, Adresse)
+Notiz: Hier kann der Veranstaltungsplaner für die Betreuer, welche Teilnehmer
+nominieren sollen besondere Hinweise geben, z.B. Zielgruppenbeschreibung,
+Kurzbeschreibung der Veranstaltungsinhalte, bzw. des Ablaufs
+Nominierungsschluss: In diesem Feld kann der Veranstaltungsplaner vorgeben, bis wann Betreuer
+Teilnehmer nominieren bzw. löschen dürfen, weil danach z.B. die
+Einladungsversendung erfolgt. Achtung: Erfolgt hier kein Eintrag, so gilt der
+Tag der Veranstaltung als Nominierungsschluss.
+Kontingenttyp: Über die Radiobuttons  Nominierungen oder Zusagen kann der Typ der
+Kontingente gesetzt werden. Die Anzahl der Kontingente wird im Feld
+„Maximales Kontingent“ gesetzt.
+Maximales Kontingent: Hier kann ein Limit für Nominierungen oder Zusagen für mehrere
+Kontingentkategorien gesetzt werden, falls die Veranstaltung nur eine
+begrenzte Teilnehmeranzahl zulässt. Dieses Limit kann über die Seite
+Kontingentierung auf Regionen und Stellen aufgeteilt werden (siehe auch
+Kapital "Veranstaltung Kontingentierung". Ein Limit von Zusagen wird über
+das System überprüft. Das Limit von Nominierungen ist nur eine Hilfestellung
+für Veranstaltungsplaner und Betreuer im Nominierungsprozess.
+Teilnehmerinfos: Hier kann Liste von Zusatzinformationen vordefiniert werden, die bei einer
+nominierten Person als zusätzliche Teilnehmerinfos angegeben werden
+können, wie z.B. „Selbstanreise“, „nimmt organisierten Bus“, „Mittagessen“,
+usw. Die Teilnehmerinfos können in den Nominierungsdetails im Feld
+Zusatzinfos gesetzt werden (siehe Kapitel „Veranstaltung
+Nominierungsdetails“).
+Kommunikationskanal: Hier gibt der Veranstaltungsplaner bekannt, über welchen Informationskanal
+die Einladung der Teilnehmer erfolgt. Die Auswahl kann bestimmte
+Produktionsarten ausschließen (siehe auch Kapital "Veranstaltung
+Produktion").
+Verantw. Mitarbeiter: Region, Stelle, Mitarbeiter, welcher für die Veranstaltung organisatorisch
+verantwortlich zeichnet (= Veranstaltungsinhaber).
+Weitere Informationen: Hier kann der Veranstaltungsplaner eine URL eintragen, über welche
+weitergehende Informationen zur Veranstaltung ersichtlich werden (z.B.
+Programm in pdf-Format, relevante organisatorische Details für den Betreuer).
+Über den Link „Weitere Informationen“ kann die URL aufgerufen werden.
+Stammdaten ändern (V)
+Stammdaten einer Veranstaltung können nur vom Inhaber der Veranstaltung oder von einem
+Veranstaltungsplaner der Stelle des Inhabers verändert werden. Sollten sie nicht der Inhaber der
+Veranstaltung sein, so müssen sie in der Benutzerauswahl (über der Themennavigation im
+Navigationsteil) den Inhaber der Veranstaltung auswählen.
+Ändern sie die gewünschten Felder und verwenden sie die Schaltflache Übernehmen um die
+Änderungen zu speichern. Alle Felder, die mit einem „*“ gekennzeichnet sind, sind Mussfelder. Für
+folgende Felder gelten noch folgende Hinweise:
+Nominierungsschluss:
+Datum bis wann Teilnehmer nominiert werden können. Bis zum Nominierungsschluss können
+Teilnehmer aus der Personenliste wieder gelöscht werden. Wenn sie keinen Nominierungsschluss
+eintragen, gilt das Startdatum der Veranstaltung als Nominierungsschluss. Der Veranstaltungsinhaber
+kann auch nach dem Nominierungsschluss Personen einfügen und löschen.
+Maximales Kontingent:
+Über die Funktion Neu können neue Kategorien eingefügt und über Löschen werden bestehende
+gelöscht. Der Name der Kategorie und die Anzahl des Gesamtkontingentes kann direkt in den
+Eingabefeldern geändert werden. Wenn keine Anzahl eingetragen wird, ist das Limit unbegrenzt.
+Seite 36 Events Benutzerhandbuch
 08/2007
- Per problemi tecnici rivolgetevi al Sig. Herbert Schaludek int. 58817 o al Sig. Wolfgang Wagner int. 58816 (WAT2CW).
-
-Pagina 46 Events Formazione Responsabili Clienti
+Die in der Liste erste angeführte Kategorie ist immer die Standardkategorie, die bei Einfügen von
+Personen in die Veranstaltung standardmäßig verwendet wird und nachträglich aber in den
+Nominierungsdetails geändert werden kann.
+Hinweis: Wenn der Name einer Kategorie geändert oder einer Kategorie gelöscht wird, die bereits bei
+nominierten Person verwendet wird, wird nach Drücken der Schaltfläche Übernehmen folgender
+Hinweis angezeigt:
+Folgende Kontingentkategorien werden bereits verwendet: 'VIP Karte'. Wenn Sie diese
+trotzdem ändern wollen, drücken Sie nochmals die Schaltfläche 'Übernehmen'.
+Durch nochmaliges Drücken der Schaltfläche werden die Daten übernommen und auch die
+Kategorien der einzelnen Nominierten angepasst. Wenn eine Kategorie gelöscht wird, wird beim
+Nominierten die Standardkategorie eingesetzt
+Teilnehmerinfos:
+Über die Funktion Neu können neue Teilnehmerinfos eingefügt und über Löschen werden Bestehende
+gelöscht. Der Name der Teilnehmerinfo kann direkt im Eingabefeld geändert werden.
+HINWEIS: Wenn der Name einer Teilnehmerinfo geändert oder gelöscht wird, der bereits bei einer
+nominierten Person verwendet wird, wird nach Drücken der Schaltfläche Übernehmen folgender
+Hinweis angezeigt:
+Folgende Teilnehmerinfos werden bereits verwendet: 'Mittagessen'. Wenn Sie diese
+trotzdem ändern wollen, drücken Sie nochmals die Schaltfläche 'Übernehmen'.
+Durch nochmaliges Drücken der Schaltfläche werden die Daten übernommen und die Teilnehmerinfos
+bei den einzelnen nominierten Personen angepasst.
+Kommunikationskanal:
+Die Auswahl der Kommunikationskanäle kann bestimmte Produktionsarten ausschließen, z.B. Email
+(Achtung bei E-Mail muss eine Einverständniserklärung des Kunden vorliegen).
+Verantw. Mitarbeiter:
+Wenn Sie den Mitarbeiter wechseln wollen, können sie dies durch Auswahl der entsprechenden
+Einträge in den einzelnen Auswahllisten (Region, Stelle oder Mitarb.) durchführen, oder in der
+Auswahlliste Mitarb. Den Eintrag „<Suchen…>“ wählen, über den sie in die Mitarbeitersuche gelangen
+(siehe Kapitel „Mitarbeiter Suchen“).
+Events Benutzerhandbuch Seite 37
 08/2007
-9 Preparazione di una formazione
-Attività che il relatore deve svolgere o verificare prima di una formazione.
+6.2.8 Veranstaltung Kontingentierung
+Falls für eine Veranstaltung nur eine bestimmte maximale Teilnehmeranzahl eingeladen werden soll
+(z.B. bestimmte Anzahl von Konzertkarten), so können sie die beschränkte Ressource (z.B.
+Konzertkarten) kontingentieren. Zusätzlich werden die selbst produzierenden Regionen und Stellen
+festgelegt.
+Für Änderungen in der Kontingentierung müssen sie Anwender mit der Rolle Veranstaltungsplaner
+sein. Das Gesamtkontingent der Nominierungen oder Zusagen wird bereits in den Stammdaten der
+Veranstaltung festgelegt.
+HINWEIS: Die Kontingentierung wird vom Veranstaltungsplaner festgelegt. Benutzer mit der Rolle
+Kundenbetreuer können die Kontingentierung zwar aufrufen um sich die Kontingente für die eigene
+Region oder Stelle anzusehen, aber sie können keine Änderungen an den Kontingenten vornehmen.
+Starten sie aus dem Objektnavigator der Veranstaltung mit „Kontingentierung“ das Formular für die
+Kontingentierung der Veranstaltung.
+Sie können nun die in den Stammdaten definierte maximale Anzahl von Zusagen oder Nominierungen
+für einzelne Regionen und Stellen pro Kontingentkategorien kontingentieren und die
+Produktionsteilung festlegen.
+Wenn in den Stammdaten der Veranstaltung mehrere Kontingentkategorien definiert sind, wird in der
+Überschriftzeile eine Auswahlbox mit den Kontingentkategorien eingeblendet. Wählen sie jene
+Kategorie aus, für die sie die Kontingente festlegen wollen.
+Seite 38 Events Benutzerhandbuch
+08/2007
+Jede einzelne Organisationseinheit (Region oder Stelle) kann von der Teilnahme über die 
+Checkbox in der Spalte „Teilnahme“ ein- oder ausgeschlossen werden und der Organisationseinheit
+kann ein bestimmtes Zusagenkontingent zugeteilt werden.
+Wenn das Kontingent für Zusagen in einer Region oder Stelle erschöpft ist, wird jede weitere Zusage
+in der Personenliste abgelehnt. Sollte es bereits Zusagen für eine Region oder Stelle geben, so
+können sie das Kontingent nicht mehr kleiner als die Zusagen machen.
+Bei der Kontingentierung von Nominierungen gibt es keine Überprüfung, sondern der Planer muss
+organisatorisch eingreifen, wenn von einer Region oder Stelle das Nominierungskontingent überzogen
+wird.
+Wenn Regionen oder Stellen selber produzieren sollen, können sie dies über die  Checkbox in der
+Spalte „Produktion“ zuordnen. Für die Überwachung ob selbst produzierende eine Produktion
+durchgeführt haben, wird neben der Checkbox das Symbol eingeblendet. Details zu der
+Durchführung vom Teilproduktionen finden sie in Kapitel „Veranstaltung Produktion“.
+Hinweis: Wenn in der Spalte Produktion eine Checkbox nicht gesetzt werden kann (graue Checkbox),
+dann ist für die Region oder Stelle kein Veranstaltungsplaner definiert.
+Mit Übernehmen werden alle Änderungen des aktuell sichtbaren Formulars gespeichert.
+Mit Klick auf die >> Pfeile können sie zu den Stellen einer bestimmten Region weiternavigieren. Auf
+Stellenebene kann das Kontingent und die Produktionsteilung der Region weiter auf die einzelnen
+Stellen verteilt werden.
+Mit << kehren sie aus der Liste der Stellen wieder in die Liste der Regionen zurück
+Hinweis: Bevor sie mit >> oder << weiternavigieren, müssen sie eventuell durchgeführte Änderungen
+mit „Übernehmen“ abspeichern.
+Events Benutzerhandbuch Seite 39
+08/2007
+Seite 40 Events Benutzerhandbuch
+08/2007
+6.2.9 Veranstaltung Produktion (V)
+Im Bereich Produktion können sie die Datenbestände für die verschiedenen Produktionsverfahren
+erzeugen und weiterverarbeiten:
+ Post: Serienbriefe, Adressetiketten, DIRMA Bestand und Dateidownload
+ Mail: Mail-Adresslisten und Mail-Versand
+ Druck: Tischkarten, Namensschilder und Dateidownload
+Wählen sie in der Objektnavigation der Veranstaltung den Menüeintrag „Produktion“.
+Es erscheint ein Formular auf dem sie die gewünschten Produktionseinstellungen vornehmen können.
+Die Auswahl der Produktionsverfahren schränkt sich automatisch ein, wenn in den Stammdaten der
+Veranstaltung bestimmte Kommunikationskanäle ausgeschlossen wurden. Z.B. E-Mails können nur
+erzeugt werden, wenn der Kommunikationskanal E-Mail erlaubt ist:
+Events Benutzerhandbuch Seite 41
+08/2007
+Die Produktion ist in 3 Auswahlbereiche (Laschen) gegliedert:
+ Post
+ E-Mail
+ Druck
+Seite 42 Events Benutzerhandbuch
+08/2007
+Produktionsfilter
+Hier legen sie fest für welche Personengruppe produziert werden soll. Es gibt folgende Alternativen:
+ Nominiert: Z.B. für eine Erstproduktion der Einladungen.
+ Zugesagt: Z.B. für einen Versand von Informationen oder Eintrittskarten an alle Personen, die
+zur Veranstaltung kommen.
+ Abgesagt: Z.B. für Zusendung von Infomaterial, da diese Personen an der Veranstaltung
+nicht teilnehmen können.
+ Keine Antwort: Z.B. für ein Erinnerungsschreiben.
+ Teilgenommen: Z.B. für eine Nachbearbeitung nach der Veranstaltung
+Letzte Produktion wiederholen
+Wenn im Rahmen einer Produktion für bestimmte Personen nicht produziert werden kann, (z.B. die
+Adressdaten sind nicht vollständig), dann können diese Fehler korrigiert werden und im Anschluss
+kann die Produktion wiederholt werden (Checkbox rechts unten).
+Post Produktion
+Vor der ersten Produktion für eine Veranstaltung erscheint folgendes Formular:
+Events Benutzerhandbuch Seite 43
+08/2007
+Neue Personen (seit der letzten Produktion)
+Wenn sie diese Checkbox ankreuzen, werden nur Personen selektiert, die in die Personenliste der
+Veranstaltung seit der letzten Produktion hinzugefügt wurden. Damit können sie sicherstellen, dass
+eine Person kein zweites mal kontaktiert wird.
+E-Mail Empfänger ausschließen
+Wenn der Kommunikationskanal „E-Mail“ für die Veranstaltung aktiviert ist, dann können sie alle
+Personen, die über E-Mail kontaktiert werden sollen, von der Post-Produktion ausschließen. Das
+bedeutet, dass alle Personen, die eine persönliche Zustimmung zu einem E-Mail Kontakt gegeben
+haben, nicht über Briefversand, sondern über E-Mail verständigt werden.
+Dirmaversand
+Wenn sie einen Versand der Briefe über DIRMA beabsichtigen, so müssen sie vor der Produktion die
+Checkbox „Dirmaversand“ auswählen. Dadurch wird zusätzlich ein Datenbestand erzeugt, der per
+Email an DIRMA weitergegeben werden kann. Die DRIMA Stelle produziert, dann auf Basis dieses
+Datenbestandes die gewünschten Briefe und erledigt auch den Versand.
+Sortierung
+Sie können für das Ergebnis der Produktion auch eine Sortierung festlegen.
+Produzieren
+Mit Produzieren wird die Ausgabeliste gemäß den eingestellten Kriterien erzeugt und am Server
+abgelegt. Das Produktionsdatum für den Produktionsbestand wird aktualisiert:
+Sollte eine Produktion länger als 30 Sekunden dauern, so läuft diese Produktion im Hintergrund
+weiter. Sobald die Produktion im Hintergrund läuft wird folgender Bildschirm angezeigt. Sie können
+nun innerhalb der Anwendung weiternavigieren ohne die Produktion zu unterbrechen.
+Seite 44 Events Benutzerhandbuch
+08/2007
+Sie können mit Aktualisieren den die Anzeige aktualisieren und so überprüfen ob die Produktion
+schon beendet wurde. Der Bildschirm wird auch selbständig alle 30 Sekunden aktualisiert. Mit
+Abbrechen kann die gesamte Produktion abgebrochen werden.
+Dateidownload
+Klicken sie nun auf das Icon um das Produktionsergebnis als Excel-CSV zu öffnen und die Datei
+auf ihren Arbeitsplatz zu kopieren. Die Liste wird sofort in einem Browserfenster geöffnet. Sie können
+die Liste nun bearbeiten oder die Liste an eine externe Produktion weitergeben.
+Neben dem eigentlichen Produktionsergebnis können sie auch die Liste (Fehlerprotokoll) mit
+Produktionsfehlern downloaden.
+Worddokument
+Über die Serienbrieffunktionen von Winword können sie die Produktionsdaten mit einer Wordvorlage
+zu fertigen Druckausgaben verbinden.
+Wählen Sie zunächst die gewünschte Vorlage aus der Auswahlbox neben dem Winword-Icon:
+ Adressetiketten: Produktion von Standardetiketten.
+ Serienbrief: Hier wird ein Standard-Serienbrief erzeugt.
+ Neuer Serienbrief: Hier wird ein Leeres Ergebnisdokument erzeugt, in das sie die einzelnen
+Felder des Produktionsbestandes als Variablen für den Serienbrief verwenden können.
+Wenn Sie auf das Word-Icon klicken, wird für das gewählte Ausgabeformat eine
+Serienbriefverarbeitung gestartet. Sie erhalten zunächst die dafür vorbereitete Vorlage zur Ansicht.
+Hinweis: Die einzelnen Funktionen der Serienbriefverarbeitung sind an dieser Stelle nicht
+beschrieben. Verwenden sie für weitergehende Informationen die Hilfefunktionen von Winword.
+Events Benutzerhandbuch Seite 45
+08/2007
+Starten sie nun mit „Ausgabe in neues Dokument “
+Den Mischvorgang der Daten mit der Vorlage. In der Statuszeile von Winword wird der
+Verarbeitungsfortschritt angezeigt.
+DIRMA
+Mit einem Klick auf das „Dirma“-Icon kann man das in Events produzierte Dirma-File über EMail an die
+DIRMA Gruppe senden. Das Datenfile wird automatisch gezippt und als Anhang dem Email
+hinzugefügt. Sie können zusätzlich die gewünschte Briefvorlage an das EMail anhängen. Verwenden
+sie dazu die Standardmechanismen von Windows (z.B. Drag&Drop).
+Seite 46 Events Benutzerhandbuch
+08/2007
+Jeder aus Events an DIRMA übergebene Datenbestand bekommt automatisch eine DIRMA
+Aktionsnummer. Diese Aktionsnummer ist für die weitere Produktion in DIRMA notwendig.
+Events Benutzerhandbuch Seite 47
+08/2007
+E-Mail Produktion
+Sie können für alle Personen, die per Mail kontaktiert werden können (Achtung: Einverständnis des
+Kunden muss vorliegen) eine Mail-Adressliste produzieren. Diese Liste können sie dann für die
+Anschrift in einem persönlichen Mail verwenden. Dieses Mail kann frei formatiert werden und sie
+können natürlich auch Beilagen mit versenden.
+Wenn noch keine Produktion eines E-Mail Bestandes erzeugt wurde, erscheint folgendes Formular für
+die E-Mail Produktion:
+Neue Personen (seit der letzten Produktion)
+Wenn sie diese Checkbox ankreuzen, werden nur Personen selektiert, die in die Personenliste der
+Veranstaltung seit der letzten Produktion hinzugefügt wurden. Damit können sie sicherstellen, dass
+eine Person kein zweites mal kontaktiert wird.
+Produktion
+Mit Produzieren wird ein neuer Produktionsbestand für die Weiterverarbeitung auf dem Server
+erzeugt.
+Serienmails
+Mit Hilfe der Serienbriefverarbeitung von Winword können sie einen Serienbrief erzeugen. Über die
+Serienbriefverarbeitung von Winword, können Sie dann für jeden Datensatz eine E-Mail in Outlook
+erstellen lassen und diese E-Mails über Outlook versenden.
+Einzelmail
+Bei Einzelmail wird genau eine Outlook E-Email erzeugt, bei der die E-Mail Adressen der Empfänger
+aus der Produktion in das BCC-Feld der E-Mail eingetragen sind. Sie können diese Einzelmail nun mit
+einem Text und Anhängen versehen und anschließend versenden.
+Dateidownload
+Seite 48 Events Benutzerhandbuch
+08/2007
+Öffnen sie die produzierte Datei mit einem Klick auf das Icon. Es folgen die Standarddialoge für
+einen Dateidownload über den Browser. Speichern sie die Datei in einem Verzeichnis ihrer Wahl zur
+weiteren Verarbeitung.
+Sie erhalten alle Mailadressen in einer Excel-CSV Datei zur weiteren Verarbeitung.
+Kopieren sie z.B. Inhalt der Datei in das BCC-Feld ihrer Email, die sie versenden wollen. Für den
+Versand stehen die Standardfunktionen von Outlook zur Verfügung.
+Hinweis: Bitte beachten sie, dass sie für die Anschrift das BCC (Blind-Kopie) Feld verwenden, da
+sonst alle Empfänger dieser E-Mail auch die anderen Empfänger sehen.
+Druck Produktion
+Über die Lasche „Druck“ innerhalb des Produktionsformulars, können sie Datenbestände erzeugen,
+bei denen ein lokaler Druck erfolgen soll, z.B. Namensschilder, Tischkarten.
+Solange noch keine Produktion erfolgt ist, erscheint folgendes Formular:
+Neue Personen (seit der letzten Produktion)
+Wenn sie diese Checkbox ankreuzen, werden nur Personen selektiert, die in die Personenliste der
+Veranstaltung seit der letzten Produktion hinzugefügt wurden. Damit können sie sicherstellen, dass
+eine Person kein zweites mal kontaktiert wird.
+Sortierung
+Sie können für das Ergebnis der Produktion auch eine Sortierung festlegen.
+Produzieren
+Mit „Produzieren“ wird die Ausgabeliste gemäß den eingestellten Kriterien erzeugt und am Server
+abgelegt. Das Produktionsdatum für den Produktionsbestand wird aktualisiert.
+Worddokument
+Über die Serienbrieffunktionen von Winword können sie die Produktionsdaten mit einer Wordvorlage
+zu fertigen Druckausgaben verbinden.
+Events Benutzerhandbuch Seite 49
+08/2007
+Wählen Sie zunächst die gewünschte Vorlage aus der Dropdown-Listbox neben dem Winword-Icon:
+ Tischkarten
+ Namensschilder
+ Neuer Seriendruck: Hier wird ein leeres Ergebnisdokument erzeugt, in das sie die einzelnen
+Felder des Produktionsbestandes als Variablen für den Serienbrief verwenden können.
+Wenn Sie auf das Word-Icon klicken, wird für das gewählte Ausgabeformat eine
+Serienbriefverarbeitung gestartet. Sie erhalten zunächst die dafür vorbereitete Vorlage zur Ansicht.
+Dateidownload
+Öffnen sie die produzierte Datei mit einem Klick auf das Icon. Speichern sie die Datei in einem
+Verzeichnis ihrer Wahl zur weiteren Verarbeitung. Sie erhalten alle Daten in einer Excel-CSV Datei zur
+weiteren Verarbeitung.
+Seite 50 Events Benutzerhandbuch
+08/2007
+Produktionsteilung
+Für zentrale und regionale Veranstaltungen können die Post- und E-Mailproduktionen auf einzelne
+Regionen und weiters auf die einzelnen Stellen aufgeteilt werden. Es können allerdings nur solche
+Regionen und Stellen für die Produktionsaufteilung herangezogen werden, wenn es dort auch einen
+Anwender mit der Rolle „Veranstaltungsplaner“ gibt. Der „Veranstaltungsinhaber“ definiert, welche
+Regionen oder Stellen selbst z.B. Adresskleber etc. produzieren dürfen.
+Die Produktionen können auf folgende Teilproduktionen aufgeteilt werden:
+ Veranstaltungsinhaber: Produziert für alle Stellen die nicht selbst produzieren oder die nicht
+einer selbst produzierenden Region angehören.
+ Veranstaltungsplaner einer Stelle die zugleich eine Regionsstelle ist (z.B. LD Salzburg):
+Produziert für die eigene Stelle und für alle Stellen seiner Region die nicht selbst produzieren.
+ Veranstaltungsplaner einer Stelle die nicht zugleich eine Regionsstelle ist: Produziert für die
+eigene Stelle.
+In der Kontingentierung (siehe Kapitel „Veranstaltung Kontingentierung) sind die Regionen/Stellen,
+welche selbst produzieren sollen in der Spalte „Produktion“ zu selektieren.
+Die Aufteilung der nominierten Personen auf die Teilproduktionen erfolgt über die den Personen
+zugeordneten Einladenden. Wenn z.B. eine Stelle selbst produziert, werden alle jene nominierten
+Personen herangezogen, deren Einladender der produzierenden Stelle angehören.
+Post-/E-Mailproduktion
+Der Typ der Teilproduktion, ob für eine Stelle, einer Region produziert wird oder ob eine
+Gesamtproduktion durchgeführt wird, wird als Zusatztext in den Produktionseinstellungen angezeigt.
+Um Doppelproduktionen zu vermeiden, gilt folgende spezielle Regel wenn Einladende ihre Stellen
+aufgrund von Versetzungen wechseln oder der Einladende selbst gewechselt wird und sich daraus
+Events Benutzerhandbuch Seite 51
+08/2007
+eine neue Stellenzuordnung ergibt: Personen die bereits produziert wurden, werden in der neuen
+Stelle des Einladenden nicht nochmals produziert und werden statt dessen im Fehlerprotokoll
+ausgewiesen.
+Druckproduktion
+In der Druckproduktion hat der Veranstaltungsinhaber die Möglichkeit selbst produzierenden
+Regionen/Stellen mit einzuschließen um vollständige Drucklisten zu erhalten, z.B. für Tischkarten.
+Dazu ist die  Checkbox „Selbstproduzierende Regionen/Stellen einschließen“ zu selektieren.
+Seite 52 Events Benutzerhandbuch
+08/2007
+6.2.10 Veranstaltung Statistik
+Über den Menüpunkt „Statistik“ aus der Objektnavigation der Veranstaltung können sie eine
+Personen-Statistik zur Veranstaltung einblenden:
+Statistik für Veranstaltungsplaner (V)
+Die Anzahl der Personen ist nach Stelle und Region gruppiert. Es werden Summen für
+ Nominierungen
+ Zusagen
+ Absagen
+ Keine Antwort
+ Teilnehmer
+Nach Regionen und Stellen aufgegliedert angezeigt.
+Statistik für Kundenbetreuer (K)
+Der Kundenbetreuer erhält nur Informationen wie viele Personen von ihm nominiert wurden und wie
+viele dieser Personen zur Veranstaltung zugesagt, abgesagt bzw. teilgenommen haben.
+Hinweis: Die Auswahlbox „Kategorie“ wird nur dann angezeigt, wenn für die Veranstaltung in den
+Stammdaten Kontingentkategorien festgelegt wurden. Wenn in der Auswahlbox keine Kategorie
+ausgewählt wird, werden die Summen aller Kategorien angezeigt.
+Events Benutzerhandbuch Seite 53
+08/2007
+6.3 Veranstaltung Anlegen (V)
+Für das Anlegen einer Veranstaltung brauchen sie die Rolle Veranstaltungsplaner.
+6.3.1 Neue Veranstaltung
+Aus der Veranstaltungsliste können sie mit Neu eine neue Veranstaltung anlegen.
+Sie gelangen auf die Stammdatenseite einer Veranstaltung.
+Seite 54 Events Benutzerhandbuch
+08/2007
+Füllen sie mindestens alle mit * gekennzeichneten Felder aus und drücken sie Fertig um die neue
+Veranstaltung zu speichern. Details über die Eingabe der einzelnen Datenfelder finden sie im Kapitel
+„Veranstaltung Stammdaten“.
+Events Benutzerhandbuch Seite 55
+08/2007
+6.3.2 Veranstaltung Kopieren
+Eine andere Möglichkeit, eine Veranstaltung anzulegen, deren Stammdaten ähnlich gelagert sind wie
+bei einer bereits durchgeführten Veranstaltung, ist das Kopieren einer Veranstaltung.
+Mit der Veranstaltungssuche wird die gewünschte Veranstaltung gesucht:
+Selektieren sie die gewünschte Veranstaltung aus der Trefferliste mittels dem Radiobutton links
+neben der Veranstaltung. Mit Kopieren wird der Kopiervorgang gestartet.
+Sie gelangen auf die Stammdatenseite der neu zu entstehenden Veranstaltung.
+Bei der Kopie werden alle Daten einer bestehenden Veranstaltung inklusive aller Einladungen und der
+Kontingentierung kopiert. Die meisten Felder sind nun bereits mit den Werten der früheren
+Veranstaltung ausgefüllt. Das Feld Datum wird leer gesetzt. Als Name wird „Kopie von <ursprünglicher
+Veranstaltungsname>“ eingesetzt. Korrigieren und ergänzen sie nun die Stammdaten.
+Seite 56 Events Benutzerhandbuch
+08/2007
+Mit Weiter gelangen sie nun zu den Kopieroptionen:
+ Keine Personen übernehmen: Es werden keine Personen aus der ursprünglichen Veranstaltung
+übernommen.
+ Personen als vorselektiert übernehmen: Es werden alle in der ursprünglichen Veranstaltung
+nominierten Personen als vorselektiert in die neue Veranstaltung übernommen. Diese
+vorselektierten Personen müssen dann vom Planer oder den Kundenbetreuern wieder bestätigt
+(nominiert) werden.
+ Personen als nominiert übernehmen: Die nominierten Personen der früheren Veranstaltung
+werden auch für die neue Veranstaltung nominiert.
+Mit Fertig schließen sie den Kopiervorgang ab und sie gelangen in die Stammdaten der neuen
+Veranstaltung.
+Hinweis: Personen die nicht übernommen werden können, weil diese bereits gelöscht wurden oder die
+Ansprechpartzuordnung zum Unternehmen nicht mehr existiert, werden in Form einer Fehlermeldung
+angezeigt und können zu Verfolgungszwecken ausgedruckt werden.
+Events Benutzerhandbuch Seite 57
+08/2007
+6.4 Veranstaltung Löschen (V)
+Anwender mit der Rolle "Veranstaltungsplaner" können eine Veranstaltung über die Trefferliste der
+Veranstaltungssuche identifizieren (Radiobutton). Es können nur "eigene" Veranstaltungen gelöscht
+werden.
+Mit Löschen wird die selektierte Veranstaltung gelöscht.
+Es werden zur Sicherheit nochmals die Stammdaten der Veranstaltung angezeigt.
+Wenn der Veranstaltungsbeginn in der Zukunft liegt und es bereits Einladungen mit Zusagen gibt, so
+wird eine zusätzliche Warnung ausgegeben.
+Seite 58 Events Benutzerhandbuch
+08/2007
+Sie können nun den Löschvorgang mit Abbrechen abbrechen oder mit Löschen die Veranstaltung
+trotz bestehender Zusagen löschen.
+Anwender mit der Rolle Veranstaltungsplaner können nur Veranstaltungen löschen, die sie selbst
+erstellt haben. Administratoren können alle Veranstaltungen löschen.
+Events Benutzerhandbuch Seite 59
+08/2007
+7 Personen
+Dieses Kapitel beschreibt die Funktionen zur Suche von Personen sowie die Ansicht und die
+Datenpflege Personen.
+Für die Informationen zu Unternehmen, die einer oder mehrerer Personen zugeordnet sind, gibt es
+den Themenblock „Unternehmen“. Unternehmen werden immer dann verwendet, wenn mehrere
+Personen einem Unternehmen zugeordnet sind und diese Personen über eine Firmenanschrift
+kontaktiert werden sollen.
+Z.B.:
+Es sollen zu einem Unternehmen mehrere Vorstände und Aufsichtsräte zu Veranstaltungen
+eingeladen werden. Alle diese Personen werden über die Firmenanschrift kontaktiert. Sie
+müssen daher die Anschrift nur einmal bei der Firma erfassen.
+Eine Zuordnung von OLAV-Personen zu OLAV-Unternehmen muss in SaM über
+Ansprechpartner durchgeführt werden.
+HINWEIS: Events Personen sollen nur dann verwendet werden, wenn es ausreichende Gründe dafür
+gibt, die Person nicht in OLAV als OLAV-Person anzulegen, z.B. weil man mit dieser Person kein
+Geschäft abwickeln wird. Events Personen können nur von Veranstaltungsplaner angelegt werden.
+7.1 Personen Suchen
+Verwenden sie die Personensuche um einzelne Personen zu suchen und diese für eine weitere
+Verarbeitung im Rahmen der Datenpflege zu identifizieren oder um Personendaten einzusehen. Die
+Personensuche insbesondere die Eingabe der Suchkriterien wird auch für Einladungen von Personen
+zu Veranstaltungen verwendet (siehe auch Kapitel „Veranstaltung Personen einfügen“).
+Wenn sie eine bestimmte Person zur Datenpflege oder zur Ansicht suchen, starten sie die Suche
+nach Personen über die Themennavigation „Personen“. Geben sie bitte die gewünschten
+Suchkriterien ein und wählen sie Suchen .
+Sie können festlegen ob sie genau eine bestimmte Person oder nach einem Funktionsträger in einem
+Unternehmen suchen wollen. Es stehen folgende Kriteriengruppen für die Suche zur Verfügung:
+ Person(1)
+ Person(2)
+ Unternehmen(1)
+ Unternehmen(2)
+ Ansprechpartner
+Seite 60 Events Benutzerhandbuch
+08/2007
+ Interessen
+Es werden immer die Kriterien aller Kriteriengruppen für eine Suche verwendet.
+OLAV Suche
+Wenn sie die Checkbox „inkl. OLAV“ anhaken, dann wird die Suche auch auf Personen in OLAV
+ausgedehnt (längere Antwortzeiten!). Wenn sie die Checkbox nicht anhaken, dann werden nur nach
+Events-Personen gesucht.
+Mindestkriterien
+Sie müssen für die Suche mindestens
+ 3 Zeichen von Zuname aus der Kriteriengruppe Person(1) oder
+ VIP-Kennzeichen aus der Kriteriengruppe Person(1) oder
+ 3 Zeichen von Firmenname1 aus der Kriteriengruppe Unternehmen(1) oder
+ eine Organisationseinheit (Region/Stelle/Mitarbeiter) oder
+ mindestens ein Interesse (Persönliches Interesse/Unternehmens Interesse) aus der
+Kriteriengruppe Interessen oder
+ mindestens eine Events-Funktion aus der Kriteriengruppe Ansprechpartner
+angeben.
+7.1.1 Kriteriengruppe Person(1)
+Name und Anschrift
+Bei den Suchkriterien können sie den Namen oder Teile der Adresse der gewünschten Person
+angeben. Sie können bei der Texteingabe von Suchkriterien auch nur Teile des gesuchten Inhalts in
+ein Eingabefeld eingeben. In diesem Fall müssen sie das Zeichen „*“ für beliebige Zeichenketten an
+den Suchbegriff anfügen.
+Z.B.
+Zuname „Hinterbuchinger“ sucht alle Personen mit Zunamen „Hinterbuchinger“.
+Zuname „Hinterbuch*“ sucht alle Personen deren Name mit „Hinterbuch“ beginnt.
+Bei der Eingabe von Zuname oder Vorname wird die Groß/Kleinschreibung nicht beachtet, d.h sie
+können „hinterbuchinger“ als Suchkriterium angeben um „Hinterbuchinger“ zu suchen.
+Auch bei der Ortsangabe wird die Groß/Keinschreibung nicht beachtet, d.h. wenn sie „wien“ eingeben
+werden Personen mit Wohnsitz „Wien“ gefunden.
+Bei den Adressdaten kann nur nach der in Events festgelegten Standardadresse einer Person
+gesucht werden. Diese Adresse kann entweder eine persönliche Adresse der Person oder aber auch
+eine Adresse des Unternehmens, in dem die Person ein Funktionsträger ist, sein.
+Events Benutzerhandbuch Seite 61
+08/2007
+Region/Stelle/Mitarbeiter
+Über Auswahl einer Region, Stelle oder Mitarbeiter kann die Suche auf Personen eingeschränkt
+werden die dieser Region (bzw. Organisationseinheit), Stelle oder dem Mitarbeiter zugeordnet sind.
+Die Zuordnung einer OLAV-Person zu einem Mitarbeiter erfolgt über die Betreuerbeziehung in OLAV.
+Die Zuordnung einer Events-Person zu einem Mitarbeiter wird bei der Neuanlage der Events-Person
+festgelegt. D.h. der Mitarbeiter, der die Events-Person anlegt, ist auch der primäre Verwender dieser
+Person (siehe auch Kapitel „Person Details“).
+Jeder Mitarbeiter ist organisatorisch über seine Kostenstelle einer Stelle und die Stelle einer Region
+zugeordnet. Sie können durch Auswahl einer Region oder einer Stelle die Suche auf Personen dieser
+Stelle resp. dieser Region einschränken.
+HINWEIS: Wenn sie Personen einer Region suchen, so werden nur Personen, die dieser Region
+direkt zugeordnet sind, gesucht. Die Region wird sozusagen als Stelle eingesetzt. Wenn diese Region
+untergeordnete Stellen hat, so müssen sie Personen dieser Stellen durch eine Einschränkung auf die
+entsprechende Stelle suchen. Eine Suche nach allen Personen einer Region inklusive aller
+untergeordneten Stellen ohne weitere Einschränkung würde im OLAV zu viele Ressourcen
+verbrauchen und bei großen Regionen sehr schlechte Antwortzeiten haben.
+Wenn Sie aber zusätzlich zur Einschränkung auf eine Region eine Einschränkung nach „VIP“-
+Personen, nach Events-Funktionen oder nach Interessen machen, so wird die Suche auf alle
+Personen einer Region inkl. aller Stellen dieser Region ausgedehnt.
+Wenn sie z.B. Region „8319 Group Public Relations“ wählen, so werden nur jene Personen gesucht,
+die von Mitarbeitern der Stelle 8319 für eine Verwendung gekennzeichnet wurden, da Mitarbeiter
+dieser Stelle keine Betreuungsrollen in OLAV haben können.
+Hinweis: Beim Start der Personensuche in der Rolle „Kundenbetreuer“ wird die Kennung des aktuellen
+Benutzers automatisch in der Auswahl „Mitarb.“ selektiert. Beim Start in der Rolle
+Veranstaltungsplaner erfolgt keine automatische Selektion.
+VIP
+Sie können die Suche auch nach Personen einschränken, die das  Vip-Kennzeichen gesetzt haben.
+Das VIP-Kennzeichen wird in den Stammdaten einer Person gesetzt (siehe auch Kapitel "Personen
+Stammdaten“).
+KuNr.:
+OLAV Kundennummer einer OLAV Person.
+Hinweis: Wenn sie eine OLAV Kundennummer eingeben werden alle anderen eingegebenen Kriterien
+ignoriert.
+7.1.2 Kriteriengruppe Person(2)
+Seite 62 Events Benutzerhandbuch
+08/2007
+In der Kriteriengruppe Personen(2) können sie die Suche über verschiedene Kriteriengruppen einer
+Person einschränken:
+ Beruf/Tätigkeit von Selbständigen Personen
+ Kundenstufe
+ Kundensegment
+ Kundenrating
+einschränken. Für jedes dieser Kriterien können sie eines oder mehrere Auswahlmöglichkeiten
+selektieren.
+Über das Icon + können sie die diversen Auswahlmöglichkeiten für Kriterium aufklappen und dann
+die einzelnen Kriteriumsoptionen über die Checkbox selektieren. Über die Checkbox neben dem
+Kriterium können sie alle Kriteriumsoptionen selektieren bzw. deselektieren.
+7.1.3 Kriteriengruppe Unternehmen(1)
+In der Kriteriengruppe Unternehmen(1) können sie die Suche nach Funktionsträgern eines
+Unternehmens über den Firmennamen (Firmenname 1 und Firmenname 2) oder OLAV
+Kundennummer einschränken.
+Sie können bei der Texteingabe von Firmenname 1 auch nur Teile des gesuchten Inhalts in das
+Eingabefeld eingeben. In diesem Fall müssen sie das Zeichen „*“ für beliebige Zeichenketten an den
+Suchbegriff anfügen.
+Z.B.
+Zuname „Siemens“ sucht alle Funktionsträger in Firmen die „Siemens“ im Firmenwortlaut
+haben.
+Zuname „Siem*“ sucht alle Funktionsträger in Firmen die mit „Siem“ beginnen.
+Bei der Eingabe von Firmenname 1 oder Firmenname 2 wird die Groß/Kleinschreibung nicht beachtet,
+d.h sie können „siemens“ als Suchkriterium angeben um „Siemens“ zu suchen.
+Hinweis: Es kann vorkommen, dass in der Trefferliste der Suche Firmen angezeigt werden, die
+offensichtlich nicht den Suchkriterien entsprechen. Erklärung: In der Trefferliste wird nur der
+Kurzwortlaut der Firma angezeigt. In der Suche wird aber der volle Firmenwortlaut verwendet.
+Events Benutzerhandbuch Seite 63
+08/2007
+7.1.4 Kriteriengruppe Unternehmen(2)
+In der Kriteriengruppe Unternehmen(2) können sie die Suche nach Funktionsträgern eines
+Unternehmens über
+ Branche (Hauptbranchen)
+ Kundenkategorie
+ Kundenstufe
+ Kundensegment
+ Kundenrating
+einschränken. Für jedes dieser Kriterien können sie eines oder mehrere Auswahlmöglichkeiten
+selektieren.
+Über das Icon + können sie die diversen Auswahlmöglichkeiten für Kriterium aufklappen und dann
+die einzelnen Kriteriumsoptionen über die Checkbox selektieren. Über die Checkbox neben dem
+Kriterium können sie alle Kriteriumsoptionen selektieren bzw. deselektieren.
+7.1.5 Kriteriengruppe Ansprechpartner
+Über die Kriteriengruppe Ansprechpartner können sie die Funktion einer Person im Unternehmen für
+die Selektion auswählen. Die Funktionen sind in 2 Gruppen gegliedert:
+ (Links) Funktionen für Ansprechpartner die von SaM vorgegeben sind.
+ (Rechts) Funktionen, die in Events definiert wurden und auch nur auf Events-Personen
+anwendbar sind. Diese Funktionen wurden über die Administration der Events Anwendung
+definiert (siehe auch Kapitel „Administration Funktionen“).
+Seite 64 Events Benutzerhandbuch
+08/2007
+Über das Icon + können sie die diversen Auswahlmöglichkeiten für Kriterium aufklappen und dann
+die einzelnen Kriteriumsoptionen über die Checkbox selektieren. Über die Checkbox neben dem
+Kriterium können sie alle Kriteriumsoptionen selektieren bzw. deselektieren.
+7.1.6 Kriteriengruppe Interessen
+In der Kriteriengruppe Interessen können sie den Interessen
+ Persönliche Interessen und
+ Berufliche Interessen von Ansprechpartner
+einschränken. Für jedes dieser Kriterien können sie eines oder mehrere Auswahlmöglichkeiten
+selektieren.
+Über das Icon + können sie die diversen Auswahlmöglichkeiten für Kriterium aufklappen und dann
+die einzelnen Kriteriumsoptionen über die Checkbox selektieren. Über die Checkbox neben dem
+Kriterium können sie alle Kriteriumsoptionen selektieren bzw. deselektieren.
+7.1.7 Suche Starten
+Sobald sie alle Suchkriterien eingegeben haben, können sie den Suchvorgang mit der Schaltfläche
+Suchen Starten.
+Mit Neue Suche können sie die Eingaben in den Suchkriterien in allen Kriteriengruppen wieder auf
+die Standardwerte zurücksetzen.
+Events Benutzerhandbuch Seite 65
+08/2007
+7.1.8 Trefferliste
+Aus der Trefferliste können sie einfach zu einer Person weiternavigieren. Sie können entweder direkt
+auf die Stammdaten (Spalte Person), die Unternehmensinformationen (Spalte Unternehmen) oder die
+Adressen (Spalte Adresse) weiternavigieren.
+Für OLAV-Personen und OLAV-Unternehmen können sie die OLAV-Kundennummern einblenden,
+wenn sie den Mauszeiger über dem Namen der Person resp. dem Namen des Unternehmens
+positionieren. Alle Personen, die keine Kundennummer haben sind Events-Personen.
+Eventspersonen, sind durch  Radiobuttons in der linken Spalte einfach zu erkennen.
+Wenn sie den Mauszeiger über einer Adresse positionieren, wird die vollständige Adresse angezeigt.
+Seite 66 Events Benutzerhandbuch
+08/2007
+Sie sehen weiters die volle Adresse, wenn sie den Mauszeiger über der Adresse positionieren.
+(V) Nur Veranstaltungsplaner können eine Events-Person in der Trefferliste über den  Radiobutton
+in der ganz linken Spalte selektieren um sie zu löschen oder mit einer anderen Events Person
+verknüpfen. (siehe auch Kapitel „Events Person Löschen“ und Events-Personen Verknüpfen“).
+HINWEIS: Sollten nicht alle Treffer einer Suche auf einer Seite Platz finden, so können sie über die
+Links im Fußbereich der Liste blättern.
+7.2 Person Details
+Sie können die Informationen für in Events angelegte Personen ändern, indem sie die Person suchen
+und aus der Trefferliste die gewünschte Person selektieren (siehe Kapitel Personen Suche).
+Sobald sie eine Person aus der Trefferliste gewählt haben, erscheint der Objektnavigator für die
+Person im Navigationsteil.
+Über diesen Objektnavigator können sie nun zu einer der angezeigten Datengruppen verzweigen um
+die Daten anzuzeigen bzw. zu ändern.
+In den einzelnen Datengruppen können unterschiedlich zwischen OLAV Personen und Events
+Personen aufgebaut sein. Für OLAV Personen wird in der Titelleiste der Formulare neben dem
+Kurzwortlaut auch die OLAV Kundennummer angezeigt.
+HINWEIS: Sie haben im Objektnavigator auch die Links < und > zum Blättern in der Trefferliste. Sie
+können damit zur nächsten resp. vorigen Person in der ursprünglichen Trefferliste aus der
+Personensuche wechseln ohne die Suche nochmals auszuführen.
+Events Benutzerhandbuch Seite 67
+08/2007
+7.2.1 Person Stammdaten
+(V) Veranstaltungsplaner können die Stammdaten von in Events angelegten Personen ändern.
+Stammdaten von in OLAV angelegten Personen müssen in SaM geändert werden (ausgenommen
+VIP Kennzeichen und Standardtelefonnummer).
+Verwenden sie die Schaltfläche Übernehmen um die Änderungen zu speichern.
+OLAV Person
+Seite 68 Events Benutzerhandbuch
+08/2007
+Felder im Detail:
+VIP Kennzeichen: (V) Das Kennzeichen  VIP kann nur von einem „Veranstaltungsplaner“ geändert
+werden und ist auch nur einem Veranstaltungsplaner sichtbar.
+Telefon/Fax: Nummern die in SaM als Hauptnummer markiert sind, werden in der Liste mit
+dem Zusatztext „Hauptnummer“ ausgewiesen.
+Neben den eigenen Nummern werden bei Personen die auch Ansprechpartner
+von Unternehmen sind, die in SaM beim Ansprechpartner erfassten Telefon- und
+Faxnummern angezeigt. Die Unterscheidung der einzelnen Zuordnungen erfolgt
+einerseits durch den Zusatz “Eigene“ bzw. durch den Kurzwortlaut des
+Unternehmens.
+Eine der Telefonnummern kann als Standardtelefonnummer über die 
+Radiobuttons selektiert werden, die in diversen Listendarstellungen verwendet
+wird. Über die  Checkbox „Standardtelefonnummer zurücksetzen“ kann die
+Selektion der Standardtelefonnummer wieder entfernt werden.
+Wenn für Ansprechpartner alle Telefon- und Faxnummern angezeigt werden soll,
+ist die  Checkbox „Alle Unternehmensnummern anzeigen“ zu selektieren.
+Betreuer: In der Liste der Betreuer werden alle Mitarbeiter des Betreuungsteam angezeigt.
+Events Person (V)
+Events Benutzerhandbuch Seite 69
+08/2007
+Felder im Detail:
+Zuname*/Vorname: Für Zu- und Vorname stehen jeweils maximal 32 Zeichen zur Verfügung und es
+muss zumindest der Zuname vorhanden sein.
+VIP Kennzeichen: Das Kennzeichen  VIP kann nur von einem „Veranstaltungsplaner“ geändert
+werden und ist auch nur einem Veranstaltungsplaner sichtbar.
+Anrede: Die Anrede wird automatisch beim Speichern gebildet und kann aber
+überschrieben werden.
+Notiz: Hier können sie zusätzliche Informationen erfassen. Die hier erfassten Notizen
+werden nur in den Stammdaten verwendet.
+Telefon/Fax: Sie können mehrere Kommunikationsnummern (Telefonnummer, Faxnummer,
+Handynummer) erfassen. Verwenden sie dazu den Link Neu. Mit Löschen können
+sie einzelne Kommunikationsnummern wieder entfernen.
+Neben den eigenen Nummern, werden bei Personen die auch Ansprechpartner
+von Unternehmen sind, alle Nummern der zugeordneten Unternehmen angezeigt.
+Die Unterscheidung der einzelnen Zuordnungen erfolgt einerseits durch den
+Zusatz “Eigene“ bzw. durch den Kurzwortlaut des Unternehmens.
+Eine der Telefonnummern kann als Standardtelefonnummer über die 
+Radiobuttons selektiert werden, die in diversen Listendarstellungen verwendet
+wird. Über die  Checkbox „Standardtelefonnummer zurücksetzen“ kann die
+Selektion der Standardtelefonnummer wieder entfernt werden.
+Wenn für Ansprechpartner alle Telefon- und Faxnummern angezeigt werden soll,
+ist die  Checkbox „Alle Unternehmensnummern anzeigen“ zu selektieren.
+Seite 70 Events Benutzerhandbuch
+08/2007
+7.2.2 Person Unternehmen
+Mit Auswahl von "Unternehmen" in der Objektsicht erscheinen die zugeordneten Unternehmen zu der
+Person. Sie erhalten Information darüber, welche Funktion bzw. welche Unternehmensinteressen die
+gesuchte Person in einem bestimmten oder mehreren Unternehmen ausübt.
+In der Auswahlliste „Unternehmen“ können sie das gewünschte Unternehmen wählen, in dem die
+Person eine Funktion als Ansprechpartner ausübt.
+Events Benutzerhandbuch Seite 71
+08/2007
+HINWEIS: Sie können direkt über den Link Unternehmen zu den Stammdaten des Unternehmens
+wechseln.
+Bei jeder Beziehung von einer Person zu einem Unternehmen können eine oder mehrere Funktionen
+und Unternehmensinteressen für die Person ausgewählt werden. Für OLAV Personen können diese
+nur in SaM bei den Ansprechpartnerdaten geändert werden, wobei die Unternehmensinteressen beim
+Ansprechpartner unter beruflichen Interessen zu ändern sind.
+Änderungen werden mit der Schaltfläche Übernehmen gespeichert.
+Unternehmen zuordnen (V)
+Anwender mit der Rolle Veranstaltungsplaner können in Events angelegte Personen neuen Firmen
+zuordnen, bzw. Zuordnungen löschen (ist bei OLAV-Unternehmen/Personen nicht möglich!).
+Für Veranstaltungsplaner erscheint in der unteren Zeile neben der Schaltfläche Übernehmen
+zusätzlich Löschen und Neu :
+Mit der Schaltfläche Neu gelangen sie in die Unternehmenssuche um ein Events Unternehmen
+zuzuordnen (siehe auch Kapitel „Unternehmen Suchen“).
+Wählen sie das gewünschte Unternehmen in der Trefferliste über den  Radiobutton links neben dem
+Firmennamen und ordnen sie das Unternehmen mit Weiter der Person zu. Es erscheint wieder die
+Unternehmensauswahl aus Sicht der Person und sie können nun die Funktionen und
+Unternehmensinteressen ändern.
+Seite 72 Events Benutzerhandbuch
+08/2007
+Mit der Schaltfläche Fertig schließen sie die Zuordnung ab und mit Abbrechen können sie den
+gesamten Vorgang abbrechen.
+Events Benutzerhandbuch Seite 73
+08/2007
+Unternehmenszuordnung löschen (V)
+Mit Löschen kann eine Beziehung der Events-Person zu einem Events-Unternehmen gelöscht
+werden. Das Events-Unternehmen bleibt dabei erhalten. Es wird nur die Verbindung zwischen der
+Person und dem Unternehmen aufgelöst. Zur Sicherheit erhalten Sie vom System eine Rückmeldung,
+die nochmals mit Löschen bestätigt werden muss:
+Seite 74 Events Benutzerhandbuch
+08/2007
+7.2.3 Person Adressen
+Sie können für E-Mail- und Postadressen die Standardzuordnung setzen und Veranstaltungsplaner
+können für Events-Person in diesem Formular Adressen einfügen, ändern und löschen.
+Mit Übernehmen werden alle Änderungen auf der Seite gespeichert.
+OLAV Personen
+Bei OLAV Personen können die eigentlichen Adressdaten nur über SaM geändert werden. Für OLAV
+Personen können sie hier nur die Standard Postadresse über das Setzen eines  Radiobuttons
+definieren bzw. über die . Checkbox „Standardadresse zurücksetzen“ wieder entfernen.
+Adressen die in SaM als Hauptadressen markiert sind, werden in der Liste mit dem Zusatztext
+„Hauptemailadresse“ bzw. „Hauptsitz“ ausgewiesen.
+Events Benutzerhandbuch Seite 75
+08/2007
+Für Ansprechpartner von Unternehmen werden für OLAV Personen neben den eigenen E-Mail- und
+Postadressen die Ansprechpartneradressen angezeigt, wobei bei den Ansprechpartneradressen
+zusätzlich der Kurzwortlaut des Unternehmens angezeigt wird.
+Jenes Unternehmen das in SaM als „bevorzugtes Unternehmen“ gekennzeichnet ist, ist in der
+Adressliste durch ein „*“ gekennzeichnet.
+Für die Ermittlung der Versandadresse einer OLAV Person werden folgende Regeln:
+ Person ist Ansprechpartner eines Unternehmens: Wenn in Events eine Standardadresse
+definiert ist, wird diese verwendet. Wenn keine Standardadresse definiert ist, wird die in OLAV
+definierte Ansprechpartneradresse des bevorzugten Unternehmens verwendet. Ist beim
+bevorzugten Unternehmen keine Adresse definiert, wird die Hauptsitzadresse des
+bevorzugten Unternehmens verwendet. Gibt es kein bevorzugtes Unternehmen bzw. ist keine
+Adresse beim Unternehmen definiert, wird die Adresse der Person (siehe unteren Punkt)
+verwendet.
+ Person ist kein Ansprechpartner eines Unternehmens: Wenn in Events eine Standardadresse
+definiert ist, wird diese verwendet. Wenn keine Standardadresse definiert ist, wird, falls
+vorhanden, die „abweichende Mailinganschrift“, ansonst die Hauptwohnsitzadresse
+verwendet.
+Events Person (V)
+Mit Neu können sie eine neue Adresse erfassen. In der ersten Spalte der Adresslisten können sie
+jene Adresse kennzeichnen, die als Standardadresse verwendet werden soll. Mit Löschen können
+sie nicht mehr benötigte Adressen wieder löschen.
+Standard Adressen können sie über das Setzen eines  Radiobuttons definieren bzw. über die .
+Checkbox „Standardadresse zurücksetzen“ bzw. „Standard E-Mailadresse zurücksetzen“ wieder
+entfernen.
+Seite 78 Events Benutzerhandbuch
+7.2.4 Person Marketing
+Im Formular Marketing, erreichbar über die Objektnavigation "Marketing" können sie
+marketingrelevante Informationen zu einer Person einsehen bzw. ändern: den bevorzugten
+Kommunikationsweg, persönliche Interessen und (unternehmensunabhängige) Events Funktionen.
+Mit Übernehmen werden alle Änderungen auf der Seite gespeichert.
+OLAV Person
+Events Benutzerhandbuch Seite 77
+08/2007
+Für OLAV Personen sind die Kommunikationskanäle und die persönlichen Interessen über SaM zu
+ändern.
+Events Person (V)
+Die  Checkbox „Kein Werbematerial“ hat nur Informationscharakter und wird sonst nicht verwendet.
+Die (Events-) Funktionen werden nur für Events Personen verwendet und werden durch
+Administratoren gepflegt (siehe Kapitel „Administration Funktionen“).
+Seite 78 Events Benutzerhandbuch
+7.2.5 Person Veranstaltungen
+Über das Formular „Veranstaltungen“ sehen sie alle Veranstaltungen zu denen die Person eingeladen
+wurde.
+Sie können nun über die Spalte „Abges.“ (=abgesagt), die Absage der Person vermerken. In der
+Spalte „Zuges.“ können sie die Anzahl der Teilnehmer modifizieren. Diese Änderungen können nur bis
+zum Veranstaltungsbeginn durchgeführt werden.
+Die Spalte „Teilgen.“ (= teilgenommen) ist erst aktiv, wenn das Veranstaltungsdatum erreicht wurde.
+Die Spalte „Löschen“ (= von der Einladungsliste löschen) ist nur aktiv, solange der Einladungsschluss
+einer Veranstaltung nicht erreicht wurde.
+Durch Auswahl des Icons gelangt man in die Nominierungsdetails der Person. Neben den
+Attributen die auch in der Personenliste gesetzt werden können, können sie in der Detailseite den
+Einladenden und das Unternehmen ändern, sowie weitere Attribute wie Notiz, Kontingentkategorie,
+Begleitpersonen usw. gesetzt werden (siehe Kapitel „Nominierungsdetails“. Wenn sie den Mauszeiger
+über das Icon positionieren, wird die Personalnummer des Mitarbeiters der die letzte Änderung
+durchgeführt hat und das letzte Änderungsdatum angezeigt. Das Icon zeigt an, das in den
+Nominierungsdetails zusätzliche Attribute die in der Liste selbst nicht angezeigt werden, vorhanden
+sind.
+Die Liste ist über die Spalten Datum, Name und Einladender sortierbar.
+Mit Übernehmen werden die Änderungen gespeichert.
+Events Benutzerhandbuch Seite 79
+08/2007
+7.2.6 Person Verwendung
+Alle Personen (OLAV-Personen und Events-Personen) können von einem Benutzer für eine
+längerfristige Marketingverwendung gekennzeichnet werden. Über die Zuordnung des Mitarbeiters zu
+einer Stelle und/oder einer Region wird damit die Person auch indirekt einer Stelle resp. einer Region
+zugeordnet.
+Bei Events-Personen muss mindestens eine Verwendung definiert sein. Diese Verwendung wird schon
+bei der Neuanlage der Events-Person festgelegt. Für OLAV Personen ist die Verwendung über das
+Betreuerteam einzufügen. Dazu ist die Rolle „Spezialist Marketing“ zu verwenden.
+Der Grund für Definition von Verwendungen ist die Kennzeichnung von Personen für die „Verwendung“
+durch eine Organisationseinheit. Damit können bestimmte Organisationseinheiten, die nicht direkt mit
+der Kundenbetreuung betraut sind, wie z.B. GPR, die für sie wichtigen Personen kennzeichnen. Bei der
+Suche nach Personen für Einladungen kann die Organisationseinheit (Region oder Stelle) oder der
+Mitarbeiter als Suchkriterium eingegeben werden. So können einfach alle Personen für eine
+Organisationseinheit bzw. einen Mitarbeiter gefunden werden.
+Hinweis: Die Definition von Verwendungen ist ergänzend zu den in OLAV definierten Betreuungen zu
+sehen.
+Über die Objektnavigation „Verwendung“ können sie die aktuellen Verwendungen einer Person
+einsehen und ändern.
+Mit Neu können sie eine neue Verwendung anlegen. Im Eingabeformular für die Verwendung muss nun
+ein Mitarbeiter ausgewählt werden.
+Mit Löschen können sie eine bestehende Verwendung einer Person wieder löschen.
+Mit Ändern können die Daten einer Verwendung (Region, Stelle, Mitarbeiter) geändert werden.
+Mit der Schaltfläche Übernehmen speichern sie die aktuellen Änderungen der Seite.
 
-Evento "Torneo golf Formazione"
- Cancellare il vecchio evento.
- Creare di nuovo "Torneo golf Formazione" (vedi capitolo Invitare a eventi).
- Effettuare la preselezione con interesse Golf e la rispettiva regione.
+Events Benutzerhandbuch Seite 81
+08/2007
+7.3 Events Person Anlegen (V)
+Events-Personen sollten sie nur dann anlegen, wenn es sowohl in OLAV als auch in Events diese
+Person noch nicht gibt und die Anlage dieser Person nicht in OLAV erfolgen soll. Es können nur
+Veranstaltungsplaner Events-Personen anlegen.
+HINWEIS: Sie können nur Events-Personen anlegen. OLAV-Personen müssen sie weiterhin im System
+OLAV anlegen. Auch wenn die Neuanlage von Personen in OLAV nur über die bestehenden HOSTTransaktionen
+ausgeführt werden kann, so ist das keine ausreichende Begründung diese Person in
+Events anzulegen. Deshalb können Events-Personen auch nur von Veranstaltungsplanern und nicht
+von Kundenbetreuern angelegt werden.
+Wählen sie in der Themennavigation „Personen“. Suchen sie nun nach der Person, die sie anlegen
+wollen (siehe auch Kapitel „Personen Suchen“). Falls sie die gewünschte Person nicht finden, starten
+sie die Neuanlage einer Events-Person über die Schaltfläche Neu aus dem Suchformular.
+Es erscheint ein Formular mit Stammdaten, die sie nun ausfüllen müssen. Alle Mussfelder sind mit
+einem „*“ gekennzeichnet.
+Mit Weiter kommen sie zum Adress-Formular, wo sie mindestens eine Adresse eingeben sollten.
+Mit Abbrechen können sie die Neuanlage abbrechen.
+Seite 116 Events Benutzerhandbuch
+08/2007
+Mit Zurück können sie nochmals zu den Stammdaten der neuen Events-Person zurückgehen.
+Mit Abbrechen können sie die gesamte Neuanlage abbrechen.
+Wenn sie eine Adresse erfasst haben, können sie mit Weiter zur Verwendung dieser Person gehen.
+HINWEIS: Sie müssen bei der Person nicht unbedingt eine Adresse erfassen, wenn sie diese Person
+später einem Unternehmen zuordnen und die Adresse des Unternehmens für Zusendungen verwenden
+wollen.
+Bei der Verwendung wird automatisch der aktuelle Benutzer eingesetzt. Sie können bei Bedarf weitere
+Verwender für diese neue Events-Person einfügen. Eine Events-Person muss mindestens einen
+Verwender haben.
+Mit Fertig schließen sie die Neuanlage der Events-Person ab. Mit Zurück können sie zur Eingabe
+der Adressen zurückgehen. Mit Abbrechen wird die gesamte Neuanlage abgebrochen.
+Nachdem sie die Neuanlage mit Fertig abgeschlossen haben, erscheint wieder das
+Stammdatenformular der neuen Events-Person und sie sehen links die Objektnavigation:
+Events Benutzerhandbuch Seite 83
+08/2007
+Events Person Löschen (V)
+Anwender mit der Rolle Veranstaltungsplaner können Events-Personen löschen indem sie die Person
+suchen (siehe Kapitel „Personen Suche“) und in der Trefferliste die gewünschte Person mit dem 
+Radionbutton markieren und die Schaltfläche Löschen drücken.
+Es können nur Events-Personen gelöscht werden. OLAV-Personen müssen in OLAV gelöscht werden.
+Mit Löschen werden nochmals die Stammdaten der Events-Person angezeigt. Kontrollieren sie nun
+die Daten.
+Sollte die zu löschende Events-Person bereits in einer Veranstaltung eingeladen sein, die noch nicht
+stattgefunden hat, so erhalten sie den Hinweis: „Die Person hat für zukünftige Veranstaltungen bereits
+Seite 116 Events Benutzerhandbuch
+08/2007
+zugesagt. ...“
+Kontrollieren sie nun ob sie die Events-Person auch löschen wollen, wenn diese bereits zu
+Veranstaltungen eingeladen wurde, und wählen sie Löschen um die Events-Person zu löschen bzw.
+Abbrechen um den gesamten Löschvorgang abzubrechen.
+Events Benutzerhandbuch Seite 85
+08/2007
+7.4 Events Person Verknüpfen (V)
+Sollte eine bestimmte Events-Person irrtümlich mehrmals angelegt worden sein, so kann diese mit
+einer anderen Person verknüpft werden. Die bereits erfassten Daten, wie Adressen, Funktionen,
+Interessen sowie alle Einladungen werden in die Zielperson der Verknüpfung übernommen. Es
+werden die Daten beider Personen logisch summiert.
+HINWEIS: Bei der Verknüpfung einer Events-Person mit einer OLAV-Person wird nur das VIPKennzeichen
+aus den Stammdaten und die Einladungen übernommen.
+Suchen sich zunächst die Events-Person, die in der zweiten Person aufgelöst werden soll (siehe
+Kapitel „Personen Suche“).
+Selektieren sie die gewünschte Person in der Trefferliste und wählen sie Verknüpfen .
+Seite 116 Events Benutzerhandbuch
+08/2007
+Sie sehen nun die Stammdaten der aufzulösenden Events-Person. Wenn es sich um die gewünschte
+Events-Person handelt, dann wählen sie Weiter um die Ziel-Person der Verknüpfung zu
+identifizieren.
+Wählen sie die gewünschte Person in der Trefferliste. Mit Weiter werden die Stammdaten der
+Zielperson angezeigt.
+Events Benutzerhandbuch Seite 87
+08/2007
+Mit Fertig wird nun die Verknüpfung ausgeführt. Sie können mit Zurück jederzeit in das letzte
+Formular zurückgehen. Mit Abbrechen können sie die gesamte Verknüpfung in jedem Formular
+abbrechen.
+Seite 116 Events Benutzerhandbuch
+08/2007
+8 Unternehmen
+Dieses Kapitel beschreibt die Funktionen zur Suche und Datenpflege von Events Unternehmen.
+Für die Informationen zu Unternehmen, die einer oder mehrerer Events-Personen zugeordnet werden
+können, gibt es den Themenblock „Unternehmen“. Events Unternehmen werden immer dann
+verwendet, wenn mehrere Events Personen einem Unternehmen zugeordnet werden können und
+diese Personen über eine Firmenanschrift kontaktiert werden sollen.
+Z.B.:
+Es sollen zu einem Unternehmen mehrere Vorstände und Aufsichtsräte zu Veranstaltungen
+eingeladen werden. Alle diese Personen werden über die Firmenanschrift kontaktiert. Sie
+müssen daher die Anschrift nur einmal bei der Firma erfassen.
+Eine Zuordnung von OLAV-Personen zu OLAV-Unternehmen muss in OLAV durchgeführt
+werden.
+Hinweis: Events Unternehmen sollen nur dann verwendet werden, wenn es ausreichende Gründe
+dafür gibt, das Unternehmen nicht in OLAV als OLAV-Unternehmen anzulegen, z.B. weil man mit
+diesem Unternehmen, Verein, Behörde keine Bankgeschäfte abwickeln wird.
+8.1 Unternehmen Suchen
+Verwenden sie die Unternehmenssuche um einzelne Unternehmen zu suchen und diese für eine
+weitere Verarbeitung im Rahmen der Datenpflege zu identifizieren oder Unternehmensdaten
+einzusehen.
+Wenn sie ein bestimmtes Unternehmen zur Datenpflege oder zur Ansicht suchen, starten sie die
+Suche nach Unternehmen über die Themennavigation „Unternehmen“. Geben sie bitte die
+gewünschten Suchkriterien ein und wählen sie Suchen .
+Sie können aus der Themennavigation über „Unternehmen“ zur Unternehmenssuche wechseln. Für
+die Eingabe von Suchkriterien stehen die Gruppen
+ Unternehmen(1)
+ Unternehmen(2)
+zur Verfügung. Es werden immer die Kriterien beider Kriteriengruppen für eine Suche verwendet.
+OLAV Suche
+Wenn sie die Checkbox „inkl. OLAV“ anhaken, dann wird die Suche auch auf Unternehmen in OLAV
+ausgedehnt (längere Antwortzeiten!). Wenn sie die Checkbox nicht anhaken, dann werden nur
+Events-Unternehmen gesucht.
+Events Benutzerhandbuch Seite 89
+08/2007
+Mindestkriterien
+Sie müssen für die Suche mindestens
+ 3 Zeichen von Firmenname1 aus der Kriteriengruppe Unternehmen(1) oder
+ eine Organisationseinheit (Region/Stelle/Mitarbeiter)
+angeben.
+8.1.1 Kriteriengruppe Unternehmen(1)
+Name Anschrift
+Bei den Suchkriterien können sie den Namen oder Teile der Adresse des gewünschten
+Unternehmens angeben. Sie können bei der Texteingabe von Suchkriterien auch nur Teile des
+gesuchten Inhalts in ein Eingabefeld eingeben. In diesem Fall müssen sie das Zeichen „*“ für
+beliebige Zeichenketten an den Suchbegriff anfügen.
+Z.B.
+Zuname „Siemens“ sucht alle Unternehmen mit dem Wort „Siemens“ im gesamten
+Firmenwortlaut. Z.B. „Siemens AG“.
+Zuname „Siemens*“ sucht alle Unternehmen mit Zeichenketten mit „Siem“ im gesamten
+Firmenwortlaut. Z.B. „ARGE Siemens-Elin“.
+Bei der Eingabe von Firmenname 1 oder Firmenname 2 und bei Ort wird die Groß/Kleinschreibung
+nicht beachtet, d.h sie können „siemens“ als Suchkriterium angeben um „Siemens“ zu suchen. Wenn
+sie bei der Ortsangabe „wien“ eingeben, werden Personen mit Wohnsitz „Wien“ gefunden.
+Bei den Adressdaten kann nur nach der in Events festgelegten Standardadresse eines Unternehmens
+gesucht werden.
+Organisationseinheit/Mitarbeiter
+Über Auswahl einer Region, Stelle oder Mitarbeiter kann die Suche auf Unternehmen eingeschränkt
+werden die dieser Region, Stelle oder dem Mitarbeiter zugeordnet sind.
+Die Zuordnung eines OLAV-Unternehmens zu einem Mitarbeiter erfolgt über die Betreuerbeziehung in
+OLAV. Die Zuordnung eines Events-Unternehmens zu einem Mitarbeiter wird bei der Neuanlage des
+Events-Unternehmens festgelegt. D.h. der Mitarbeiter, der das Events-Unternehmen anlegt, ist auch
+der primäre Verwender dieses Unternehmens (siehe auch Kapitel „Unternehmen Details“).
+Jeder Mitarbeiter ist organisatorisch über seine Kostenstelle einer Stelle und die Stelle einer Region
+zugeordnet. Sie können durch Auswahl einer Region oder einer Stelle die Suche auf Unternehmen
+dieser Region resp.dieser Stelle einschränken.
+HINWEIS: Wenn sie Unternehmen einer Region suchen, so werden nur Unternehmen, die dieser
+Region direkt zugeordnet sind, gesucht. Die Region wird sozusagen als Stelle eingesetzt. Wenn diese
+Region untergeordnete Stellen hat, so müssen sie Unternehmen dieser Stellen durch eine
+Seite 116 Events Benutzerhandbuch
+08/2007
+Einschränkung auf die entsprechende Stelle suchen. Eine Suche nach allen Unternehmen einer
+Region inklusive aller untergeordneten Stellen würde im OLAV zu viele Ressourcen verbrauchen und
+bei großen Regionen sehr schlechte Antwortzeiten haben.
+Wenn sie z.B. Region „8319 Group Public Relations“ wählen, so werden nur jene Unternehmen
+gesucht, die von Mitarbeitern der Stelle 8319 für eine Verwendung gekennzeichnet wurden, da
+Mitarbeiter dieser Stelle keine Betreuungsrollen in OLAV haben können.
+Beim Start der Unternehmenssuche wird die Kennung des aktuellen Benutzers automatisch in der
+Auswahl „Mitarb.“ selektiert.
+KuNr.:
+OLAV Kundennummer eines OLAV Unternehmen.
+Hinweis: Wenn sie eine OLAV Kundennummer eingeben werden alle anderen eingegebenen Kriterien
+ignoriert.
+8.1.2 Kriteriengruppe Unternehmen (2)
+In der Kriteriengruppe Unternehmen(2) können sie die Suche über:
+ Branche (Hauptbranchen)
+ Kundenkategorie
+ Kundenstufe
+ Kundensegment
+ Kundenrating
+einschränken. Für jedes dieser Kriterien können sie eines oder mehrere Auswahlmöglichkeiten
+selektieren.
+Über das Icon + können sie die diversen Auswahlmöglichkeiten für Kriterium aufklappen und dann
+die einzelnen Kriteriumsoptionen über die Checkbox selektieren. Über die Checkbox neben dem
+Kriterium können sie alle Kriteriumsoptionen selektieren bzw. deselektieren.
+8.1.3 Suche Starten
+Starten sie die Suche mit der Schaltfläche Suchen .
+Mit Neue Suche werden alle Suchkriterien der beiden Kriteriengruppen gelöscht und auf die
+Standardwerte zurückgesetzt.
+Events Benutzerhandbuch Seite 91
+08/2007
+8.1.4 Trefferliste
+Aus der Trefferliste können sie einfach zu einem Unternehmen weiternavigieren. Sie können entweder
+direkt auf die Stammdaten (Spalte Unternehmen) oder die Adressen (Spalte Adresse)
+weiternavigieren.
+In der Trefferliste werden der Firmenkurzwortlaut und die verkürzte Standardadresse (PLZ, Ort) des
+Unternehmens angezeigt.
+Bei OLAV-Unternehmen wird die OLAV Kundennummer angezeigt, wenn sie den Mauszeiger über
+dem Firmennamen positionieren. Alle Unternehmen, die keine Kundennummer haben sind Events-
+Unternehmen. Eventspersonen, sind durch  Radiobuttons in der linken Spalte einfach zu erkennen
+Wenn sie den Mauszeiger über einer Adresse positionieren, wird die vollständige Adresse angezeigt.
+(V) Nur Veranstaltungsplaner können ein Events-Unternehmen in der Trefferliste über den 
+Radiobutton in der ganz linken Spalte selektieren um sie zu löschen oder mit einer anderen Events
+Person verknüpfen. (siehe auch Kapitel „Events Unternehmen Löschen“ und Events-Unternehmen
+Verknüpfen“).
+HINWEIS: Sollten nicht alle Treffer einer Suche auf einer Seite Platz finden, so können sie über die
+Links im Fußbereich der Liste blättern.
+Seite 116 Events Benutzerhandbuch
+08/2007
+8.2 Unternehmen Details
+Um die Details eines Unternehmens anzeigen zu können, müssen sie zunächst das gewünscht
+Unternehmen suchen und die Objektansicht für das Unternehmen öffnen:
+ Themennavigation „Unternehmen“ auswählen.
+ Unternehmen suchen (siehe Kapitel Unternehmen Suchen).
+ Gewünschtes Unternehmen aus der Trefferliste der Suche mit Klick auf den Namen öffnen.
+ Gewünschte Informationsseite des Unternehmens aus der Objektnavigation des
+Unternehmens öffnen.
+Unterhalb der Themennavigation wird nun die Objektnavigation zum geöffneten Unternehmen
+angezeigt. Es wird automatisch auf die Stammdatenseite des Unternehmens verzweigt.
+Über diesen Objektnavigator können sie nun zu einer der angezeigten Datengruppen verzweigen um
+die Daten anzuzeigen bzw. zu ändern.
+In den einzelnen Datengruppen können unterschiedlich zwischen OLAV Unternehmen und Events
+Unternehmen aufgebaut sein. Für OLAV Unternehmen wird in der Titelleiste der Formulare neben
+dem Kurzwortlaut auch die OLAV Kundennummer angezeigt.
+HINWEIS: Sie haben im Objektnavigator auch die Links < und > zum Blättern in der Trefferliste. Sie
+können damit zur nächsten resp. vorigen Unternehmen in der ursprünglichen Trefferliste aus der
+Unternehmensuche wechseln ohne die Suche nochmals auszuführen.
+Events Benutzerhandbuch Seite 93
+08/2007
+8.2.1 Unternehmen Stammdaten
+(V) Veranstaltungsplaner können die Stammdaten von in Events angelegten Unternehmen ändern.
+Stammdaten von in OLAV angelegten Unternehmen müssen in SaM geändert werden (ausgenommen
+Standardtelefonnummer).
+Verwenden sie die Schaltfläche Übernehmen um die Änderungen zu speichern.
+OLAV Unternehmen
+Seite 116 Events Benutzerhandbuch
+08/2007
+Felder im Detail:
+Telefon/Fax: Nummern die in SaM als Hauptnummer markiert sind, werden in der Liste mit
+dem Zusatztext „Hauptnummer“ ausgewiesen.
+Neben den eigenen Nummern werden auch die Nummern der Ansprechpartner
+angezeigt. Die Unterscheidung der einzelnen Zuordnungen erfolgt einerseits
+durch den Zusatz “Eigene“ bzw. durch den Kurzwortlaut des Ansprechpartners.
+Eine der Telefonnummern kann als Standardtelefonnummer über die 
+Radiobuttons selektiert werden. Über die  Checkbox „Standardtelefonnummer
+zurücksetzen“ kann die Selektion der Standardtelefonnummer wieder entfernt
+werden.
+Branche: Die Branche des Unternehmens wird in Hauptbranche und falls vorhanden in
+Unterbranche dargestellt.
+Betreuer: In der Liste der Betreuer werden alle Mitarbeiter des Betreuungsteam angezeigt.
+Events Person (V)
+Felder im Detail:
+Name: Für den Namen stehen jeweils 3x maximal 32 Zeichen zur Verfügung.
+Kurzwortlaut: Der Kurzwortlaut wird in der Anzeige in diversen Darstellungen und Listen verwendet
+und kann maximal 32 Zeichen lang sein.Telefon/Fax: Sie können mehrere
+Kommunikationsnummern (Telefonnummer, Faxnummer, Handynummer) erfassen.
+Verwenden sie dazu den Link Neu. Mit Löschen können sie einzelne
+Kommunikationsnummern wieder entfernen.
+Events Benutzerhandbuch Seite 95
+08/2007
+Neben den eigenen Nummern, werden die Nummern von Ansprechpartner angezeigt.
+Die Unterscheidung der einzelnen Zuordnungen erfolgt einerseits durch den Zusatz
+“Eigene“ bzw. durch den Kurzwortlaut des Ansprechpartners.
+Eine der Telefonnummern kann als Standardtelefonnummer über die  Radiobuttons
+selektiert werden. Über die  Checkbox „Standardtelefonnummer zurücksetzen“ kann
+die Selektion der Standardtelefonnummer wieder entfernt werden.
+Branche: Die Branche des Unternehmens kann aus den Auswahllisten für Hauptbranche und
+falls vorhanden aus Unterbranche ausgewählt werden.
+Kategorie: Auswahlliste von Kundenkategorien.
+Seite 116 Events Benutzerhandbuch
+08/2007
+8.2.2 Unternehmen Personen
+Mit Auswahl von "Personen" in der Objektsicht erscheinen die zugeordneten Personen zu dem
+Unternehmen. Sie erhalten Information darüber, welche Funktion bzw. welche
+Unternehmensinteressen die Person im Unternehmen ausübt.
+In der Auswahlliste „Person“ können sie die gewünschte Person wählen, die eine Funktion als
+Ansprechpartner in dem Unternehmen ausübt.
+HINWEIS: Sie können direkt über den Link Person zu den Stammdaten der Person wechseln.
+Events Benutzerhandbuch Seite 97
+08/2007
+Bei jeder Beziehung von einem Unternehmen zu einer Person können eine oder mehrere Funktionen
+und Unternehmensinteressen für das Unternehmen ausgewählt werden. Für OLAV Unternehmen
+können diese nur in SaM bei den Ansprechpartnerdaten geändert werden, wobei die
+Unternehmensinteressen beim Ansprechpartner unter beruflichen Interessen zu ändern sind.
+Änderungen werden mit der Schaltfläche Übernehmen gespeichert.
+Personen zuordnen (V)
+Anwender mit der Rolle Veranstaltungsplaner können in Events angelegte Unternehmen neuen
+Personen zuordnen, bzw. Zuordnungen löschen (ist bei OLAV-Unternehmen/Personen nicht
+möglich!).
+Für Veranstaltungsplaner erscheint in der unteren Zeile neben der Schaltfläche Übernehmen
+zusätzlich Löschen und Neu :
+Mit der Schaltfläche Neu gelangen sie in die Personensuche um eine Events Person zuzuordnen
+(siehe auch Kapitel „Personen Suchen“).
+Wählen sie die gewünschte Person in der Trefferliste über den  Radiobutton links neben dem
+Namen und ordnen sie die Person mit Weiter dem Unternehmen zu. Es erscheint wieder die
+Personenauswahl aus Sicht des Unternehmens und sie können nun die Funktionen und
+Unternehmensinteressen ändern.
+Seite 116 Events Benutzerhandbuch
+08/2007
+Mit der Schaltfläche Fertig schließen sie die Zuordnung ab und mit Abbrechen können sie den
+gesamten Vorgang abbrechen.
+Personenzuordnung löschen (V)
+Mit Löschen kann eine Beziehung des Events-Unternehmen zu einer Events-Person gelöscht
+werden. Die Events-Person bleibt dabei erhalten. Es wird nur die Verbindung zwischen dem
+Unternehmen und der Person aufgelöst. Zur Sicherheit erhalten Sie vom System eine Rückmeldung,
+die nochmals mit Löschen bestätigt werden muss:
+Events Benutzerhandbuch Seite 99
+08/2007
+Seite 116 Events Benutzerhandbuch
+08/2007
+8.2.3 Unternehmen Adressen
+Sie können für Postadressen die Standardzuordnung setzen und Veranstaltungsplaner können für
+Events-Unternehmen in diesem Formular Adressen einfügen, ändern und löschen.
+Mit Übernehmen werden alle Änderungen auf der Seite gespeichert.
+OLAV Unternehmen
+Bei OLAV Unternehmen können die eigentlichen Adressdaten nur über SaM geändert werden. Für
+OLAV Unternehmen können sie hier nur die Standard Postadresse über das Setzen eines 
+Radiobuttons definieren bzw. über die . Checkbox „Standardadresse zurücksetzen“ wieder
+entfernen.
+Adressen die in SaM als Hauptadressen markiert sind, werden in der Liste mit dem Zusatztext
+„Hauptsitz“ ausgewiesen.
+Events Unternehmen (V)
+Mit Neu können sie eine neue Adresse erfassen. In der ersten Spalte der Adresslisten können sie
+jene Adresse kennzeichnen, die als Standardadresse verwendet werden soll. Mit Löschen können
+sie nicht mehr benötigte Adressen wieder löschen.
+Events Benutzerhandbuch Seite 101
+08/2007
+Standard Adressen können sie über das Setzen eines  Radiobuttons definieren bzw. über die 
+Checkbox „Standardadresse zurücksetzen“ wieder entfernen.
+Seite 116 Events Benutzerhandbuch
+08/2007
+8.2.4 Unternehmen Verwendung
+Alle Unternehmen (OLAV-Unternehmen und Events-Unternehmen) können von einem Benutzer für
+eine längerfristige Marketingverwendung gekennzeichnet werden. Über die Zuordnung des
+Mitarbeiters zu einer Stelle und/oder einer Region wird damit die Person auch indirekt einer Stelle
+resp. einer Region zugeordnet.
+Bei Events-Unternehmen muss mindestens eine Verwendung definiert sein. Diese Verwendung wird
+schon bei der Neuanlage der Events-Unternehmen festgelegt. Für OLAV Unternehmen ist die
+Verwendung über das Betreuerteam einzufügen. Dazu ist die Rolle „Spezialist Marketing“ zu
+verwenden.
+Der Grund für Definition von Verwendungen ist die Kennzeichnung von Unternehmen für die
+„Verwendung“ durch eine Organisationseinheit. Damit können bestimmte Organisationseinheiten, die
+nicht direkt mit der Kundenbetreuung betraut sind, wie z.B. GPR, die für sie wichtigen Unternehmen
+kennzeichnen. Bei der Suche nach Unternehmen oder Ansprechpartner für Einladungen kann die
+Organisationseinheit (Region oder Stelle) oder der Mitarbeiter als Suchkriterium eingegeben werden.
+So können einfach alle Unternehmen bzw. Ansprechpartner für eine Organisationseinheit bzw. einen
+Mitarbeiter gefunden werden.
+Hinweis: Die Definition von Verwendungen ist ergänzend zu den in OLAV definierten Betreuungen zu
+sehen.
+Über die Objektnavigation „Verwendung“ können sie die aktuellen Verwendungen eines
+Unternehmens einsehen und ändern.
+Mit Neu können sie eine neue Verwendung anlegen. Im Eingabeformular für die Verwendung muss
+nun ein Mitarbeiter ausgewählt werden.
+Mit Löschen können sie eine bestehende Verwendung eines Unternehmens wieder löschen.
+Mit Ändern können die Daten einer Verwendung (Region, Stelle, Mitarbeiter) geändert werden.
+Mit der Schaltfläche Übernehmen speichern sie die aktuellen Änderungen der Seite.
+Events Benutzerhandbuch Seite 103
+08/2007
+8.3 Events Unternehmen Anlegen (V)
+Events-Unternehmen sollten nur dann angelegt werden, wenn ein oder mehrere Events-Personen
+einem diesem Unternehmen zugeordnet werden sollen. Falls schon ein OLAV-Unternehmen existiert,
+so sollte das OLAV-Unternehmen verwendet werden. Nachdem aber Events-Personen keinem OLAVUnternehmen
+zugeordnet werden können, müssten in diesem Fall auch die Events-Personen mit den
+entsprechenden OLAV-Personen verknüpft werden und im Anschluss diese OLAV-Personen dem
+OLAV-Unternehmen in OLAV zugeordnet werden.
+Starten sie die Neuanlage eines neuen Events-Unternehmens aus der Trefferliste der
+Unternehmenssuche (siehe Kapitel „Unternehmen Suchen“) mit Neu .
+Es erscheint die Stammdatenseite für Events-Unternehmen.
+Mit Abbrechen können sie die Neuanlage abbrechen und in die Unternehmenssuche zurückgehen.
+Geben sie zumindest einen Namen für das Unternehmen ein. Mit Weiter gelangen sie zur Eingabe
+einer Adresse für das Unternehmen.
+Seite 116 Events Benutzerhandbuch
+08/2007
+Sie sollten mindestens eine Adresse für das neue Unternehmen eingeben. Mit Zurück gehen sie zur
+vorangehenden Stammdateneingabe zurück. Mit Abbrechen können sie die gesamte Anlage
+abbrechen. Mit Weiter gehen sie zur Definition der Verwendung dieses neuen Unternehmens.
+Als erste Verwendung ist automatisch der Benutzer eingetragen, der die Neuanlage des
+Unternehmens gestartet hat. Sie können nun weitere Verwendungen definieren. Es muss aber
+mindestens eine Verwendung vorhanden sein.
+Mit Fertig schließen sie die Anlage des Unternehmens ab. Sie gelangen in die Objektansicht
+(Stammdaten) des Unternehmens und können dort die Daten des neuen Unternehmens ändern bzw.
+ergänzen.
+Mit Zurück gehen sie zurück zur Eingabe der Adressen. Mit Abbrechen wird die Neuanlage ganz
+abgebrochen.
+8.4 Events Unternehmen Löschen (V)
+Es können nur Events-Unternehmen gelöscht werden. Für das Löschen muss der Benutzer die Rolle
+Veranstaltungsplaner haben. Gehen sie folgendermaßen vor:
+ Unternehmen in der Themennavigation selektieren.
+ Suchen sie das gewünschte Unternehmen über die Unternehmenssuche (siehe Kapitel
+Unternehmen Suchen).
+ Selektieren sie über den Radiobutton das gewünschte Unternehmen in der Trefferliste.
+ Wählen sie Löschen .
+Events Benutzerhandbuch Seite 105
+08/2007
+Es werden die Stammdaten des Unternehmens mit einem Hinweis angezeigt. Falls das Unternehmen
+von anderen OEs verwendet wird, so werden diese Verwender im Löschhinweis angezeigt.
+Wenn sie sicher sind, dass es sich um das gewünschte Unternehmen handelt, dann verwenden sie
+Löschen um das Unternehmen aus der Datenbank zu löschen. Mit Abbrechen können sie den
+Löschvorgang abbrechen.
+Seite 116 Events Benutzerhandbuch
+08/2007
+8.5 Events Unternehmen Löschen (V)
+Es können nur Events-Unternehmen gelöscht werden. Für das Löschen muss der Benutzer die Rolle
+Veranstaltungsplaner haben. Gehen sie folgendermaßen vor:
+ Unternehmen in der Themennavigation selektieren.
+ Suchen sie das gewünschte Unternehmen über die Unternehmenssuche (siehe Kapitel
+Unternehmen Suchen).
+ Selektieren sie über den Radiobutton das gewünschte Unternehmen in der Trefferliste.
+ Wählen sie Löschen .
+Es werden die Stammdaten des Unternehmens mit einem Hinweis angezeigt. Falls das Unternehmen
+von anderen OEs verwendet wird, so werden diese Verwender im Löschhinweis angezeigt.
+Events Benutzerhandbuch Seite 107
+08/2007
+Wenn sie sicher sind, dass es sich um das gewünschte Unternehmen handelt, dann verwenden sie
+Löschen um das Unternehmen aus der Datenbank zu löschen. Mit Abbrechen können sie den
+Löschvorgang abbrechen.
+Seite 116 Events Benutzerhandbuch
+08/2007
+8.6 Events Unternehmen Verknüpfen (V)
+Sollte ein Events-Unternehmen irrtümlich mehrfach angelegt worden sein, so können sie diese
+Unternehmen verknüpfen (Events-Unternehmen oder OLAV-Unternehmen). Bei einer Verknüpfung
+werden alle Daten des aufzulösenden Unternehmens in das Zielunternehmen integriert, sofern das
+Zielunternehmen sich um ein Events-Unternehmen handelt.
+Dies gilt insbesondere für:
+ Telefonnummern
+ Adressen
+ Verwendungen
+ Personen
+Bei einfachen Merkmalen wie Name, Branche oder Kategorie werden die Daten des
+Zielunternehmens verwendet.
+Suchen sie das Unternehmen das aufgelöst werden soll (siehe Kapitel Unternehmen Suchen):
+Selektieren sie gewünschte Unternehmen in der Trefferliste mit dem  Radiobutton und wählen sie
+Verknüpfen .
+Events Benutzerhandbuch Seite 109
+08/2007
+Es werden zur Sicherheit die Stammdaten des Unternehmens angezeigt. Gehen sie mit Weiter zur
+Unternehmenssuche weiter.
+Seite 116 Events Benutzerhandbuch
+08/2007
+Suchen sie nun das gewünschte Zielunternehmen und selektieren sie das Unternehmen in der
+Trefferliste über den  Radiobutton ganz links. Das Unternehmen, das sie mit dieser Verknüpfung
+auflösen wollen, können sie in der Liste nicht mehr selektieren.
+Mit Weiter gelangen sie zur Stammdatenseite des Zielunternehmens.
+Events Benutzerhandbuch Seite 111
+08/2007
+Verwenden sie nun Fertig um die Unternehmen zu verknüpfen. Mit Abbrechen wird die gesamte
+Verknüpfung abgebrochen. Mit Zurück können sie zur Unternehmenssuche zurückgehen.
+Seite 116 Events Benutzerhandbuch
+08/2007
+9 Mitarbeiter Suche
+Die Mitarbeitersuche wird entweder über die Benutzerauswahl in der Anwendungsnavigation oder aus
+Region/Stelle/Mitarbeiter Auswahl gestartet und über den aktuellen Anwendungsteil eingeblendet. Sie
+können die Mitarbeiter über die Suchkriterien entsprechend auflisten:
+Mitarbeitername: Name oder Teil des Namens des Mitarbeiters
+Personalnummer: N-Nummer
+Kostenstelle: Kostenstellennummer
+Stellenname: Name oder Teil des Namens der Stelle
+Geben Sie die Kriterien ein und starten sie die Suche mit Suchen. Mit Neue Suche setzen sie die
+Suchkriterien wieder zurück. In der Mitarbeiterliste sehen sie die Kennung, den Namen, die
+Kostenstelle und den Stellennamen für die Veranstaltung.
+Mit Übernehmen können sie den selektierten Mitarbeiter (Radiobutton) in den aktuellen Anwendungsteil
+übernehmen und die Mitarbeiter Suche wird geschlossen. Mit Abbrechen wird sofort in den
+aktuellen Anwendungsteil zurückgekehrt.
+Events Benutzerhandbuch Seite 113
+08/2007
+10 Administration
+Über die Themennavigation können sie, sofern sie Administrator sind, Anwendungsdaten
+administrieren, die für die gesamte Anwendung gelten.
+10.1 Veranstaltungsplaner (A)
+Ein Administrator kann die Rolle Veranstaltungsplaner für bestimmte Benutzer vergeben. Wählen sie
+dazu in der Themennavigation unter Administration den Punkt „Veranstaltungsplaner“. Sie erhalten
+eine Liste der aktuellen Veranstaltungsplaner.
+Sie können mit Löschen einen einzelnen Veranstaltungsplaner löschen, mit Ändern „Verantwortliche
+Stellen“ hinzufügen und mit Neu können sie einen Veranstaltungsplaner hinzufügen.
+Bei Neu und Ändern stehen Eingabefelder für die Mitarbeiterkennung und für die „Verantwortlichen
+Stellen“ zur Verfügung. In das Feld „Verantwortliche Stellen“ sind jene Kostenstellen einzutragen
+durch „,“ getrennt einzutragen, für die der Mitarbeiter noch zusätzlich verantwortlich ist, z.B. für
+Teilproduktionen:
+Seite 116 Events Benutzerhandbuch
+08/2007
+Mit OK bestätigen sie die Eingabe und mit Abbrechen können sie eine Neuanlage oder Änderung
+wieder abbrechen.
+Alle Änderungen der Seite müssen mit Übernehmen in der Datenbank gespeichert werden.
+Über die Link Mail können sie allen Veranstaltungsplaner eine E-Mail schreiben und über das
+Downloadsymbol werden die Mitarbeiterdaten der Veranstaltungsplaner und die die
+dazugehörigen Stellendaten in einem XLS Formular geöffnet.
+Events Benutzerhandbuch Seite 115
+08/2007
+10.2 Administratoren (A)
+Ein Administrator kann die Rolle Administrator für bestimmte Benutzer vergeben. Wählen sie dazu in
+der Themennavigation unter Administration den Punkt „Administrator“. Sie erhalten eine Liste der
+aktuellen Administratoren.
+Sie können mit Löschen einen einzelnen Administrator löschen und mit Neu können sie einen
+Administrator hinzufügen:
+Mit OK bestätigen sie die Eingabe und mit Abbrechen können sie eine Neuanlage wieder abbrechen.
+Alle Änderungen der Seite müssen mit Übernehmen in der Datenbank gespeichert werden.
+Über die Link Mail können sie allen Administratoren eine E-Mail schreiben und über das
+Downloadsymbol werden die Mitarbeiterdaten der Administrator und die die dazugehörigen
+Stellendaten in einem XLS Formular geöffnet.
+Seite 116 Events Benutzerhandbuch
+08/2007
+10.3 Funktionen (A)
+In der Verwaltung von Funktionen können sie Funktionsgruppen und einzelne Funktionen einer
+Funktionsgruppe verwalten:
+Mit Neue Gruppe bzw. Neues Element können neue Gruppen resp. Elemente angelegt werden. Jede
+neue Funktion wird an die letzte Position der aktuelle selektieren Gruppe eingefügt. Mit Hinauf und
+Hinunter kann Position des Elements geändert werden.
+Der Name eines Elements oder einer Gruppe kann im Eingabefeld unterhalb der Liste geändert
+werden. Eine Änderung muss mit Übernehmen bestätigt werden.
+Mit Löschen können sie das aktuell selektierte Element bzw. die aktuell selektierte Gruppe löschen.
+Wenn sie eine Gruppe löschen, werden alle enthalten Elemente ebenfalls gelöscht. Wenn ein zu
+löschendes Element bereits für Personen verwendet wurde, so kommt eine Rückfrage ob der
+Löschvorgang wirklich ausgeführt werden soll. Wenn sie nun den Löschvorgang bestätigen, so wird
+das Element auch bei allen Personen gelöscht.
+Events Benutzerhandbuch Seite 117
+08/2007
+10.4 Dirma Parameters (A)
+In der Druckproduktion einer Veranstaltung (siehe Kapitel „Veranstaltung Produktion“) kann mit den
+produzierten Daten eine E-Mail an das DIRMA Team gesendet werden. Die dazugehörigen Parameter
+können in diesem Formular von einem Administrator definiert werden:
+Eine Änderung muss mit Übernehmen bestätigt werden.
